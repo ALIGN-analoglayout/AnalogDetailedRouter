@@ -1,0 +1,390 @@
+# RX
+Layer name=nwell {
+
+  Type value=well
+}
+
+# SF; silicon fins; diffusion layer
+Layer name=diff pgd=hor {
+
+  Type value=diffusion
+   
+  Technology pitch=400
+}
+
+# gate layer
+Layer name=PC pgd=ver level=1 {
+
+  Type value=wire
+  Type value=poly
+   
+  Technology pitch=1000
+
+  ElectricallyConnected layer=CA
+}
+
+Layer name=TS pgd=ver level=1 {
+
+  Type value=wire
+   
+  Technology pitch=1000
+
+  ElectricallyConnected layer=CA
+}
+
+Layer name=CA level=2 {
+
+  Type value=via
+   
+  ElectricallyConnected layer=PC
+  ElectricallyConnected layer=TS
+  ElectricallyConnected layer=metal0
+}
+
+Layer name=metal0 pgd=hor level=3 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=CA
+  ElectricallyConnected layer=via0
+}
+
+Layer name=via0 level=4 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal0
+  ElectricallyConnected layer=metal1
+}
+
+Layer name=metal1 pgd=ver level=5 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via0
+  ElectricallyConnected layer=via1
+}
+
+Layer name=via1 level=6 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal1
+  ElectricallyConnected layer=metal2
+}
+
+Layer name=metal2 pgd=hor level=7 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via1
+  ElectricallyConnected layer=via2
+}
+
+Layer name=via2 level=8 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal2
+  ElectricallyConnected layer=metal3
+}
+
+Layer name=metal3 pgd=ver level=9 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via2
+  ElectricallyConnected layer=via3
+}
+
+Layer name=via3 level=10 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal3
+  ElectricallyConnected layer=metal4
+}
+
+Layer name=metal4 pgd=hor level=11 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via3
+  ElectricallyConnected layer=via4
+}
+
+Layer name=via4 level=12 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal4
+  ElectricallyConnected layer=metal5
+}
+
+Layer name=metal5 pgd=ver level=13 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via4
+  ElectricallyConnected layer=via5
+}
+
+Layer name=via5 level=14 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal5
+  ElectricallyConnected layer=metal6
+}
+
+Layer name=metal6 pgd=hor level=15 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via5
+  ElectricallyConnected layer=via6
+}
+
+Layer name=via6 level=16 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal6
+  ElectricallyConnected layer=metal7
+}
+
+Layer name=metal7 pgd=ver level=17 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via6
+  ElectricallyConnected layer=via7
+}
+
+Layer name=via7 level=18 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal7
+  ElectricallyConnected layer=metal8
+}
+
+Layer name=metal8 pgd=hor level=19 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via7
+  ElectricallyConnected layer=via8
+}
+
+Layer name=via8 level=20 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal8
+  ElectricallyConnected layer=metal9
+}
+
+Layer name=metal9 pgd=ver level=21 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via8
+  ElectricallyConnected layer=via9
+}
+
+Layer name=via9 level=22 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal9
+  ElectricallyConnected layer=metal10
+}
+
+Layer name=metal10 pgd=hor level=23 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via9
+  ElectricallyConnected layer=via10
+}
+
+Layer name=via10 level=24 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal10
+  ElectricallyConnected layer=metal11
+}
+
+Layer name=metal11 pgd=ver level=25 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via10
+  ElectricallyConnected layer=via11
+}
+
+Layer name=via11 level=26 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal11
+  ElectricallyConnected layer=metal12
+}
+
+Layer name=metal12 pgd=hor level=27 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via11
+  ElectricallyConnected layer=via12
+}
+
+Layer name=via12 level=28 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal12
+  ElectricallyConnected layer=metal13
+}
+
+Layer name=metal13 pgd=ver level=29 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via12
+  ElectricallyConnected layer=via13
+}
+
+Layer name=via13 level=30 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal13
+  ElectricallyConnected layer=metal14
+}
+
+Layer name=metal14 pgd=hor level=31 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via13
+  ElectricallyConnected layer=via14
+}
+
+Layer name=via14 level=32 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal14
+  ElectricallyConnected layer=metal15
+}
+
+Layer name=metal15 pgd=ver level=33 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via14
+  ElectricallyConnected layer=via15
+}
+
+Layer name=via15 level=34 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal15
+  ElectricallyConnected layer=metal16
+}
+
+Layer name=metal16 pgd=hor level=35 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via15
+  ElectricallyConnected layer=via16
+}
+
+Layer name=via16 level=36 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal16
+  ElectricallyConnected layer=metal17
+}
+
+Layer name=metal17 pgd=ver level=37 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via16
+  ElectricallyConnected layer=via17
+}
+
+Layer name=via17 level=38 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal17
+  ElectricallyConnected layer=metal18
+}
+
+Layer name=metal18 pgd=hor level=39 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via17
+  ElectricallyConnected layer=via18
+}
+
+Layer name=via18 level=40 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal18
+  ElectricallyConnected layer=metal19
+}
+
+Layer name=metal19 pgd=ver level=41 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via18
+  ElectricallyConnected layer=via19
+}
+
+Layer name=via19 level=42 {
+
+  Type value=via
+
+  ElectricallyConnected layer=metal19
+  ElectricallyConnected layer=metal20
+}
+
+Layer name=metal20 pgd=hor level=43 {
+
+  Type value=wire
+  Type value=metal
+
+  ElectricallyConnected layer=via19
+}

@@ -1,0 +1,13 @@
+MetalTemplate layer=metal0 name=m0_template_00 widths=1100,500,500,300,300,300,500,500,1100 spaces=300 stops=700
+MetalTemplate layer=metal1 name=m1_template_00 widths=700                                   spaces=300 stops=210
+MetalTemplate layer=metal2 name=m2_template_00 widths=1000,900,600,600,600,900,1000         spaces=300 stops=700
+MetalTemplate layer=metal2 name=m2_template_01 widths=500                                   spaces=300 stops=700
+MetalTemplate layer=metal3 name=m3_template_00 widths=800,600,400,400,400,600,800           spaces=300 stops=210
+MetalTemplate layer=metal4 name=m4_template_00 widths=800,600,400,600,800                   spaces=400 stops=700
+MetalTemplate layer=metal5 name=m5_template_00 widths=1000,800,600,600,600,800,1000         spaces=400 stops=210
+MetalTemplate layer=metal6 name=m6_template_00 widths=1600,1200,1000,1200,1600              spaces=400 stops=700
+
+
+
+
+

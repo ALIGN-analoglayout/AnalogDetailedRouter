@@ -1,0 +1,136 @@
+Cell name=circuit00 bbox=0:0:400000:128000
+
+Wire net=a layer=metal1 rect=11150:2000:11850:6000 gid=1
+Wire net=a layer=metal1 rect=13150:2000:13850:6000 gid=2
+Wire net=a layer=metal1 rect=15150:2000:15850:6000 gid=3
+Wire net=a layer=metal1 rect=17150:2000:17850:6000 gid=4
+
+Wire net=a layer=metal1 rect=158150:111000:158850:119000 gid=5
+Wire net=a layer=metal1 rect=108150:111000:108850:119000 gid=6
+Wire net=a layer=metal1 rect=108150:71000:108850:79000 gid=7
+Wire net=a layer=metal1 rect=58150:91000:58850:99000 gid=8
+
+Wire net=a layer=metal2 rect=205000:62150:228000:62650 gid=9
+Wire net=a layer=metal2 rect=205000:66150:228000:66650 gid=10
+Wire net=a layer=metal2 rect=205000:70150:228000:70650 gid=11
+Wire net=a layer=metal2 rect=205000:74150:228000:74650 gid=12
+
+Wire net=a layer=metal1 rect=205150:62000:205850:74800
+Wire net=a layer=metal1 rect=206150:62000:206850:74800
+Wire net=a layer=metal1 rect=207150:62000:207850:74800
+Wire net=a layer=metal1 rect=208150:62000:208850:74800
+Wire net=a layer=metal1 rect=209150:62000:209850:74800
+Wire net=a layer=metal1 rect=210150:62000:210850:74800
+Wire net=a layer=metal1 rect=211150:62000:211850:74800
+Wire net=a layer=metal1 rect=212150:62000:212850:74800
+Wire net=a layer=metal1 rect=213150:62000:213850:74800
+Wire net=a layer=metal1 rect=214150:62000:214850:74800
+Wire net=a layer=metal1 rect=215150:62000:215850:74800
+Wire net=a layer=metal1 rect=216150:62000:216850:74800
+Wire net=a layer=metal1 rect=217150:62000:217850:74800
+Wire net=a layer=metal1 rect=218150:62000:218850:74800
+Wire net=a layer=metal1 rect=219150:62000:219850:74800
+Wire net=a layer=metal1 rect=220150:62000:220850:74800
+Wire net=a layer=metal1 rect=220150:62000:220850:74800
+Wire net=a layer=metal1 rect=221150:62000:221850:74800
+Wire net=a layer=metal1 rect=222150:62000:222850:74800
+Wire net=a layer=metal1 rect=223150:62000:223850:74800
+Wire net=a layer=metal1 rect=224150:62000:224850:74800
+Wire net=a layer=metal1 rect=225150:62000:225850:74800
+Wire net=a layer=metal1 rect=226150:62000:226850:74800
+Wire net=a layer=metal1 rect=227150:62000:227850:74800
+
+Wire net=a layer=via1 rect=205170:62170:205830:62630
+Wire net=a layer=via1 rect=205170:66170:205830:66630
+Wire net=a layer=via1 rect=205170:70170:205830:70630
+Wire net=a layer=via1 rect=205170:74170:205830:74630
+Wire net=a layer=via1 rect=206170:62170:206830:62630
+Wire net=a layer=via1 rect=206170:66170:206830:66630
+Wire net=a layer=via1 rect=206170:70170:206830:70630
+Wire net=a layer=via1 rect=206170:74170:206830:74630
+Wire net=a layer=via1 rect=207170:62170:207830:62630
+Wire net=a layer=via1 rect=207170:66170:207830:66630
+Wire net=a layer=via1 rect=207170:70170:207830:70630
+Wire net=a layer=via1 rect=207170:74170:207830:74630
+Wire net=a layer=via1 rect=208170:62170:208830:62630
+Wire net=a layer=via1 rect=208170:66170:208830:66630
+Wire net=a layer=via1 rect=208170:70170:208830:70630
+Wire net=a layer=via1 rect=208170:74170:208830:74630
+Wire net=a layer=via1 rect=209170:62170:209830:62630
+Wire net=a layer=via1 rect=209170:66170:209830:66630
+Wire net=a layer=via1 rect=209170:70170:209830:70630
+Wire net=a layer=via1 rect=209170:74170:209830:74630
+Wire net=a layer=via1 rect=210170:62170:210830:62630
+Wire net=a layer=via1 rect=210170:66170:210830:66630
+Wire net=a layer=via1 rect=210170:70170:210830:70630
+Wire net=a layer=via1 rect=210170:74170:210830:74630
+Wire net=a layer=via1 rect=211170:62170:211830:62630
+Wire net=a layer=via1 rect=211170:66170:211830:66630
+Wire net=a layer=via1 rect=211170:70170:211830:70630
+Wire net=a layer=via1 rect=211170:74170:211830:74630
+Wire net=a layer=via1 rect=212170:62170:212830:62630
+Wire net=a layer=via1 rect=212170:66170:212830:66630
+Wire net=a layer=via1 rect=212170:70170:212830:70630
+Wire net=a layer=via1 rect=212170:74170:212830:74630
+Wire net=a layer=via1 rect=213170:62170:213830:62630
+Wire net=a layer=via1 rect=213170:66170:213830:66630
+Wire net=a layer=via1 rect=213170:70170:213830:70630
+Wire net=a layer=via1 rect=213170:74170:213830:74630
+Wire net=a layer=via1 rect=214170:62170:214830:62630
+Wire net=a layer=via1 rect=214170:66170:214830:66630
+Wire net=a layer=via1 rect=214170:70170:214830:70630
+Wire net=a layer=via1 rect=214170:74170:214830:74630
+Wire net=a layer=via1 rect=215170:62170:215830:62630
+Wire net=a layer=via1 rect=215170:66170:215830:66630
+Wire net=a layer=via1 rect=215170:70170:215830:70630
+Wire net=a layer=via1 rect=215170:74170:215830:74630
+Wire net=a layer=via1 rect=216170:62170:216830:62630
+Wire net=a layer=via1 rect=216170:66170:216830:66630
+Wire net=a layer=via1 rect=216170:70170:216830:70630
+Wire net=a layer=via1 rect=216170:74170:216830:74630
+Wire net=a layer=via1 rect=217170:62170:217830:62630
+Wire net=a layer=via1 rect=217170:66170:217830:66630
+Wire net=a layer=via1 rect=217170:70170:217830:70630
+Wire net=a layer=via1 rect=217170:74170:217830:74630
+Wire net=a layer=via1 rect=218170:62170:218830:62630
+Wire net=a layer=via1 rect=218170:66170:218830:66630
+Wire net=a layer=via1 rect=218170:70170:218830:70630
+Wire net=a layer=via1 rect=218170:74170:218830:74630
+Wire net=a layer=via1 rect=219170:62170:219830:62630
+Wire net=a layer=via1 rect=219170:66170:219830:66630
+Wire net=a layer=via1 rect=219170:70170:219830:70630
+Wire net=a layer=via1 rect=219170:74170:219830:74630
+Wire net=a layer=via1 rect=220170:62170:220830:62630
+Wire net=a layer=via1 rect=220170:66170:220830:66630
+Wire net=a layer=via1 rect=220170:70170:220830:70630
+Wire net=a layer=via1 rect=220170:74170:220830:74630
+Wire net=a layer=via1 rect=221170:62170:221830:62630
+Wire net=a layer=via1 rect=221170:66170:221830:66630
+Wire net=a layer=via1 rect=221170:70170:221830:70630
+Wire net=a layer=via1 rect=221170:74170:221830:74630
+Wire net=a layer=via1 rect=222170:62170:222830:62630
+Wire net=a layer=via1 rect=222170:66170:222830:66630
+Wire net=a layer=via1 rect=222170:70170:222830:70630
+Wire net=a layer=via1 rect=222170:74170:222830:74630
+Wire net=a layer=via1 rect=223170:62170:223830:62630
+Wire net=a layer=via1 rect=223170:66170:223830:66630
+Wire net=a layer=via1 rect=223170:70170:223830:70630
+Wire net=a layer=via1 rect=223170:74170:223830:74630
+Wire net=a layer=via1 rect=224170:62170:224830:62630
+Wire net=a layer=via1 rect=224170:66170:224830:66630
+Wire net=a layer=via1 rect=224170:70170:224830:70630
+Wire net=a layer=via1 rect=224170:74170:224830:74630
+Wire net=a layer=via1 rect=225170:62170:225830:62630
+Wire net=a layer=via1 rect=225170:66170:225830:66630
+Wire net=a layer=via1 rect=225170:70170:225830:70630
+Wire net=a layer=via1 rect=225170:74170:225830:74630
+Wire net=a layer=via1 rect=226170:62170:226830:62630
+Wire net=a layer=via1 rect=226170:66170:226830:66630
+Wire net=a layer=via1 rect=226170:70170:226830:70630
+Wire net=a layer=via1 rect=226170:74170:226830:74630
+Wire net=a layer=via1 rect=227170:62170:227830:62630
+Wire net=a layer=via1 rect=227170:66170:227830:66630
+Wire net=a layer=via1 rect=227170:70170:227830:70630
+Wire net=a layer=via1 rect=227170:74170:227830:74630
+
+

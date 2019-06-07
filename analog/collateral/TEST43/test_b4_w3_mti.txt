@@ -1,0 +1,12 @@
+MetalTemplateInstance template=m0_template_00 pgdoffset_abs=0   region=0:0:112000:51200
+MetalTemplateInstance template=m1_template_00 pgdoffset_abs=500 region=0:0:112000:51200
+
+MetalTemplateInstance template=m2_template_01 pgdoffset_abs=0   region=0:0:112000:51200
+
+#MetalTemplateInstance template=m2_template_00 pgdoffset_abs=0   region=0:0:48000:51200
+#MetalTemplateInstance template=m2_template_01 pgdoffset_abs=0   region=56000:0:112000:51200
+
+MetalTemplateInstance template=m3_template_00 pgdoffset_abs=0   region=0:0:112000:51200
+MetalTemplateInstance template=m4_template_00 pgdoffset_abs=0   region=0:0:112000:51200
+MetalTemplateInstance template=m5_template_00 pgdoffset_abs=0   region=0:0:112000:51200
+MetalTemplateInstance template=m6_template_00 pgdoffset_abs=0   region=0:0:112000:51200

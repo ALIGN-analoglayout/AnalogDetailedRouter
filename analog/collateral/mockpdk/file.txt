@@ -1,0 +1,21 @@
+# an example of a run file
+
+# collateral
+Option name=layer_file          value=layers.txt
+Option name=option_file         value=design_rules.txt
+Option name=generator_file      value=via_generators.txt
+Option name=pattern_file        value=patterns.txt
+Option name=metal_template_file value=metal_templates.txt
+Option name=option_file         value=mtis.txt
+Option name=input_file          value=netlist.txt
+Option name=global_routing_file value=globalrouting.txt
+Option name=arch_file           value=arch.txt
+
+# run options
+Option name=route       value=1
+Option name=allow_opens value=1
+
+# control nets to route / not to route
+#Option name=nets_to_route value=a*
+#Option name=nets_not_to_route value=KOR
+

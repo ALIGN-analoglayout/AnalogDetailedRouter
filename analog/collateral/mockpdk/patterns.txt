@@ -1,0 +1,11 @@
+# the only pattern just to provide an example of the format
+
+Pattern name=via1_diagonal_2x2 shortname=V1_00 comment="Corner-to-corner spacing 2x2" {
+  Node type=AND {
+    Node type=leaf pr=mbp layer=via1 rect=0:0:660:460
+    Node type=leaf pr=mbp layer=via1 rect=1000:800:1660:1260
+  }
+}
+
+
+

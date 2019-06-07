@@ -1,0 +1,46 @@
+ConnectedEntity terms=1
+ConnectedEntity terms=2
+ConnectedEntity terms=3
+ConnectedEntity terms=4
+ConnectedEntity terms=5
+ConnectedEntity terms=6
+ConnectedEntity terms=7
+ConnectedEntity terms=8
+ConnectedEntity terms=9,10,11,12
+
+# high-current routing; 3 parallel M5s
+GlobalRouting net=a routes=(20,4,20,11,metal5,minw=1000);(21,4,21,11,metal5,minw=1000);(22,4,22,11,metal5,minw=1000)
+
+# uncritical routing; no min widths
+GlobalRouting net=a routes=(1,4,1,17,metal3)
+GlobalRouting net=a routes=(1,17,3,17,metal2)
+GlobalRouting net=a routes=(3,17,3,15,metal3)
+GlobalRouting net=a routes=(3,15,5,15,metal2)
+GlobalRouting net=a routes=(5,15,5,17,metal3)
+GlobalRouting net=a routes=(5,17,10,17,metal2)
+GlobalRouting net=a routes=(10,17,10,12,metal3)
+GlobalRouting net=a routes=(10,12,15,12,metal4)
+GlobalRouting net=a routes=(15,12,15,17,metal3)
+
+# high-current routing; long M6 with a large total wire width
+GlobalRouting net=a routes=(1,4,22,4,metal6,minw=3200)
+
+# high-current routing; long M5 with a large total wire width
+GlobalRouting net=a routes=(1,0,1,4,metal5,minw=2000)
+
+# local mesh of M3 wires
+GlobalRouting net=a routes=(1,0,1,1,metal3,minw=2400)
+
+# MFC: metal4 mesh
+GlobalRouting net=a routes=(20,9,22,9,metal4,minw=800,gid=100,samewas=100)
+GlobalRouting net=a routes=(20,10,22,10,metal4,minw=800,gid=101,samewas=100)
+GlobalRouting net=a routes=(20,11,22,11,metal4,minw=800,gid=102,samewas=100)
+
+# MFC: metal3 mesh
+GlobalRouting net=a routes=(20,9,20,11,metal3,minw=800,gid=300,samewas=300)
+GlobalRouting net=a routes=(21,9,21,11,metal3,minw=800,gid=301,samewas=300)
+GlobalRouting net=a routes=(22,9,22,11,metal3,minw=800,gid=302,samewas=300)
+
+
+GlobalRouting net=a routes=(0,0,2,0,metal4,minw=1000)
+GlobalRouting net=a routes=(0,0,2,0,metal2,minw=1000)

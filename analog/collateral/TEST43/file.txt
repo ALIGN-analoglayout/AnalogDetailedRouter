@@ -1,0 +1,38 @@
+# File auto-generated
+# user: nvryzhen
+
+# fixed
+Option name=layer_file          value=TEST43/layers.txt
+Option name=metal_template_file value=TEST43/metal_templates.txt
+Option name=generator_file      value=TEST43/via_generators.txt
+Option name=option_file         value=TEST43/design_rules.txt
+
+# TEST43
+Option name=input_file          value=TEST43/test_b4_w3_netlist.txt
+Option name=global_routing_file value=TEST43/test_b4_w3_gr.txt
+Option name=option_file         value=TEST43/test_b4_w3_mti.txt
+Option name=arch_file           value=TEST43/test_b4_w3_arch.txt
+Option name=pattern_file        value=TEST43/test_b4_w3_patterns.txt
+
+# run options
+Option name=route       value=1
+Option name=solver_type value=glucose
+Option name=allow_opens value=0
+
+# flow options
+Option name=auto_fix_global_routing value=0
+
+# control nets to route / not to route
+#Option name=nets_to_route value=c*
+Option name=nets_not_to_route value=KOR
+
+# options for visualization
+Option name=create_fake_global_routes            value=0
+Option name=create_fake_connected_entities       value=0
+Option name=create_fake_ties                     value=0
+Option name=create_fake_metal_template_instances value=0
+Option name=create_fake_sat_wires                value=0
+Option name=create_fake_ogd_grids                value=0
+Option name=create_fake_pgd_grids                value=0
+Option name=dump_global_regions                  value=0
+Option name=dump_global_regions_with_coordinates value=0

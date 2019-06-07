@@ -1,0 +1,26 @@
+Cell name=circuit01 bbox=0:0:112000:51200
+
+Wire net=a[0] layer=metal1 rect=8150:7600:8850:11600 gid=0
+Wire net=a[1] layer=metal1 rect=8150:14000:8850:18000 gid=1
+Wire net=a[2] layer=metal1 rect=8150:20400:8850:24400 gid=2
+Wire net=a[3] layer=metal1 rect=8150:26800:8850:30800 gid=3
+Wire net=b[0] layer=metal1 rect=9150:7600:9850:11600 gid=4
+Wire net=b[1] layer=metal1 rect=9150:14000:9850:18000 gid=5
+Wire net=b[2] layer=metal1 rect=9150:20400:9850:24400 gid=6
+Wire net=b[3] layer=metal1 rect=9150:26800:9850:30800 gid=7
+Wire net=c[0] layer=metal1 rect=10150:7600:10850:11600 gid=8
+Wire net=c[1] layer=metal1 rect=10150:14000:10850:18000 gid=9
+Wire net=c[2] layer=metal1 rect=10150:20400:10850:24400 gid=10
+Wire net=c[3] layer=metal1 rect=10150:26800:10850:30800 gid=11
+Wire net=a[0] layer=metal1 rect=96150:20400:96850:24400 gid=12
+Wire net=a[1] layer=metal1 rect=96150:26800:96850:30800 gid=13
+Wire net=a[2] layer=metal1 rect=96150:33200:96850:37200 gid=14
+Wire net=a[3] layer=metal1 rect=96150:39600:96850:43600 gid=15
+Wire net=b[0] layer=metal1 rect=97150:20400:97850:24400 gid=16
+Wire net=b[1] layer=metal1 rect=97150:26800:97850:30800 gid=17
+Wire net=b[2] layer=metal1 rect=97150:33200:97850:37200 gid=18
+Wire net=b[3] layer=metal1 rect=97150:39600:97850:43600 gid=19
+Wire net=c[0] layer=metal1 rect=98150:20400:98850:24400 gid=20
+Wire net=c[1] layer=metal1 rect=98150:26800:98850:30800 gid=21
+Wire net=c[2] layer=metal1 rect=98150:33200:98850:37200 gid=22
+Wire net=c[3] layer=metal1 rect=98150:39600:98850:43600 gid=23

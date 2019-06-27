@@ -32,7 +32,6 @@ RMRF    = rm -rf
 PWD = $(shell pwd)
 SYS = $(shell /usr/intel/bin/sysname -afs)
 BASEDIR = $(PWD)
-PROVER = /p/dt/cad/em64t_SLES11/prover/d17ww34_gcc481_boost1540_stOpt64
 SVI_ROOT = $(shell realpath ${BASEDIR}/../svinterface)
 
 ifdef BUILD_DIR
@@ -95,7 +94,7 @@ ifeq ($(GCC_VER),4.8.1)
 GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=40801
 endif
 
-ENABLE_FIVER  = 1
+ENABLE_FIVER  = 0
 ENABLE_SVI    = 0
 RELEASE_BUILD = 0
 DEFINES       =    
@@ -138,7 +137,6 @@ CXXFLAGS += -fno-tree-pre
 ######################################
 
 # external tools
-FIVER_LIBS = -L${PROVER}/lib -lfiver -lutilities
 SVI_LIBS = -L${SVI_ROOT}/lib -Wl,-rpath,${SVI_ROOT}/lib -lsvi
 
 # Different versions have a bit different API; I don't want to use different solvers and want to use the same wrapper
@@ -167,11 +165,6 @@ ifeq ($(RELEASE_BUILD),1)
 DEFINES += -D_RELEASE_BUILD_
 endif
 
-ifeq ($(ENABLE_FIVER),1)
-DEFINES += -D_ENABLE_FIVER_
-INCLUDES += -I${PROVER}/include
-endif
-
 ifeq ($(ENABLE_SVI),1)
 DEFINES += -D_ENABLE_SVI_
 INCLUDES += -I${SVI_ROOT}/include
@@ -190,7 +183,8 @@ DEFINES += -D_BUILD_COMPILER_="\"${BUILD_COMPILER}\""
 DEFINES += -D_BUILD_SECONDS_=${BUILD_SECONDS}
 
 # Boost
-BOOST_LOCAL =  /p/dt/cad/em64t_SLES11/boost/1.54.0_gcc481_64
+BOOST_LOCAL =  /usr/intel/pkgs/boost/1.55.0-gcc-4.8.1
+#BOOST_LOCAL =  /p/dt/cad/em64t_SLES11/boost/1.54.0_gcc481_64
 #BOOST_LOCAL = /nfs/site/disks/laygen_release_001/CAD_ROOT/boost
 #BOOST_LOCAL = /nfs/sc/disks/scl.work.01/ppt/nvryzhen/cellGen/laygen_release_001/CAD_ROOT/boost
 BOOST_LIBS = -L${BOOST_LOCAL}/lib -Wl,-rpath,${BOOST_LOCAL}/lib -lboost_iostreams -lboost_filesystem -lboost_system -lboost_thread

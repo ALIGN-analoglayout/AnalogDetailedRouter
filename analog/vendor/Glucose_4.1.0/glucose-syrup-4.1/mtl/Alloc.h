@@ -39,6 +39,9 @@ class RegionAllocator
 
     void capacity(uint32_t min_cap);
 
+    RegionAllocator(const RegionAllocator&); // No implemention
+    RegionAllocator operator=(const RegionAllocator&); // No implemention
+
  public:
     // TODO: make this a class for better type-checking?
     typedef uint32_t Ref;

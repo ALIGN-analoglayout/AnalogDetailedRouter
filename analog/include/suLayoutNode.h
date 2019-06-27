@@ -100,6 +100,7 @@ namespace amsr
     //! init all class members
     inline void init_ ()
     {
+      _satindex = 0; // SMB; klocwork
     } // end of init_
 
     //! copy all class members

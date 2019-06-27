@@ -104,6 +104,7 @@ public:
     //
     Solver();
     Solver(const  Solver &s);
+    Solver& operator=( const  Solver &s); // No implementation; klocwork fix
     
     virtual ~Solver();
     

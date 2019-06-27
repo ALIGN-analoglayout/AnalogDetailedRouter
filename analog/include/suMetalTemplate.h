@@ -77,7 +77,7 @@ namespace amsr
   public:
 
     //! default constructor
-    suMetalTemplate ()
+    suMetalTemplate() : _baseLayer(0)
     {
       init_ ();
 
@@ -86,7 +86,7 @@ namespace amsr
   private:
 
     //! copy constructor
-    suMetalTemplate (const suMetalTemplate & rs)
+    suMetalTemplate (const suMetalTemplate & rs) : _baseLayer(0)
     {
       SUASSERT (false, "The method is not expected to be called.");
 

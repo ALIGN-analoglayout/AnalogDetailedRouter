@@ -67,6 +67,7 @@ class SimpSolver : public Solver {
     ~SimpSolver();
     
     SimpSolver(const  SimpSolver &s);
+    SimpSolver& operator=(const  SimpSolver &s); // No implementation. klocwork
     
 
     /**

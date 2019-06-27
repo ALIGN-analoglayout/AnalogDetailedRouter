@@ -147,6 +147,7 @@ Solver::Solver() :
   // Parameters (user settable):
   //
   verbosity(0)
+  , verbEveryConflicts(0)
   , showModel(0)
   , K(opt_K)
   , R(opt_R)
@@ -189,7 +190,7 @@ Solver::Solver() :
   , newDescent(0)
   , randomDescentAssignments(0)
   , forceUnsatOnNewDescent(opt_forceunsat)
-
+  , lastIndexRed(0)
   , ok(true)
   , cla_inc(1)
   , var_inc(1)
@@ -202,7 +203,12 @@ Solver::Solver() :
   , order_heap(VarOrderLt(activity))
   , progress_estimate(0)
   , remove_satisfied(true)
+  ,sumAssumptions(0)
   ,lastLearntClause(CRef_Undef)
+  // Initial reduceDB strategy
+  , max_learnts(0)
+  , learntsize_adjust_confl(0.0)
+  , learntsize_adjust_cnt(0)
   // Resource constraints:
   //
   , conflict_budget(-1)
@@ -233,6 +239,7 @@ Solver::Solver() :
 
 Solver::Solver(const Solver &s) :
   verbosity(s.verbosity)
+  , verbEveryConflicts(s.verbEveryConflicts)
   , showModel(s.showModel)
   , K(s.K)
   , R(s.R)
@@ -259,6 +266,7 @@ Solver::Solver(const Solver &s) :
   , garbage_frac(s.garbage_frac)
   , certifiedOutput(NULL)
   , certifiedUNSAT(false) // Not in the first parallel version
+  , vbyte(s.vbyte)
   , panicModeLastRemoved(s.panicModeLastRemoved), panicModeLastRemovedShared(s.panicModeLastRemovedShared)
   , useUnaryWatched(s.useUnaryWatched)
   , promoteOneWatchedClause(s.promoteOneWatchedClause)
@@ -277,6 +285,7 @@ Solver::Solver(const Solver &s) :
   , newDescent(s.newDescent)
   , randomDescentAssignments(s.randomDescentAssignments)
   , forceUnsatOnNewDescent(s.forceUnsatOnNewDescent)
+  , lastIndexRed(s.lastIndexRed)
   , ok(true)
   , cla_inc(s.cla_inc)
   , var_inc(s.var_inc)
@@ -289,7 +298,12 @@ Solver::Solver(const Solver &s) :
   , order_heap(VarOrderLt(activity))
   , progress_estimate(s.progress_estimate)
   , remove_satisfied(s.remove_satisfied)
+  ,sumAssumptions(s.sumAssumptions)
   ,lastLearntClause(CRef_Undef)
+  // Initial reduceDB strategy
+  , max_learnts(s.max_learnts)
+  , learntsize_adjust_confl(s.learntsize_adjust_confl)
+  , learntsize_adjust_cnt(s.learntsize_adjust_cnt)
   // Resource constraints:
   //
   , conflict_budget(s.conflict_budget)

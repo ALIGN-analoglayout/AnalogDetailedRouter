@@ -1,139 +1,139 @@
-# ######################################
-# # Top level switch
-# ######################################
+######################################
+# Top level switch
+######################################
 
-# ifdef OPT
-# # do nothing
-# else
-# #OPT = opt
-# #OPT = dev
-# OPT = optdev
-# #OPT = release
-# endif
+ifdef OPT
+# do nothing
+else
+#OPT = opt
+#OPT = dev
+OPT = optdev
+#OPT = release
+endif
 
-# ######################################
-# # Commands/Compilers
-# ######################################
-# AR      = ar
-# #GCC_VER = 4.8.1
-# #GCC_ROOT = /usr/intel/pkgs/gcc/$(GCC_VER)
-# #CXX     = $(GCC_ROOT)/bin/g++	
-# CXX	= g++
-# CD      = cd
-# CPRF    = cp -rf
-# DOXYGEN = doxygen
-# LDD     = ldd
-# LN      = ln
-# RMF     = rm -f
-# RMRF    = rm -rf
+######################################
+# Commands/Compilers
+######################################
+AR      = ar
+#GCC_VER = 4.8.1
+#GCC_ROOT = /usr/intel/pkgs/gcc/$(GCC_VER)
+#CXX     = $(GCC_ROOT)/bin/g++	
+CXX	= g++
+CD      = cd
+CPRF    = cp -rf
+DOXYGEN = doxygen
+LDD     = ldd
+LN      = ln
+RMF     = rm -f
+RMRF    = rm -rf
 
-# ######################################
-# # Paths to tools and libs
-# ######################################
-# PWD = $(shell pwd)
-# SYS = $(shell /usr/intel/bin/sysname -afs)
-# BASEDIR = $(PWD)
-# SVI_ROOT = $(shell realpath ${BASEDIR}/../svinterface)
+######################################
+# Paths to tools and libs
+######################################
+PWD = $(shell pwd)
+SYS = $(shell /usr/intel/bin/sysname -afs)
+BASEDIR = $(PWD)
+SVI_ROOT = $(shell realpath ${BASEDIR}/../svinterface)
 
-# ifdef BUILD_DIR
-# else
-# BUILD_DIR = $(BASEDIR)
-# endif
+ifdef BUILD_DIR
+else
+BUILD_DIR = $(BASEDIR)
+endif
 
-# ######################################
-# # Library names and info
-# ######################################
-# APPNAME = amsr
-# MAIN = suMain
-# OBJ = obj_$(OPT)
-# BIN_DIR = $(BUILD_DIR)/bin
-# LIB_DIR = $(BUILD_DIR)/lib
-# OBJ_DIR = $(BASEDIR)/$(OBJ)
-# LIBNAME = lib$(APPNAME)
-# SHARED_LIB = $(LIB_DIR)/$(LIBNAME).so
-# STATIC_LIB = $(LIB_DIR)/$(LIBNAME).a
-# EXECUTABLE_LIB = $(BIN_DIR)/$(APPNAME)_shared.exe
-# EXECUTABLE_SOLID = $(BIN_DIR)/$(APPNAME).exe
-# MAIN_SRC = $(SRC)/$(MAIN).cpp
+######################################
+# Library names and info
+######################################
+APPNAME = amsr
+MAIN = suMain
+OBJ = obj_$(OPT)
+BIN_DIR = $(BUILD_DIR)/bin
+LIB_DIR = $(BUILD_DIR)/lib
+OBJ_DIR = $(BASEDIR)/$(OBJ)
+LIBNAME = lib$(APPNAME)
+SHARED_LIB = $(LIB_DIR)/$(LIBNAME).so
+STATIC_LIB = $(LIB_DIR)/$(LIBNAME).a
+EXECUTABLE_LIB = $(BIN_DIR)/$(APPNAME)_shared.exe
+EXECUTABLE_SOLID = $(BIN_DIR)/$(APPNAME).exe
+MAIN_SRC = $(SRC)/$(MAIN).cpp
 
-# ######################################
-# # Finding Files to build
-# ######################################
-# SRC = src
-# ALL_SOURCES =  $(wildcard $(SRC)/*.cpp)
-# DO_NOT_BUILD = $(wildcard $(MAIN_SRC))
-# LIB_SOURCES = $(filter-out $(DO_NOT_BUILD), $(ALL_SOURCES))
-# LIB_OBJECTS  = $(LIB_SOURCES:$(SRC)/%.cpp=$(OBJ)/%.o) 
-# LIB_DEPENDS = $(LIB_SOURCES:$(SRC)/%.cpp=$(OBJ)/%.d)
-# MAIN_OBJECT = $(OBJ)/$(MAIN).o
-# GLUCOSE_OBJECTS = $(OBJ)/glucose/Solver.o
+######################################
+# Finding Files to build
+######################################
+SRC = src
+ALL_SOURCES =  $(wildcard $(SRC)/*.cpp)
+DO_NOT_BUILD = $(wildcard $(MAIN_SRC))
+LIB_SOURCES = $(filter-out $(DO_NOT_BUILD), $(ALL_SOURCES))
+LIB_OBJECTS  = $(LIB_SOURCES:$(SRC)/%.cpp=$(OBJ)/%.o) 
+LIB_DEPENDS = $(LIB_SOURCES:$(SRC)/%.cpp=$(OBJ)/%.d)
+MAIN_OBJECT = $(OBJ)/$(MAIN).o
+GLUCOSE_OBJECTS = $(OBJ)/glucose/Solver.o
 
-# ######################################
-# # some extra info 
-# ######################################
-# BUILD_USER = ${USER}
-# BUILD_DATE = $(shell date)
-# BUILD_HOST = ${HOSTNAME}
-# #SVNDIR = $(shell realpath .svn)
-# #ifneq ($(SVNDIR),)
-# #BUILD_REVISION = $(shell svn info | grep Revision | sed -e s/Revision://g)
-# #endif
-# BUILD_REVISION = $(shell git write-tree)
-# #BUILD_COMPILER = $(shell realpath ${CXX})
-# BUILD_COMPILER = $(shell which ${CXX})
-# BUILD_MODE = ${OPT}
-# BUILD_SECONDS = $(shell date +"%s")
+######################################
+# some extra info 
+######################################
+BUILD_USER = ${USER}
+BUILD_DATE = $(shell date)
+BUILD_HOST = ${HOSTNAME}
+#SVNDIR = $(shell realpath .svn)
+#ifneq ($(SVNDIR),)
+#BUILD_REVISION = $(shell svn info | grep Revision | sed -e s/Revision://g)
+#endif
+BUILD_REVISION = $(shell git write-tree)
+#BUILD_COMPILER = $(shell realpath ${CXX})
+BUILD_COMPILER = $(shell which ${CXX})
+BUILD_MODE = ${OPT}
+BUILD_SECONDS = $(shell date +"%s")
 
-# ######################################
-# # INCLUDES 
-# ######################################
-# INCLUDES = -I./include
-# INCLUDES += -I$(GLUCOSE)
+######################################
+# INCLUDES 
+######################################
+INCLUDES = -I./include
+INCLUDES += -I$(GLUCOSE)
 
-# ######################################
-# # Generic flags 
-# ######################################
-# #ifeq ($(GCC_VER),4.8.1)
-# #GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=40801
-# #endif
-# GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=70400
+######################################
+# Generic flags 
+######################################
+#ifeq ($(GCC_VER),4.8.1)
+#GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=40801
+#endif
+GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=70400
 
-# ENABLE_FIVER  = 0
-# ENABLE_SVI    = 0
-# RELEASE_BUILD = 0
-# DEFINES       =    
-# DEPRECATED    = -Wno-deprecated
-# WARNINGS      = -Wall
+ENABLE_FIVER  = 0
+ENABLE_SVI    = 0
+RELEASE_BUILD = 0
+DEFINES       =    
+DEPRECATED    = -Wno-deprecated
+WARNINGS      = -Wall
 
-# ifeq ($(OPT),dev)
-# OPTFLAG = -O0 -g -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
-# STRIP = ls -la
-# endif
+ifeq ($(OPT),dev)
+OPTFLAG = -O0 -g -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
+STRIP = ls -la
+endif
 
-# ifeq ($(OPT),optdev)
-# OPTFLAG = -O3 -g -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
-# STRIP = ls -la
-# endif
+ifeq ($(OPT),optdev)
+OPTFLAG = -O3 -g -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
+STRIP = ls -la
+endif
 
-# ifeq ($(OPT),opt)
-# OPTFLAG = -O3 -ffloat-store $(GCC_XOPT_FLAGS)
-# STRIP = strip
-# endif
+ifeq ($(OPT),opt)
+OPTFLAG = -O3 -ffloat-store $(GCC_XOPT_FLAGS)
+STRIP = strip
+endif
 
-# ifeq ($(OPT),release)
-# OPTFLAG = -O3 -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
-# RELEASE_BUILD = 1
-# ENABLE_FIVER  = 0
-# ENABLE_SVI    = 0
-# STRIP = strip
-# endif
+ifeq ($(OPT),release)
+OPTFLAG = -O3 -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
+RELEASE_BUILD = 1
+ENABLE_FIVER  = 0
+ENABLE_SVI    = 0
+STRIP = strip
+endif
 
-# ######################################
-# # CXXFLAGS
-# ######################################
-# CXXFLAGS = $(OPTFLAG) $(DEPRECATED) $(WARNINGS) $(DEFINES) $(INCLUDES)
-# CXXFLAGS += -fPIC
-# # MiniSAT/Glucose; Without it, the problems are always unsatisfiable; since 4.2.2a
+######################################
+# CXXFLAGS
+######################################
+CXXFLAGS = $(OPTFLAG) $(DEPRECATED) $(WARNINGS) $(DEFINES) $(INCLUDES)
+CXXFLAGS += -fPIC
+# MiniSAT/Glucose; Without it, the problems are always unsatisfiable; since 4.2.2a
 #CXXFLAGS += -fno-tree-pre
 
 ######################################

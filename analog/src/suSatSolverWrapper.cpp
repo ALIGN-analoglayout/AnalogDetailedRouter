@@ -1481,7 +1481,7 @@ namespace amsr
     while (true) {
 
       std::string str;
-      bool ok = std::getline (ifs, str);
+      bool ok = std::getline (ifs, str).good();
       if (!ok) break;
 
       str = suStatic::trim_string (str);

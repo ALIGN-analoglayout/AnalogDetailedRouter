@@ -172,8 +172,9 @@ namespace amsr
     bricks.clear ();
 
     std::string str;
-    bool ok = std::getline (inputstream, str);
+    bool ok = std::getline(inputstream, str).good();
     ++_numLines;
+
     if (!ok) {
       finished = true;
       return 0;

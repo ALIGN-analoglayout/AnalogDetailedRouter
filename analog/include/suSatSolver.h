@@ -1,13 +1,4 @@
-//
-//
-//        INTEL CONFIDENTIAL - INTERNAL USE ONLY
-//
-//         Copyright by Intel Corporation, 2017
-//                 All rights reserved.
-//         Copyright does not imply publication.
-//
-//
-//! \since  Analog/Mixed Signal Router (prototype); AMSR 0.00
+// see LICENSE
 //! \author Ryzhenko Nikolai, 10984646, nikolai.v.ryzhenko@intel.com
 //! \date   Tue Oct  3 13:18:06 2017
 

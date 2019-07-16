@@ -255,10 +255,7 @@ namespace amsr
     
     const std::string & solvertype = suOptionManager::instance()->get_string_option ("solver_type", defaultsolver);
 
-    if (solvertype.compare ("fiver") == 0) {
-      _solvers.push_back (new suSatSolverFiver   ());
-    }
-    else if (solvertype.compare ("glucose") == 0) { 
+    if (solvertype.compare ("glucose") == 0) { 
       _solvers.push_back (new suSatSolverGlucose ());
     }
     else if (solvertype.empty()) {

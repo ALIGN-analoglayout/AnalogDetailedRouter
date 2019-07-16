@@ -23,7 +23,6 @@
 #include <suClauseManager.h>
 #include <suOptionManager.h>
 #include <suSatSolver.h>
-#include <suSatSolverFiver.h>
 #include <suSatSolverGlucose.h>
 #include <suSatSolverUnitTestA.h>
 #include <suSatSolverUnitTestB.h>

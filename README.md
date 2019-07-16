@@ -1,4 +1,6 @@
 ### AnalogDetailedRouter
+[![CircleCI](https://circleci.com/gh/ALIGN-analoglayout/AnalogDetailedRouter.svg?style=svg)](https://circleci.com/gh/ALIGN-analoglayout/AnalogDetailedRouter)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a134e059825f4e61875d9d105d3f2325)](https://www.codacy.com/app/ALIGN-analoglayout/AnalogDetailedRouter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ALIGN-analoglayout/AnalogDetailedRouter&amp;utm_campaign=Badge_Grade)
 
 This repository contains the Intel's Analog Detailed Router.
 

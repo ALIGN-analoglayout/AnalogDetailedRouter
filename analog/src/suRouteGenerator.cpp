@@ -1266,7 +1266,7 @@ namespace amsr
     const sutype::dcoord_t extrax = (extrabbox.w() * 0) / 100;
     
     // debug only: dump defaulttransitionrect to Genesys
-    if (0) {
+    if (np) {
       
       suErrorManager::instance()->add_error (std::string ("trrect_") + suStatic::dcoord_to_str (_id),
                                              defaulttransitionrect);
@@ -2805,10 +2805,11 @@ namespace amsr
       transitionrect.xl (regionedgel);
       transitionrect.xh (regionedgeh);
     }
-    
+
+    const suRectangle & extrabbox = suGlobalRouter::instance()->get_region(0,0)->bbox();
+
     if (wire1->is (sutype::wt_preroute) && wire2->is (sutype::wt_preroute)) {
             
-      const suRectangle & extrabbox = suGlobalRouter::instance()->get_region(0,0)->bbox();
       const sutype::dcoord_t extray = (extrabbox.h() * 50) / 100;
       const sutype::dcoord_t extrax = (extrabbox.w() * 50) / 100;
             
@@ -2820,6 +2821,27 @@ namespace amsr
       if (layer1->pgd() == sutype::go_hor) {
         transitionrect.xl (transitionrect.xl() - extrax);
         transitionrect.xh (transitionrect.xh() + extrax);
+      }
+    }
+
+    // Nikolai; June 12, 2019
+    if (1) {
+      
+      const sutype::dcoord_t extray = (extrabbox.h() * 100) / 100;
+      const sutype::dcoord_t extrax = (extrabbox.w() * 100) / 100;
+
+      if (layer1->pgd() == sutype::go_ver && transitionrect.h() < extray) {
+
+        sutype::dcoord_t e = (extray - transitionrect.h()) / 2;
+        transitionrect.yl (transitionrect.yl() - e);
+        transitionrect.yh (transitionrect.yh() + e);
+      }
+
+      if (layer1->pgd() == sutype::go_hor && transitionrect.w() < extrax) {
+        
+        sutype::dcoord_t e = (extrax - transitionrect.w()) / 2;
+        transitionrect.xl (transitionrect.xl() - e);
+        transitionrect.xh (transitionrect.xh() + e);
       }
     }
     

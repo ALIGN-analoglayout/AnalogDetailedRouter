@@ -11,6 +11,17 @@ make -j 8  OPT=release BUILD_DIR=${RELEASE_DIR}/amsr
 make clean
 make -j 8
 
+setenv RELEASE_DIR /nfs/site/home/nvryzhen/dt_users/releases
+
+cd /nfs/sc/disks/adlt_sc_02/nvryzhen/fls/analog
+svn up
+${RELEASE_DIR}/amsr/bin/amsr.exe | grep Revision | awk '{print "\\cp ${RELEASE_DIR}/amsr/bin/amsr.exe ${RELEASE_DIR}/amsr/bin/amsr.exe." $5}' > log
+source log
+make clean BUILD_DIR=${RELEASE_DIR}/amsr
+make -j 8  BUILD_DIR=${RELEASE_DIR}/amsr
+make clean
+make -j 8
+
 mkdir -p ${RELEASE_DIR}
 mkdir -p ${RELEASE_DIR}/amsr/bin
 mkdir -p ${RELEASE_DIR}/amsr/collateral

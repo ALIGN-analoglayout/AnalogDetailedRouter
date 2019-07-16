@@ -142,6 +142,10 @@ namespace amsr
     //
     typedef std::tuple<sutype::dcoord_t,sutype::dcoord_t,sutype::generatorinstances_t> viaoption_t;
     typedef std::vector<viaoption_t> viaoptions_t;
+
+    // external tie
+    typedef std::tuple<sutype::id_t,sutype::id_t> exttie_t;
+    typedef std::vector<exttie_t> extties_t;
     
     // bool_t
     typedef enum bool_t {

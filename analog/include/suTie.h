@@ -183,6 +183,15 @@ namespace amsr
   public:
 
     //
+    inline bool is_the_same_as (suTie * tie1) 
+      const
+    {
+      return ((entity0() == tie1->entity0() && entity1() == tie1->entity1()) ||
+              (entity1() == tie1->entity0() && entity0() == tie1->entity1()));
+      
+    } // end of is_the_same_as
+
+    //
     inline void add_route (suRoute * route) { _routes.push_back (route); }
 
     //

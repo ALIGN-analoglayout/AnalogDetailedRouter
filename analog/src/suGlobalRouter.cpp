@@ -183,6 +183,8 @@ namespace amsr
     }
 
     parse_global_routings_ (_grTokenParser->rootToken());
+
+    parse_raw_external_ties_ (_grTokenParser->rootToken());
     
   } // end of suGlobalRouter::parse_global_routing_file
   
@@ -459,6 +461,29 @@ namespace amsr
     sanity_check_ ();
     
   } // end of suGlobalRouter::parse_global_routings_
+
+//
+  void suGlobalRouter::parse_raw_external_ties_ (const suToken * roottoken)
+  {
+    SUASSERT (roottoken, "");
+
+    SUINFO(1) << "Read raw external ties" << std::endl;
+    
+    sutype::tokens_t tokens = roottoken->get_tokens ("Tie");
+
+    for (sutype::uvi_t i=0; i < tokens.size(); ++i) {
+
+      const suToken * token = tokens[i];
+      
+      sutype::id_t gid0 = token->get_integer_value ("term0");
+      sutype::id_t gid1 = token->get_integer_value ("gr0");
+
+      _rawExternalTies.push_back (sutype::exttie_t (gid0, gid1));
+    }
+
+    SUINFO(1) << "Found " << _rawExternalTies.size() << " raw external ties." << std::endl;
+    
+  } // end of suGlobalRouter::parse_raw_external_ties_
   
   //
   void suGlobalRouter::merge_global_routes_of_one_net_ (sutype::globalroutes_t & inputgrs)

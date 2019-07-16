@@ -36,9 +36,9 @@ jobs:
           
       - run: |
           docker run --name cp --mount source=rVol,target=/run ubuntu
-          docker copy tests/vga/INPUT cp:/run/INPUT
-          docker copy tests/vga/DR_COLLATERAL cp:/run/DR_COLLATERAL
-          docker copy tests/vga/out-gold cp:/run/out-gold
+          docker cp tests/vga/INPUT cp:/run/INPUT
+          docker cp tests/vga/DR_COLLATERAL cp:/run/DR_COLLATERAL
+          docker cp tests/vga/out-gold cp:/run/out-gold
           docker stop cp
           docker rm cp
           docker run -it --mount source=rVol,target=/run intel_detailed_router bash -c "cd run && amsr.exe -file INPUT/ctrl.txt && diff out out-gold"

@@ -247,10 +247,16 @@ namespace amsr
     void prune_redundant_ties ();
 
     //
+    sutype::ties_t create_extermal_ties ();
+    
+    //
+    void add_external_ties ();
+    
+    //
     void create_routes ();
     
     //
-    void prune_ties ();
+    void delete_unfeasible_net_ties ();
     
     //
     void emit_connected_entities ();

@@ -1936,6 +1936,8 @@ namespace amsr
   //
   void suSatRouter::prune_redundant_ties ()
   {
+    // mode 1:
+    // a tie is redundant if layers are not the same or adjacent and there're an alternative path between ces
     for (int targetNumTrunkCes = 2; targetNumTrunkCes >= 1; --targetNumTrunkCes) {
 
       SUINFO(1)
@@ -1996,7 +1998,7 @@ namespace amsr
 
             bool ret = path_exists_between_two_connected_entities_ (ce0,
                                                                     ce1,
-                                                                    true, // checkRoutes
+                                                                    false, // checkRoutes
                                                                     true, // useTrunksOnly
                                                                     tie); // tieToSkip
           
@@ -2017,8 +2019,306 @@ namespace amsr
         }
       }
     }
+
+    // mode 2:
+    // a tie is redundant if layers are not the same or adjacent and there're an alternative path between ces
+    for (int targetNumTrunkCes = 1; targetNumTrunkCes >= 1; --targetNumTrunkCes) {
+
+      SUINFO(1)
+        << "Prune redundant ties"
+        << ": targetNumTrunkCes=" << targetNumTrunkCes
+        << std::endl;
+
+      SUASSERT (targetNumTrunkCes == 1, "");
+      
+      for (const auto & iter1 : _ties) {
+        
+        const sutype::id_t netid = iter1.first;
+        auto & netties = _ties[netid];
+        
+        for (sutype::svi_t i=0; i < (sutype::svi_t)netties.size(); ++i) {
+        
+          suTie * tie1 = netties[i];
+        
+          const suConnectedEntity * ce0 = tie1->entity0();
+          const suConnectedEntity * ce1 = tie1->entity1();
+
+          int numTrunkCes = 0;
+
+          if (ce0->is (sutype::wt_trunk)) ++numTrunkCes;
+          if (ce1->is (sutype::wt_trunk)) ++numTrunkCes;
+
+          if (numTrunkCes != targetNumTrunkCes) continue;
+        
+          const suLayer * layer0 = ce0->get_interface_layer ();
+          const suLayer * layer1 = ce1->get_interface_layer ();
+
+          if (layer0->pgd() != layer1->pgd()) continue;
+
+          const suConnectedEntity * preroutece = 0;
+          const suLayer * preroutelayer = 0;
+
+          if (ce0->is (sutype::wt_preroute)) { preroutece = ce0; preroutelayer = layer0; }
+          if (ce1->is (sutype::wt_preroute)) { preroutece = ce1; preroutelayer = layer1; }
+          SUASSERT (preroutece, "");
+          SUASSERT (preroutelayer, "");
+
+          // tie1 is redundant if there's anothe tie2 that is also trunk and pgd != preroutelayer->pgd()
+          for (sutype::svi_t k=0; k < (sutype::svi_t)netties.size(); ++k) {
+            
+            if (k == i) continue;
+            
+            suTie * tie2 = netties[k];
+            
+            const suConnectedEntity * ce2 = tie2->entity0();
+            const suConnectedEntity * ce3 = tie2->entity1();
+
+            if (
+                (ce2 == preroutece && ce3->is (sutype::wt_trunk) && ce3->get_interface_layer()->pgd() != preroutelayer->pgd()) ||
+                (ce3 == preroutece && ce2->is (sutype::wt_trunk) && ce2->get_interface_layer()->pgd() != preroutelayer->pgd())
+                ) {
+
+              netties[i] = netties.back();
+              netties.pop_back();
+
+              SUINFO(1) << "Deleted a redundant same-pgd trunk tie: " << tie1->to_str() << std::endl;
+              
+              delete tie1;
+              --i;
+              break;
+            }
+          }
+        }
+      }
+    }
     
   } // end of suSatRouter::prune_redundant_ties
+
+  //
+  sutype::ties_t suSatRouter::create_extermal_ties ()
+  {
+    sutype::ties_t ties;
+
+    const sutype::extties_t & extties = suGlobalRouter::instance()->get_raw_external_ties ();
+    
+    for (const auto & iter0 : extties) {
+
+      const sutype::exttie_t & exttie = iter0;
+
+      sutype::connectedentities_tc targetces;
+
+      for (sutype::uvi_t i=0; i < 2; ++i) {
+
+        SUASSERT (i == 0 || i == 1, "");
+
+        sutype::id_t gid             = (i == 0) ? std::get<0>(exttie) : std::get<1>(exttie);
+        sutype::wire_type_t wiretype = (i == 0) ? sutype::wt_preroute : sutype::wt_trunk;
+        
+        SUASSERT (wiretype == sutype::wt_preroute || wiretype == sutype::wt_trunk, "");
+
+        const suConnectedEntity * targetce = 0;
+
+        for (const auto & iter1 : _connectedEntities) {
+      
+          const auto & ces = iter1.second;
+
+          for (const auto & iter2 : ces) {
+
+            const suConnectedEntity * ce = iter2;
+            if (!ce->is (wiretype)) continue;
+          
+            if (wiretype == sutype::wt_preroute) {
+
+              const sutype::wires_t & cewires = ce->interfaceWires();
+              for (const auto & iter3 : cewires) {
+
+                suWire * wire = iter3;
+                if (wire->gid() == gid) {
+                  targetce = ce;
+                  break;
+                }
+              }
+            }
+
+            else if (wiretype == sutype::wt_trunk) {
+
+              const suGlobalRoute * gr = ce->trunkGlobalRoute();
+              SUASSERT (gr, "");
+              if (gr->gid() == gid) {
+                targetce = ce;
+                break;
+              }
+            }
+          
+            else {
+              SUASSERT (false, "Unexpected wire type");
+            }
+
+            if (targetce) break;
+          }
+          if (targetce) break;
+        }
+
+        if (targetce)
+          targetces.push_back (targetce);
+      }
+
+      if (targetces.size() != 2) continue;
+
+      const suConnectedEntity * ce0 = targetces[0];
+      const suConnectedEntity * ce1 = targetces[1];
+
+      SUASSERT (ce0->net() == ce1->net(), "External tie is bad: ces belong to different nets");
+
+      suTie * tie = new suTie (ce0, ce1);
+
+      ties.push_back (tie);
+    }
+
+    return ties;
+
+  } // end of suSatRouter::create_extermal_ties
+
+  //
+  void suSatRouter::add_external_ties ()
+  {
+    SUINFO(1) << "Add external ties and delete useless default ties." << std::endl;
+    
+    //
+    sutype::ties_t externalTies = create_extermal_ties ();
+    SUINFO(1) << "Created " << externalTies.size() << " external ties." << std::endl;
+
+    //
+    std::set<suTie*, suTie::cmp_ptr> externalTiesInUse;
+    
+    // append external ties
+    for (sutype::uvi_t i=0; i < externalTies.size(); ++i) {
+
+      suTie * tie1 = externalTies[i];
+
+      const suConnectedEntity * ce0 = tie1->entity0();
+      const suConnectedEntity * ce1 = tie1->entity1();
+
+      int numTrunkCes = 0;
+      if (ce0->is (sutype::wt_trunk)) ++numTrunkCes;
+      if (ce1->is (sutype::wt_trunk)) ++numTrunkCes;
+
+      // I allow to define external ties only for preroute-GR
+      if (numTrunkCes != 1) {
+        delete tie1;
+        continue;
+      }
+
+      const suNet * net = tie1->net();
+      SUASSERT (net, "");
+      auto & netties = _ties[net->id()];
+      
+      for (sutype::uvi_t k=0; k < netties.size(); ++k) {
+        
+        suTie * tie2 = netties[k];
+        
+        if (tie1->is_the_same_as (tie2)) {
+          externalTiesInUse.insert (tie2);
+          delete tie1;
+          tie1 = 0;
+          break;
+        }
+      }
+
+      if (tie1 == 0) continue;
+
+      netties.push_back (tie1);
+      externalTiesInUse.insert (tie1);
+    }
+
+    SUINFO(1) << "Detected " << externalTiesInUse.size() << " external ties in use." << std::endl;
+
+    //
+    std::map<const suConnectedEntity *, sutype::ties_t, suConnectedEntity::cmp_const_ptr> tiesPerConnectedEntity;
+
+    // collect all ties
+    for (const auto & iter1 : _ties) {
+        
+        const sutype::id_t netid = iter1.first;
+        const auto & netties = _ties.at(netid);
+        
+        for (sutype::uvi_t i=0; i < netties.size(); ++i) {
+        
+          suTie * tie = netties[i];
+        
+          const suConnectedEntity * ce0 = tie->entity0();
+          const suConnectedEntity * ce1 = tie->entity1();
+
+          SUASSERT (ce0 != ce1, "");
+
+          tiesPerConnectedEntity[ce0].push_back (tie);
+          tiesPerConnectedEntity[ce1].push_back (tie);
+        }
+    }
+
+    std::set<suTie*, suTie::cmp_ptr> tiesToDelete;
+
+    // detect default ties to remove if external ties are defined
+    for (const auto & iter0 : tiesPerConnectedEntity) {
+
+      const suConnectedEntity * ce0 = iter0.first;
+      if (!ce0->is (sutype::wt_preroute)) continue;
+
+      const sutype::ties_t & ceties = iter0.second;
+
+      bool ceHasExternalTies = false;
+
+      for (const auto & iter1 : ceties) {
+
+        suTie * tie = iter1;
+        if (externalTiesInUse.count (tie) > 0) {
+          ceHasExternalTies = true;
+          break;
+        }
+      }
+
+      if (!ceHasExternalTies) continue;
+
+      // delete non-external ties
+      for (const auto & iter1 : ceties) {
+
+        suTie * tie = iter1;
+
+        // this's an external tie
+        if (externalTiesInUse.count (tie) > 0) continue;
+
+        // this's default tie
+        tiesToDelete.insert (tie);
+      }
+    }
+
+    // remove ties
+    for (const auto & iter1 : _ties) {
+        
+        const sutype::id_t netid = iter1.first;
+        auto & netties = _ties.at(netid);
+        
+        for (sutype::svi_t i=0; i < (sutype::svi_t)netties.size(); ++i) {
+        
+          suTie * tie = netties[i];
+          if (tiesToDelete.count (tie) == 0) continue;
+
+          netties[i] = netties.back();
+          netties.pop_back();
+          --i;
+        }
+    }
+
+    // delete ties
+    for (const auto & iter1 : tiesToDelete) {
+
+      suTie * tie = iter1;
+      delete tie;
+    }
+
+    SUINFO(1) << "Deleted " << tiesToDelete.size() << " default ties." << std::endl;
+    
+  } // end of suSatRouter::add_external_ties
 
   //
   void suSatRouter::create_routes ()
@@ -2139,7 +2439,7 @@ namespace amsr
   } // end of suSatRouter::create_routes
   
   //
-  void suSatRouter::prune_ties ()
+  void suSatRouter::delete_unfeasible_net_ties ()
   {    
     SUINFO(1) << "Prune ties." << std::endl;
     
@@ -2150,7 +2450,7 @@ namespace amsr
       delete_unfeasible_net_ties_ (netid);
     }
     
-  } // end of suSatRouter::prune_ties
+  } // end of suSatRouter::delete_unfeasible_net_ties
 
   //
   void suSatRouter::emit_connected_entities ()
@@ -2911,88 +3211,117 @@ namespace amsr
     
     SUINFO(1) << "### OPT 1 ### Minimize the number of open connected entities." << std::endl;
     optimize_the_number_of_open_connected_entities_ ();
-    //post_routing_fix_routes (false);
     
     SUINFO(1) << "### OPT 2 ### Minimize the number of open ties." << std::endl;
     optimize_the_number_of_open_ties_ ();
-    //post_routing_fix_routes (false);
-
+    
     if (option_disable_optimization) {
       SUINFO(1) << "Optimizations are disabled due to option disable_optimization." << std::endl;
       return;
     }
     
-    SUINFO(1) << "### OPT 3 ### Optimize the number of direct I-routes." << std::endl;
-    optimize_the_number_of_direct_wires_between_preroutes_ (false);
-    post_routing_fix_routes (false);
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_direct_i_routes", true)) {
+      
+      SUINFO(1) << "### OPT 3 ### Optimize the number of direct I-routes." << std::endl;
+      optimize_the_number_of_direct_wires_between_preroutes_ (false);
+      post_routing_fix_routes (false);
+    }
     
-    SUINFO(1) << "### OPT 4 ### Maximize the number of ties between trunks." << std::endl;
-    optimize_the_number_of_ties_ (2, sutype::om_maximize, suGlobalRouter::instance()->reasonable_gr_length(), -1);
-    post_routing_fix_routes (false);
+    if (suOptionManager::instance()->get_boolean_option ("opt_maximize_ties_between_trunks", true)) {
+      
+      SUINFO(1) << "### OPT 4 ### Maximize the number of ties between trunks." << std::endl;
+      optimize_the_number_of_ties_ (2, sutype::om_maximize, suGlobalRouter::instance()->reasonable_gr_length(), -1);
+      post_routing_fix_routes (false);
+    }
 
-    SUINFO(1) << "### OPT 5 ### Maximize the number of ties between trunks and preroutes." << std::endl;
-    optimize_the_number_of_ties_ (1, sutype::om_maximize, suGlobalRouter::instance()->reasonable_gr_length(), -1);
-    post_routing_fix_routes (false);
-    
-    SUINFO(1) << "### OPT 5 ### Minimize the number of trunk tracks." << std::endl;
-    optimize_the_number_of_tracks_ (sutype::wt_trunk, false, false, -1);
-    post_routing_fix_routes (false);
+    if (suOptionManager::instance()->get_boolean_option ("opt_maximize_ties_between_trunks_and_terminals", true)) {
+      
+      SUINFO(1) << "### OPT 5 ### Maximize the number of ties between trunks and preroutes." << std::endl;
+      optimize_the_number_of_ties_ (1, sutype::om_maximize, suGlobalRouter::instance()->reasonable_gr_length(), -1);
+      post_routing_fix_routes (false);
+    }
 
-    SUINFO(1) << "### OPT 6 ### Minimize the number preroute extensions." << std::endl;
-    minimize_the_number_of_preroute_extensions_ ();
-    post_routing_fix_routes (false);
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_trunk_tracks", true)) {
+      
+      SUINFO(1) << "### OPT 5 ### Minimize the number of trunk tracks." << std::endl;
+      optimize_the_number_of_tracks_ (sutype::wt_trunk, false, false, -1);
+      post_routing_fix_routes (false);
+    }
+
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_preroute_extensions", true)) {
+      
+      SUINFO(1) << "### OPT 6 ### Minimize the number preroute extensions." << std::endl;
+      minimize_the_number_of_preroute_extensions_ ();
+      post_routing_fix_routes (false);
+    }
        
     if (1) {
       post_routing_fix_trunks ();
       post_routing_fix_routes (false);
     }
+
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_wire_tracks_soft", true)) {
+      
+      SUINFO(1) << "### OPT 7 ### Minimize the number of wire tracks." << std::endl;
+      optimize_the_number_of_tracks_ (sutype::wt_undefined, false, true, 1);
+      post_routing_fix_routes (false);
+    }
+
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_ties_between_terminals", true)) {
+      
+      SUINFO(1) << "### OPT 8 ### Minimize the number of ties between preroutes." << std::endl;
+      optimize_the_number_of_ties_ (0, sutype::om_minimize, -1, -1); // 3rd param works only for trunks
+      post_routing_fix_routes (false);
+    }
     
-    SUINFO(1) << "### OPT 7 ### Minimize the number of wire tracks." << std::endl;
-    optimize_the_number_of_tracks_ (sutype::wt_undefined, false, true, 1);
-    post_routing_fix_routes (false);
-        
-    SUINFO(1) << "### OPT 8 ### Minimize the number of ties between preroutes." << std::endl;
-    optimize_the_number_of_ties_ (0, sutype::om_minimize, -1, -1); // 3rd param works only for trunks
-    post_routing_fix_routes (false);
-    
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_maximize_routes_between_trunks_and_terminals", true)) {
+      
       SUINFO(1) << "### OPT 9 ### Maximize the number of routes between trunks and preroutes." << std::endl;
       optimize_the_number_of_routes_ (1, sutype::om_maximize);
     }
 
-    SUINFO(1) << "### OPT 10 ### Minimize the number of wire tracks." << std::endl;
-    optimize_the_number_of_tracks_ (sutype::wt_undefined, false, false, -1);
-    post_routing_fix_routes (false);
-    
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_minimize_wire_tracks_heavy", true)) {
+
+      SUINFO(1) << "### OPT 10 ### Minimize the number of wire tracks." << std::endl;
+      optimize_the_number_of_tracks_ (sutype::wt_undefined, false, false, -1);
+      post_routing_fix_routes (false);
+    }
+      
+    if (suOptionManager::instance()->get_boolean_option ("opt_maximize_routes_between_terminals", true)) {
+      
       SUINFO(1) << "### OPT 11 ### Maximize the number of routes between preroutes." << std::endl;
       optimize_the_number_of_routes_ (0, sutype::om_maximize);
     }
     
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_maximize_routes_between_trunks", true)) {
+      
       SUINFO(1) << "### OPT 12 ### Maximize the number of routes between trunks." << std::endl;
       optimize_the_number_of_routes_ (2, sutype::om_maximize);
     }
 
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_optimize_width_of_trunks", true)) {
+      
       SUINFO(1) << "### OPT 13 ### Optimize widths of trunk wires."<< std::endl;
       optimize_wire_widths_ (sutype::wt_trunk);
       post_routing_fix_routes (false);
     }
     
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_optimize_width_of_shunt_wires", true)) {
+      
       SUINFO(1) << "### OPT 14 ### Optimize widths of shunt wires."<< std::endl;
       optimize_wire_widths_ (sutype::wt_shunt);
       post_routing_fix_routes (false);
     }
 
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_optimize_connections_to_terminals", true)) {
+      
       SUINFO(1) << "### OPT 15 ### Optimize connections to preroutes." << std::endl;
       optimize_connections_to_preroutes_ ();
       post_routing_fix_routes (false);
     }
 
-    if (1) {
+    if (suOptionManager::instance()->get_boolean_option ("opt_optimize_length_of_shunt_wires", true)) {
+      
       SUINFO(1) << "### OPT 16 ### Optimize lengths of shunt wires."<< std::endl;
       optimize_wire_lengths_ (sutype::wt_shunt);
       post_routing_fix_routes (false);
@@ -6125,7 +6454,7 @@ namespace amsr
     const bool np = false;
 
     SUINFO(1) << "Create routes for tie: " << tie->to_str() << std::endl;
-    
+    //if (tie->id() != 709) return; // tofix
     SUASSERT (tie->entity0(), "");
     SUASSERT (tie->entity1(), "");
     SUASSERT (tie->routes().empty(), "");
@@ -6138,14 +6467,14 @@ namespace amsr
       SUINFO(1) << "wires0:" << std::endl;
       for (const auto & iter : wires0) {
         suWire * wire = iter;
-        if (!wire->is (sutype::wt_preroute)) continue;
+        //if (!wire->is (sutype::wt_preroute)) continue;
         SUINFO(1) << "  " << wire->to_str() << std::endl;
       }
 
       SUINFO(1) << "wires1:" << std::endl;
       for (const auto & iter : wires1) {
         suWire * wire = iter;
-        if (!wire->is (sutype::wt_preroute)) continue;
+        //if (!wire->is (sutype::wt_preroute)) continue;
         SUINFO(1) << "  " << wire->to_str() << std::endl;
       }
     }

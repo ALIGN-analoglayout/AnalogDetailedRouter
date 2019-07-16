@@ -610,17 +610,25 @@ namespace amsr
   {
     if (wires.size() <= 1) return;
 
-    for (sutype::svi_t i=0; i < (sutype::svi_t)wires.size(); ++i) {
+    while (1) {
 
-      for (sutype::svi_t k=i+1; k < (sutype::svi_t)wires.size(); ++k) {
+      bool repeat = false;
+
+      for (sutype::svi_t i=0; i < (sutype::svi_t)wires.size(); ++i) {
+
+        for (sutype::svi_t k=i+1; k < (sutype::svi_t)wires.size(); ++k) {
         
-        bool merged = merge_two_wires_if_possible_to_the_first_wire_ (i, k, wires);
-        if (!merged) continue;
+          bool merged = merge_two_wires_if_possible_to_the_first_wire_ (i, k, wires);
+          if (!merged) continue;
 
-        wires[k] = wires.back();
-        wires.pop_back();
-        k = i;
+          wires[k] = wires.back();
+          wires.pop_back();
+          k = i;
+          repeat = true;
+        }
       }
+    
+      if (!repeat) break;
     }
     
   } // end of suWireManager::merge_wires_

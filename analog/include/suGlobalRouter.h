@@ -49,7 +49,10 @@ namespace amsr
     
     //
     std::vector<sutype::regions_t> _regions;
-    
+
+    //
+    sutype::extties_t _rawExternalTies;
+
     //
     sutype::gredges_t _gredges;
 
@@ -140,16 +143,19 @@ namespace amsr
     inline int reasonable_gr_length () const { return 2; }
     
     //
-    const sutype::regions_t & regions () const { return _idToRegion; }
+    inline const sutype::regions_t & regions () const { return _idToRegion; }
 
     //
-    const sutype::globalroutes_t & globalRoutes () const { return _globalRoutes; }
+    inline const sutype::globalroutes_t & globalRoutes () const { return _globalRoutes; }
 
     //
-    sutype::globalroutes_t & globalRoutes () { return _globalRoutes; }
+    inline sutype::globalroutes_t & globalRoutes () { return _globalRoutes; }
 
     //
-    const suTokenParser * grTokenParser () const { return _grTokenParser; }
+    inline const suTokenParser * grTokenParser () const { return _grTokenParser; }
+
+    //
+    inline const sutype::extties_t & get_raw_external_ties () const { return _rawExternalTies; }
     
   public:
 
@@ -223,6 +229,9 @@ namespace amsr
 
     //
     void parse_global_routings_ (const suToken * roottoken);
+
+    //
+    void parse_raw_external_ties_ (const suToken * roottoken);
     
     //
     void create_regions_ ();

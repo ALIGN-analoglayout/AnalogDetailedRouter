@@ -540,15 +540,14 @@ int main (int argc, char ** argv)
       suSatRouter::instance()->create_global_routing ();
     }
 
-    suSatRouter::instance()->create_routes ();
-
-    //SUABORT;
-
-    suSatRouter::instance()->prune_ties ();
     suSatRouter::instance()->prune_redundant_ties ();
-    
-    //SUABORT;
 
+    suSatRouter::instance()->add_external_ties ();
+    
+    suSatRouter::instance()->create_routes ();
+    
+    suSatRouter::instance()->delete_unfeasible_net_ties ();
+    
     // formulate the boolean problem
     suSatRouter::instance()->emit_connected_entities ();
     suSatRouter::instance()->emit_ties_and_routes ();

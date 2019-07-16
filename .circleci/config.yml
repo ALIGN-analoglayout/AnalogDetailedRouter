@@ -1,0 +1,65 @@
+version: 2.1
+
+executors:
+  docker-executor:
+    docker:
+      - image: docker:18.06.3-ce-git
+    working_directory: /work/workspace
+
+  git-executor:
+    docker:
+      - image: alpine/git
+    working_directory: /work/workspace
+
+jobs:
+  start:
+    executor: git-executor
+    steps:
+      - attach_workspace:
+          at: /work/workspace
+      - checkout
+      - persist_to_workspace:
+          root: /work/workspace
+          paths: .
+
+
+  build:
+    executor: docker-executor
+    steps:
+      - setup_remote_docker
+
+      - attach_workspace:
+          at: /work/workspace
+
+      - run: |
+          docker build -f Dockerfile -t intel_detailed_router .
+          
+  finish:
+    executor: git-executor
+
+    steps:
+      - attach_workspace:
+          at: /work/workspace
+
+      - store_test_results:
+          path: test-reports
+
+      - store_artifacts:
+          path: test-reports
+
+      - store_artifacts:
+          path: coverage-reports
+
+
+workflows:
+  version: 2.1
+
+  full:
+    jobs:
+      - start
+      - build:
+          requires:
+            - start 
+      - finish:
+          requires:
+            - build

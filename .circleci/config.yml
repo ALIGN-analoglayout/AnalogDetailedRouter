@@ -34,6 +34,15 @@ jobs:
       - run: |
           docker build -f Dockerfile -t intel_detailed_router .
           
+      - run: |
+          docker run --name c --mount src=rVol,tgt=/run ubuntu
+          docker copy tests/vga/INPUT cp:/run/INPUT
+          docker copy tests/vga/DR_COLLATERAL cp:/run/DR_COLLATERAL
+          docker copy tests/vga/out-gold cp:/run/out-gold
+          docker stop c
+          docker rm c
+          docker run -it --mount src=iVol,tgt=/INPUT --mount src=cVol,tgt=/DR_COLLATERAL intel_detailed_router bash -c "cd run && /analog/bin/amsr.exe -file INPUT && diff out out-gold"
+
   finish:
     executor: git-executor
 

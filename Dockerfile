@@ -4,7 +4,7 @@ RUN apt-get update && apt-get install -yq curl g++ git build-essential lcov zlib
 
 FROM can_build as build_intel_detailed_router
 
-ADD . /analog
+COPY . /analog
 
 RUN \
     cd /analog && \

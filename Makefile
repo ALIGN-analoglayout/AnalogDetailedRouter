@@ -98,7 +98,6 @@ INCLUDES += -I$(GLUCOSE)
 #endif
 GCC_XOPT_FLAGS = -std=c++11 -Wno-reorder -Wno-unused-function -Wunused-but-set-variable -Wunused-local-typedefs -Wparentheses -Wsign-compare -Wnarrowing -D_LG_GCC_VER_=70400
 
-ENABLE_FIVER  = 0
 ENABLE_SVI    = 0
 RELEASE_BUILD = 0
 DEFINES       =    
@@ -123,7 +122,6 @@ endif
 ifeq ($(OPT),release)
 OPTFLAG = -O3 -rdynamic -ffloat-store $(GCC_XOPT_FLAGS)
 RELEASE_BUILD = 1
-ENABLE_FIVER  = 0
 ENABLE_SVI    = 0
 STRIP = strip
 endif
@@ -186,23 +184,11 @@ DEFINES += -D_BUILD_REVISION_="\"${BUILD_REVISION}\""
 DEFINES += -D_BUILD_COMPILER_="\"${BUILD_COMPILER}\""
 DEFINES += -D_BUILD_SECONDS_=${BUILD_SECONDS}
 
-# Boost
-BOOST_LOCAL =  /usr/intel/pkgs/boost/1.55.0-gcc-4.8.1
-#BOOST_LOCAL =  /p/dt/cad/em64t_SLES11/boost/1.54.0_gcc481_64
-#BOOST_LOCAL = /nfs/site/disks/laygen_release_001/CAD_ROOT/boost
-#BOOST_LOCAL = /nfs/sc/disks/scl.work.01/ppt/nvryzhen/cellGen/laygen_release_001/CAD_ROOT/boost
-BOOST_LIBS = -L${BOOST_LOCAL}/lib -Wl,-rpath,${BOOST_LOCAL}/lib -lboost_iostreams -lboost_filesystem -lboost_system -lboost_thread
-
 # All external libs to build our shared lib
 EXT_LIBS =
 
 # need it for clock_gettime
 EXT_LIBS += -lrt
-
-ifeq ($(ENABLE_FIVER),1)
-EXT_LIBS += $(FIVER_LIBS)
-EXT_LIBS += $(BOOST_LIBS)
-endif
 
 ifeq ($(ENABLE_SVI),1)
 EXT_LIBS += $(SVI_LIBS)

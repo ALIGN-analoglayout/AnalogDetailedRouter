@@ -1,0 +1,390 @@
+#start of regular net vga_out1
+ConnectedEntity terms=0
+ConnectedEntity terms=1
+ConnectedEntity terms=2
+ConnectedEntity terms=3
+ConnectedEntity terms=4
+ConnectedEntity terms=5
+ConnectedEntity terms=6
+ConnectedEntity terms=7
+ConnectedEntity terms=8
+ConnectedEntity terms=9
+ConnectedEntity terms=10
+ConnectedEntity terms=11
+ConnectedEntity terms=12
+ConnectedEntity terms=13
+ConnectedEntity terms=14
+GlobalRouting net=vga_out1 routes=(8,0,8,13,metal3,gid=0,minw=320);(14,11,14,13,metal3,gid=1,minw=320);(8,11,16,11,metal4,gid=2,minw=320)
+Tie term0=2 gr0=0
+Tie term0=3 gr0=0
+Tie term0=4 gr0=0
+Tie term0=5 gr0=0
+Tie term0=6 gr0=0
+Tie term0=7 gr0=0
+Tie term0=8 gr0=0
+Tie term0=9 gr0=0
+Tie term0=10 gr0=0
+Tie term0=11 gr0=0
+Tie term0=12 gr0=0
+Tie term0=13 gr0=0
+Tie term0=14 gr0=0
+Tie term0=0 gr0=1
+Tie term0=6 gr0=1
+Tie term0=7 gr0=1
+Tie term0=8 gr0=1
+Tie term0=9 gr0=1
+Tie term0=10 gr0=1
+#end of net vga_out1
+#start of regular net vgnd
+ConnectedEntity terms=15
+ConnectedEntity terms=16
+ConnectedEntity terms=17
+ConnectedEntity terms=18
+ConnectedEntity terms=19
+ConnectedEntity terms=20
+ConnectedEntity terms=21
+ConnectedEntity terms=22
+ConnectedEntity terms=23
+ConnectedEntity terms=24
+GlobalRouting net=vgnd routes=(8,14,8,21,metal3,gid=3,minw=320);(3,16,13,16,metal4,gid=4,minw=320)
+Tie term0=17 gr0=3
+Tie term0=18 gr0=3
+Tie term0=19 gr0=3
+Tie term0=20 gr0=3
+Tie term0=21 gr0=3
+Tie term0=22 gr0=3
+Tie term0=23 gr0=3
+Tie term0=24 gr0=3
+#end of net vgnd
+#start of regular net vga_out2
+ConnectedEntity terms=25
+ConnectedEntity terms=26
+ConnectedEntity terms=27
+ConnectedEntity terms=28
+ConnectedEntity terms=29
+ConnectedEntity terms=30
+ConnectedEntity terms=31
+ConnectedEntity terms=32
+ConnectedEntity terms=33
+ConnectedEntity terms=34
+ConnectedEntity terms=35
+ConnectedEntity terms=36
+ConnectedEntity terms=37
+ConnectedEntity terms=38
+ConnectedEntity terms=39
+GlobalRouting net=vga_out2 routes=(8,0,8,13,metal3,gid=5,minw=320);(2,11,2,13,metal3,gid=6,minw=320);(0,11,8,11,metal4,gid=7,minw=320)
+Tie term0=27 gr0=5
+Tie term0=28 gr0=5
+Tie term0=29 gr0=5
+Tie term0=30 gr0=5
+Tie term0=31 gr0=5
+Tie term0=32 gr0=5
+Tie term0=33 gr0=5
+Tie term0=34 gr0=5
+Tie term0=35 gr0=5
+Tie term0=36 gr0=5
+Tie term0=37 gr0=5
+Tie term0=38 gr0=5
+Tie term0=39 gr0=5
+Tie term0=25 gr0=6
+#end of net vga_out2
+#start of regular net net5p
+ConnectedEntity terms=40
+ConnectedEntity terms=41
+ConnectedEntity terms=42
+ConnectedEntity terms=43
+ConnectedEntity terms=44
+ConnectedEntity terms=45
+ConnectedEntity terms=46
+ConnectedEntity terms=47
+ConnectedEntity terms=48
+ConnectedEntity terms=49
+ConnectedEntity terms=50
+ConnectedEntity terms=51
+GlobalRouting net=net5p routes=(8,11,8,21,metal3,gid=8,minw=320);(13,9,13,12,metal3,gid=9,minw=320);(8,11,13,11,metal4,gid=10,minw=320)
+Tie term0=44 gr0=8
+Tie term0=45 gr0=8
+Tie term0=46 gr0=8
+Tie term0=47 gr0=8
+Tie term0=48 gr0=8
+Tie term0=49 gr0=8
+Tie term0=50 gr0=8
+Tie term0=51 gr0=8
+Tie term0=40 gr0=9
+Tie term0=41 gr0=9
+Tie term0=42 gr0=9
+Tie term0=43 gr0=9
+#end of net net5p
+#start of regular net s0
+ConnectedEntity terms=52
+ConnectedEntity terms=53
+ConnectedEntity terms=54
+ConnectedEntity terms=55
+GlobalRouting net=s0 routes=(13,9,13,12,metal3,gid=11,minw=320)
+Tie term0=52 gr0=11
+Tie term0=53 gr0=11
+Tie term0=54 gr0=11
+Tie term0=55 gr0=11
+#end of net s0
+#start of regular net net5
+ConnectedEntity terms=56
+ConnectedEntity terms=57
+ConnectedEntity terms=58
+ConnectedEntity terms=59
+ConnectedEntity terms=60
+ConnectedEntity terms=61
+GlobalRouting net=net5 routes=(9,9,9,11,metal3,gid=12,minw=320);(14,9,14,12,metal3,gid=13,minw=320);(9,11,14,11,metal4,gid=14,minw=320)
+Tie term0=60 gr0=12
+Tie term0=61 gr0=12
+Tie term0=56 gr0=13
+Tie term0=57 gr0=13
+Tie term0=58 gr0=13
+Tie term0=59 gr0=13
+#end of net net5
+#start of regular net net4p
+ConnectedEntity terms=62
+ConnectedEntity terms=63
+ConnectedEntity terms=64
+ConnectedEntity terms=65
+ConnectedEntity terms=66
+ConnectedEntity terms=67
+ConnectedEntity terms=68
+ConnectedEntity terms=69
+ConnectedEntity terms=70
+ConnectedEntity terms=71
+ConnectedEntity terms=72
+ConnectedEntity terms=73
+GlobalRouting net=net4p routes=(1,5,1,8,metal3,gid=15,minw=320);(8,5,8,21,metal3,gid=16,minw=320);(1,6,8,6,metal4,gid=17,minw=320)
+Tie term0=62 gr0=15
+Tie term0=63 gr0=15
+Tie term0=64 gr0=15
+Tie term0=65 gr0=15
+Tie term0=66 gr0=16
+Tie term0=67 gr0=16
+Tie term0=68 gr0=16
+Tie term0=69 gr0=16
+Tie term0=70 gr0=16
+Tie term0=71 gr0=16
+Tie term0=72 gr0=16
+Tie term0=73 gr0=16
+#end of net net4p
+#start of regular net s1
+ConnectedEntity terms=74
+ConnectedEntity terms=75
+ConnectedEntity terms=76
+ConnectedEntity terms=77
+GlobalRouting net=s1 routes=(1,5,1,8,metal3,gid=18,minw=320)
+Tie term0=74 gr0=18
+Tie term0=75 gr0=18
+Tie term0=76 gr0=18
+Tie term0=77 gr0=18
+#end of net s1
+#start of regular net net4
+ConnectedEntity terms=78
+ConnectedEntity terms=79
+ConnectedEntity terms=80
+ConnectedEntity terms=81
+ConnectedEntity terms=82
+ConnectedEntity terms=83
+ConnectedEntity terms=84
+ConnectedEntity terms=85
+GlobalRouting net=net4 routes=(1,5,1,8,metal3,gid=19,minw=320);(8,5,8,8,metal3,gid=20,minw=320);(1,7,8,7,metal4,gid=21,minw=320)
+Tie term0=78 gr0=19
+Tie term0=79 gr0=19
+Tie term0=80 gr0=19
+Tie term0=81 gr0=19
+Tie term0=82 gr0=20
+Tie term0=83 gr0=20
+Tie term0=84 gr0=20
+Tie term0=85 gr0=20
+#end of net net4
+#start of regular net net6p
+ConnectedEntity terms=86
+ConnectedEntity terms=87
+ConnectedEntity terms=88
+ConnectedEntity terms=89
+ConnectedEntity terms=90
+ConnectedEntity terms=91
+ConnectedEntity terms=92
+ConnectedEntity terms=93
+ConnectedEntity terms=94
+ConnectedEntity terms=95
+ConnectedEntity terms=96
+ConnectedEntity terms=97
+GlobalRouting net=net6p routes=(9,0,9,21,metal3,gid=22,minw=320);(16,0,16,3,metal3,gid=23,minw=320);(9,1,16,1,metal4,gid=24,minw=320)
+Tie term0=90 gr0=22
+Tie term0=91 gr0=22
+Tie term0=92 gr0=22
+Tie term0=93 gr0=22
+Tie term0=94 gr0=22
+Tie term0=95 gr0=22
+Tie term0=96 gr0=22
+Tie term0=97 gr0=22
+Tie term0=86 gr0=23
+Tie term0=87 gr0=23
+Tie term0=88 gr0=23
+Tie term0=89 gr0=23
+#end of net net6p
+#start of regular net s2
+ConnectedEntity terms=98
+ConnectedEntity terms=99
+ConnectedEntity terms=100
+ConnectedEntity terms=101
+GlobalRouting net=s2 routes=(16,0,16,3,metal3,gid=25,minw=320)
+Tie term0=98 gr0=25
+Tie term0=99 gr0=25
+Tie term0=100 gr0=25
+Tie term0=101 gr0=25
+#end of net s2
+#start of regular net net6
+ConnectedEntity terms=102
+ConnectedEntity terms=103
+ConnectedEntity terms=104
+ConnectedEntity terms=105
+ConnectedEntity terms=106
+ConnectedEntity terms=107
+ConnectedEntity terms=108
+ConnectedEntity terms=109
+ConnectedEntity terms=110
+GlobalRouting net=net6 routes=(8,0,8,4,metal3,gid=26,minw=320);(16,0,16,3,metal3,gid=27,minw=320);(8,2,16,2,metal4,gid=28,minw=320)
+Tie term0=106 gr0=26
+Tie term0=107 gr0=26
+Tie term0=108 gr0=26
+Tie term0=109 gr0=26
+Tie term0=110 gr0=26
+Tie term0=102 gr0=27
+Tie term0=103 gr0=27
+Tie term0=104 gr0=27
+Tie term0=105 gr0=27
+#end of net net6
+#start of regular net vps
+ConnectedEntity terms=111
+ConnectedEntity terms=112
+GlobalRouting net=vps routes=(0,12,16,12,metal4,gid=29,minw=320)
+#end of net vps
+#start of regular net vmirror
+ConnectedEntity terms=113
+ConnectedEntity terms=114
+ConnectedEntity terms=115
+ConnectedEntity terms=116
+ConnectedEntity terms=117
+ConnectedEntity terms=118
+ConnectedEntity terms=119
+ConnectedEntity terms=120
+GlobalRouting net=vmirror routes=(8,14,8,21,metal3,gid=30,minw=320)
+Tie term0=113 gr0=30
+Tie term0=114 gr0=30
+Tie term0=115 gr0=30
+Tie term0=116 gr0=30
+Tie term0=117 gr0=30
+Tie term0=118 gr0=30
+Tie term0=119 gr0=30
+Tie term0=120 gr0=30
+#end of net vmirror
+#start of regular net net3
+ConnectedEntity terms=121
+ConnectedEntity terms=122
+ConnectedEntity terms=123
+ConnectedEntity terms=124
+ConnectedEntity terms=125
+ConnectedEntity terms=126
+ConnectedEntity terms=127
+ConnectedEntity terms=128
+ConnectedEntity terms=129
+ConnectedEntity terms=130
+GlobalRouting net=net3 routes=(8,12,8,21,metal3,gid=31,minw=320)
+Tie term0=121 gr0=31
+Tie term0=122 gr0=31
+Tie term0=123 gr0=31
+Tie term0=124 gr0=31
+Tie term0=125 gr0=31
+Tie term0=126 gr0=31
+Tie term0=127 gr0=31
+Tie term0=128 gr0=31
+Tie term0=129 gr0=31
+Tie term0=130 gr0=31
+#end of net net3
+#start of regular net vin1
+ConnectedEntity terms=131
+ConnectedEntity terms=132
+ConnectedEntity terms=133
+ConnectedEntity terms=134
+ConnectedEntity terms=135
+ConnectedEntity terms=136
+ConnectedEntity terms=137
+ConnectedEntity terms=138
+ConnectedEntity terms=139
+ConnectedEntity terms=140
+ConnectedEntity terms=141
+ConnectedEntity terms=142
+ConnectedEntity terms=143
+GlobalRouting net=vin1 routes=(6,0,6,13,metal3,gid=32,minw=320);(10,0,10,13,metal3,gid=33,minw=320)
+Tie term0=131 gr0=32
+Tie term0=132 gr0=32
+Tie term0=133 gr0=32
+Tie term0=134 gr0=32
+Tie term0=135 gr0=32
+Tie term0=136 gr0=32
+Tie term0=137 gr0=32
+Tie term0=138 gr0=32
+Tie term0=139 gr0=32
+Tie term0=140 gr0=32
+Tie term0=141 gr0=32
+Tie term0=142 gr0=32
+Tie term0=143 gr0=32
+Tie term0=131 gr0=33
+Tie term0=132 gr0=33
+Tie term0=133 gr0=33
+Tie term0=134 gr0=33
+Tie term0=135 gr0=33
+Tie term0=136 gr0=33
+Tie term0=137 gr0=33
+Tie term0=138 gr0=33
+Tie term0=139 gr0=33
+Tie term0=140 gr0=33
+Tie term0=141 gr0=33
+Tie term0=142 gr0=33
+Tie term0=143 gr0=33
+#end of net vin1
+#start of regular net vin2
+ConnectedEntity terms=144
+ConnectedEntity terms=145
+ConnectedEntity terms=146
+ConnectedEntity terms=147
+ConnectedEntity terms=148
+ConnectedEntity terms=149
+ConnectedEntity terms=150
+ConnectedEntity terms=151
+ConnectedEntity terms=152
+ConnectedEntity terms=153
+ConnectedEntity terms=154
+ConnectedEntity terms=155
+ConnectedEntity terms=156
+GlobalRouting net=vin2 routes=(6,0,6,13,metal3,gid=34,minw=320);(10,0,10,13,metal3,gid=35,minw=320)
+Tie term0=144 gr0=34
+Tie term0=145 gr0=34
+Tie term0=146 gr0=34
+Tie term0=147 gr0=34
+Tie term0=148 gr0=34
+Tie term0=149 gr0=34
+Tie term0=150 gr0=34
+Tie term0=151 gr0=34
+Tie term0=152 gr0=34
+Tie term0=153 gr0=34
+Tie term0=154 gr0=34
+Tie term0=155 gr0=34
+Tie term0=156 gr0=34
+Tie term0=144 gr0=35
+Tie term0=145 gr0=35
+Tie term0=146 gr0=35
+Tie term0=147 gr0=35
+Tie term0=148 gr0=35
+Tie term0=149 gr0=35
+Tie term0=150 gr0=35
+Tie term0=151 gr0=35
+Tie term0=152 gr0=35
+Tie term0=153 gr0=35
+Tie term0=154 gr0=35
+Tie term0=155 gr0=35
+Tie term0=156 gr0=35
+#end of net vin2

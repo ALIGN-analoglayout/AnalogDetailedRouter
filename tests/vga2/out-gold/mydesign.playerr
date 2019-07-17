@@ -1,0 +1,7 @@
+(FileExtension "playerr")
+(Version "Grammar version: 2.0" "Tool: Analog Router")
+(Cell: "mydesign"
+    (Comment: "This file is created from Analog Router database")
+    (ConversionFactor 10000)
+    (TotalErrors 0)
+)

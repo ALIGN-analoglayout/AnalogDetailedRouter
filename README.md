@@ -15,7 +15,19 @@ or
 ```bash
 docker build -t intel_detailed_router .
 ```
-
+TO test:
+```bash
+(cd tests/vga && ../../bin/amsr.exe -file INPUT/ctrl.txt)
+```
+or
+```bash
+docker run --name cp --mount source=rVol,target=/run ubuntu
+docker cp tests/vga/INPUT cp:/run/INPUT
+docker cp tests/vga/DR_COLLATERAL cp:/run/DR_COLLATERAL
+docker cp tests/vga/out-gold cp:/run/out-gold
+docker rm cp
+docker run -it --mount source=rVol,target=/run intel_detailed_router bash -c "cd run && amsr.exe -file INPUT/ctrl.txt && diff out out-gold"
+```
 ### License
 BSD 3 clause
 

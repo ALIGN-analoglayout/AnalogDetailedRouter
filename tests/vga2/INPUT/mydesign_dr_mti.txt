@@ -1,0 +1,5 @@
+MetalTemplateInstance template=m5 pgdoffset_abs=0 ogdoffset_abs=420 region=0:0:149120:184800
+MetalTemplateInstance template=m4 pgdoffset_abs=0 ogdoffset_abs=420 region=0:0:149120:184800
+MetalTemplateInstance template=m3 pgdoffset_abs=0 ogdoffset_abs=420 region=0:0:149120:184800
+MetalTemplateInstance template=m2 pgdoffset_abs=0 ogdoffset_abs=420 region=0:0:149120:184800
+MetalTemplateInstance template=m1 pgdoffset_abs=0 ogdoffset_abs=420 region=0:0:149120:184800

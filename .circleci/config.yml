@@ -23,7 +23,7 @@ jobs:
           paths: .
 
 
-  build:
+  build-tests:
     executor: docker-executor
     steps:
       - setup_remote_docker
@@ -32,16 +32,11 @@ jobs:
           at: /work/workspace
 
       - run: |
-          docker build -f Dockerfile -t intel_detailed_router .
+          docker build -f Dockerfile -t build_intel_detailed_router . ==target build_intel_detailed_router
           
       - run: |
           docker run --name cp --mount source=rVol,target=/run ubuntu
-          docker cp tests/vga/INPUT cp:/run/INPUT
-          docker cp tests/vga/DR_COLLATERAL cp:/run/DR_COLLATERAL
-          docker cp tests/vga/out-gold cp:/run/out-gold
-          docker stop cp
-          docker rm cp
-          docker run -it --mount source=rVol,target=/run intel_detailed_router bash -c "cd run && amsr.exe -file INPUT/ctrl.txt && diff out out-gold"
+          docker run -it build_intel_detailed_router bash -c "cd analog && source /general/bin/activate && pytest --junit-xml=junit.xml && mkdir -p /test-reports/tests && cp /analog/junit.xml /test-reports/blocks"
 
   finish:
     executor: git-executor
@@ -56,17 +51,13 @@ jobs:
       - store_artifacts:
           path: test-reports
 
-      - store_artifacts:
-          path: coverage-reports
-
-
 workflows:
   version: 2.1
 
   full:
     jobs:
       - start
-      - build:
+      - build-tests:
           requires:
             - start 
       - finish:

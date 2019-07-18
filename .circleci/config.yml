@@ -32,7 +32,7 @@ jobs:
           at: /work/workspace
 
       - run: |
-          docker build -f Dockerfile -t build_intel_detailed_router . ==target build_intel_detailed_router
+          docker build -f Dockerfile -t build_intel_detailed_router . --target build_intel_detailed_router
           
       - run: |
           docker run --name cp --mount source=rVol,target=/run ubuntu

@@ -9,6 +9,7 @@ This tools takes as input:
 * Existing wires (Pre-routes)
 * Global Routes
 and produces detailed routes like this:
+
 ![routed result](doc/images/new_vga_adr.png)
 
 ### To build and test locally:

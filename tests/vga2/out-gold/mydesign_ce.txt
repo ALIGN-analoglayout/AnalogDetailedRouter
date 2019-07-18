@@ -1,0 +1,628 @@
+
+ConnectedEntity net=net3 ceid=0 terms=121 {
+  # Wire {40760:180440:100680:180760; w=320; l=59920; sidec=180600; net=net3;1; layer=metal2;4 (base); satindex=188; gid=121; id=838; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=1 terms=122 {
+  # Wire {40760:172040:100680:172360; w=320; l=59920; sidec=172200; net=net3;1; layer=metal2;4 (base); satindex=187; gid=122; id=837; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=2 terms=123 {
+  # Wire {40760:163640:100680:163960; w=320; l=59920; sidec=163800; net=net3;1; layer=metal2;4 (base); satindex=186; gid=123; id=836; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=3 terms=124 {
+  # Wire {40760:155240:100680:155560; w=320; l=59920; sidec=155400; net=net3;1; layer=metal2;4 (base); satindex=185; gid=124; id=835; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=4 terms=125 {
+  # Wire {40760:146840:100680:147160; w=320; l=59920; sidec=147000; net=net3;1; layer=metal2;4 (base); satindex=184; gid=125; id=834; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=5 terms=126 {
+  # Wire {40760:138440:100680:138760; w=320; l=59920; sidec=138600; net=net3;1; layer=metal2;4 (base); satindex=183; gid=126; id=833; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=6 terms=127 {
+  # Wire {40760:130040:100680:130360; w=320; l=59920; sidec=130200; net=net3;1; layer=metal2;4 (base); satindex=182; gid=127; id=832; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=7 terms=128 {
+  # Wire {40760:121640:100680:121960; w=320; l=59920; sidec=121800; net=net3;1; layer=metal2;4 (base); satindex=181; gid=128; id=831; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=8 terms=129 {
+  # Wire {40760:113240:100680:113560; w=320; l=59920; sidec=113400; net=net3;1; layer=metal2;4 (base); satindex=180; gid=129; id=830; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net3 ceid=9 terms=130 {
+  # Wire {40760:104840:100680:105160; w=320; l=59920; sidec=105000; net=net3;1; layer=metal2;4 (base); satindex=179; gid=130; id=829; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=10 terms=78 {
+  # Wire {2840:47720:24360:48040; w=320; l=21520; sidec=47880; net=net4;2; layer=metal2;4 (base); satindex=196; gid=78; id=828; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=11 terms=79 {
+  # Wire {2840:56120:24360:56440; w=320; l=21520; sidec=56280; net=net4;2; layer=metal2;4 (base); satindex=195; gid=79; id=827; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=12 terms=80 {
+  # Wire {2840:64520:24360:64840; w=320; l=21520; sidec=64680; net=net4;2; layer=metal2;4 (base); satindex=194; gid=80; id=826; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=13 terms=81 {
+  # Wire {2840:72920:24360:73240; w=320; l=21520; sidec=73080; net=net4;2; layer=metal2;4 (base); satindex=193; gid=81; id=825; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=14 terms=82 {
+  # Wire {40760:46880:100680:47200; w=320; l=59920; sidec=47040; net=net4;2; layer=metal2;4 (base); satindex=192; gid=82; id=824; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=15 terms=83 {
+  # Wire {40760:55280:100680:55600; w=320; l=59920; sidec=55440; net=net4;2; layer=metal2;4 (base); satindex=191; gid=83; id=823; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=16 terms=84 {
+  # Wire {40760:63680:100680:64000; w=320; l=59920; sidec=63840; net=net4;2; layer=metal2;4 (base); satindex=190; gid=84; id=822; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4 ceid=17 terms=85 {
+  # Wire {40760:72080:100680:72400; w=320; l=59920; sidec=72240; net=net4;2; layer=metal2;4 (base); satindex=189; gid=85; id=821; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=18 terms=62 {
+  # Wire {2840:46880:24360:47200; w=320; l=21520; sidec=47040; net=net4p;3; layer=metal2;4 (base); satindex=208; gid=62; id=820; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=19 terms=63 {
+  # Wire {2840:55280:24360:55600; w=320; l=21520; sidec=55440; net=net4p;3; layer=metal2;4 (base); satindex=207; gid=63; id=819; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=20 terms=64 {
+  # Wire {2840:63680:24360:64000; w=320; l=21520; sidec=63840; net=net4p;3; layer=metal2;4 (base); satindex=206; gid=64; id=818; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=21 terms=65 {
+  # Wire {2840:72080:24360:72400; w=320; l=21520; sidec=72240; net=net4p;3; layer=metal2;4 (base); satindex=205; gid=65; id=817; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=22 terms=66 {
+  # Wire {40760:177920:100680:178240; w=320; l=59920; sidec=178080; net=net4p;3; layer=metal2;4 (base); satindex=204; gid=66; id=816; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=23 terms=67 {
+  # Wire {40760:169520:100680:169840; w=320; l=59920; sidec=169680; net=net4p;3; layer=metal2;4 (base); satindex=203; gid=67; id=815; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=24 terms=68 {
+  # Wire {40760:161120:100680:161440; w=320; l=59920; sidec=161280; net=net4p;3; layer=metal2;4 (base); satindex=202; gid=68; id=814; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=25 terms=69 {
+  # Wire {40760:152720:100680:153040; w=320; l=59920; sidec=152880; net=net4p;3; layer=metal2;4 (base); satindex=201; gid=69; id=813; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=26 terms=70 {
+  # Wire {40760:144320:100680:144640; w=320; l=59920; sidec=144480; net=net4p;3; layer=metal2;4 (base); satindex=200; gid=70; id=812; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=27 terms=71 {
+  # Wire {40760:135920:100680:136240; w=320; l=59920; sidec=136080; net=net4p;3; layer=metal2;4 (base); satindex=199; gid=71; id=811; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=28 terms=72 {
+  # Wire {40760:127520:100680:127840; w=320; l=59920; sidec=127680; net=net4p;3; layer=metal2;4 (base); satindex=198; gid=72; id=810; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net4p ceid=29 terms=73 {
+  # Wire {40760:119120:100680:119440; w=320; l=59920; sidec=119280; net=net4p;3; layer=metal2;4 (base); satindex=197; gid=73; id=809; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=30 terms=56 {
+  # Wire {105560:83000:127080:83320; w=320; l=21520; sidec=83160; net=net5;4; layer=metal2;4 (base); satindex=214; gid=56; id=808; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=31 terms=57 {
+  # Wire {105560:91400:127080:91720; w=320; l=21520; sidec=91560; net=net5;4; layer=metal2;4 (base); satindex=213; gid=57; id=807; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=32 terms=58 {
+  # Wire {105560:99800:127080:100120; w=320; l=21520; sidec=99960; net=net5;4; layer=metal2;4 (base); satindex=212; gid=58; id=806; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=33 terms=59 {
+  # Wire {105560:108200:127080:108520; w=320; l=21520; sidec=108360; net=net5;4; layer=metal2;4 (base); satindex=211; gid=59; id=805; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=34 terms=60 {
+  # Wire {40760:82160:100680:82480; w=320; l=59920; sidec=82320; net=net5;4; layer=metal2;4 (base); satindex=210; gid=60; id=804; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5 ceid=35 terms=61 {
+  # Wire {40760:90560:100680:90880; w=320; l=59920; sidec=90720; net=net5;4; layer=metal2;4 (base); satindex=209; gid=61; id=803; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=36 terms=40 {
+  # Wire {105560:82160:127080:82480; w=320; l=21520; sidec=82320; net=net5p;5; layer=metal2;4 (base); satindex=226; gid=40; id=802; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=37 terms=41 {
+  # Wire {105560:90560:127080:90880; w=320; l=21520; sidec=90720; net=net5p;5; layer=metal2;4 (base); satindex=225; gid=41; id=801; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=38 terms=42 {
+  # Wire {105560:98960:127080:99280; w=320; l=21520; sidec=99120; net=net5p;5; layer=metal2;4 (base); satindex=224; gid=42; id=800; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=39 terms=43 {
+  # Wire {105560:107360:127080:107680; w=320; l=21520; sidec=107520; net=net5p;5; layer=metal2;4 (base); satindex=223; gid=43; id=799; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=40 terms=44 {
+  # Wire {40760:178760:100680:179080; w=320; l=59920; sidec=178920; net=net5p;5; layer=metal2;4 (base); satindex=222; gid=44; id=798; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=41 terms=45 {
+  # Wire {40760:170360:100680:170680; w=320; l=59920; sidec=170520; net=net5p;5; layer=metal2;4 (base); satindex=221; gid=45; id=797; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=42 terms=46 {
+  # Wire {40760:161960:100680:162280; w=320; l=59920; sidec=162120; net=net5p;5; layer=metal2;4 (base); satindex=220; gid=46; id=796; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=43 terms=47 {
+  # Wire {40760:153560:100680:153880; w=320; l=59920; sidec=153720; net=net5p;5; layer=metal2;4 (base); satindex=219; gid=47; id=795; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=44 terms=48 {
+  # Wire {40760:145160:100680:145480; w=320; l=59920; sidec=145320; net=net5p;5; layer=metal2;4 (base); satindex=218; gid=48; id=794; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=45 terms=49 {
+  # Wire {40760:136760:100680:137080; w=320; l=59920; sidec=136920; net=net5p;5; layer=metal2;4 (base); satindex=217; gid=49; id=793; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=46 terms=50 {
+  # Wire {40760:128360:100680:128680; w=320; l=59920; sidec=128520; net=net5p;5; layer=metal2;4 (base); satindex=216; gid=50; id=792; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net5p ceid=47 terms=51 {
+  # Wire {40760:119960:100680:120280; w=320; l=59920; sidec=120120; net=net5p;5; layer=metal2;4 (base); satindex=215; gid=51; id=791; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=48 terms=102 {
+  # Wire {124760:4040:146280:4360; w=320; l=21520; sidec=4200; net=net6;6; layer=metal2;4 (base); satindex=235; gid=102; id=790; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=49 terms=103 {
+  # Wire {124760:12440:146280:12760; w=320; l=21520; sidec=12600; net=net6;6; layer=metal2;4 (base); satindex=234; gid=103; id=789; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=50 terms=104 {
+  # Wire {124760:20840:146280:21160; w=320; l=21520; sidec=21000; net=net6;6; layer=metal2;4 (base); satindex=233; gid=104; id=788; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=51 terms=105 {
+  # Wire {124760:29240:146280:29560; w=320; l=21520; sidec=29400; net=net6;6; layer=metal2;4 (base); satindex=232; gid=105; id=787; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=52 terms=106 {
+  # Wire {21560:3200:119880:3520; w=320; l=98320; sidec=3360; net=net6;6; layer=metal2;4 (base); satindex=231; gid=106; id=786; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=53 terms=107 {
+  # Wire {21560:11600:119880:11920; w=320; l=98320; sidec=11760; net=net6;6; layer=metal2;4 (base); satindex=230; gid=107; id=785; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=54 terms=108 {
+  # Wire {21560:20000:119880:20320; w=320; l=98320; sidec=20160; net=net6;6; layer=metal2;4 (base); satindex=229; gid=108; id=784; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=55 terms=109 {
+  # Wire {21560:28400:119880:28720; w=320; l=98320; sidec=28560; net=net6;6; layer=metal2;4 (base); satindex=228; gid=109; id=783; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6 ceid=56 terms=110 {
+  # Wire {21560:36800:119880:37120; w=320; l=98320; sidec=36960; net=net6;6; layer=metal2;4 (base); satindex=227; gid=110; id=782; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=57 terms=86 {
+  # Wire {124760:3200:146280:3520; w=320; l=21520; sidec=3360; net=net6p;7; layer=metal2;4 (base); satindex=247; gid=86; id=781; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=58 terms=87 {
+  # Wire {124760:11600:146280:11920; w=320; l=21520; sidec=11760; net=net6p;7; layer=metal2;4 (base); satindex=246; gid=87; id=780; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=59 terms=88 {
+  # Wire {124760:20000:146280:20320; w=320; l=21520; sidec=20160; net=net6p;7; layer=metal2;4 (base); satindex=245; gid=88; id=779; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=60 terms=89 {
+  # Wire {124760:28400:146280:28720; w=320; l=21520; sidec=28560; net=net6p;7; layer=metal2;4 (base); satindex=244; gid=89; id=778; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=61 terms=90 {
+  # Wire {40760:179600:100680:179920; w=320; l=59920; sidec=179760; net=net6p;7; layer=metal2;4 (base); satindex=243; gid=90; id=777; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=62 terms=91 {
+  # Wire {40760:171200:100680:171520; w=320; l=59920; sidec=171360; net=net6p;7; layer=metal2;4 (base); satindex=242; gid=91; id=776; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=63 terms=92 {
+  # Wire {40760:162800:100680:163120; w=320; l=59920; sidec=162960; net=net6p;7; layer=metal2;4 (base); satindex=241; gid=92; id=775; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=64 terms=93 {
+  # Wire {40760:154400:100680:154720; w=320; l=59920; sidec=154560; net=net6p;7; layer=metal2;4 (base); satindex=240; gid=93; id=774; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=65 terms=94 {
+  # Wire {40760:146000:100680:146320; w=320; l=59920; sidec=146160; net=net6p;7; layer=metal2;4 (base); satindex=239; gid=94; id=773; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=66 terms=95 {
+  # Wire {40760:137600:100680:137920; w=320; l=59920; sidec=137760; net=net6p;7; layer=metal2;4 (base); satindex=238; gid=95; id=772; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=67 terms=96 {
+  # Wire {40760:129200:100680:129520; w=320; l=59920; sidec=129360; net=net6p;7; layer=metal2;4 (base); satindex=237; gid=96; id=771; usage=1; type=preroute}
+}
+
+ConnectedEntity net=net6p ceid=68 terms=97 {
+  # Wire {40760:120800:100680:121120; w=320; l=59920; sidec=120960; net=net6p;7; layer=metal2;4 (base); satindex=236; gid=97; id=770; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s0 ceid=69 terms=52 {
+  # Wire {105560:81320:127080:81640; w=320; l=21520; sidec=81480; net=s0;8; layer=metal2;4 (base); satindex=251; gid=52; id=769; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s0 ceid=70 terms=53 {
+  # Wire {105560:89720:127080:90040; w=320; l=21520; sidec=89880; net=s0;8; layer=metal2;4 (base); satindex=250; gid=53; id=768; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s0 ceid=71 terms=54 {
+  # Wire {105560:98120:127080:98440; w=320; l=21520; sidec=98280; net=s0;8; layer=metal2;4 (base); satindex=249; gid=54; id=767; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s0 ceid=72 terms=55 {
+  # Wire {105560:106520:127080:106840; w=320; l=21520; sidec=106680; net=s0;8; layer=metal2;4 (base); satindex=248; gid=55; id=766; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s1 ceid=73 terms=74 {
+  # Wire {2840:46040:24360:46360; w=320; l=21520; sidec=46200; net=s1;9; layer=metal2;4 (base); satindex=255; gid=74; id=765; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s1 ceid=74 terms=75 {
+  # Wire {2840:54440:24360:54760; w=320; l=21520; sidec=54600; net=s1;9; layer=metal2;4 (base); satindex=254; gid=75; id=764; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s1 ceid=75 terms=76 {
+  # Wire {2840:62840:24360:63160; w=320; l=21520; sidec=63000; net=s1;9; layer=metal2;4 (base); satindex=253; gid=76; id=763; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s1 ceid=76 terms=77 {
+  # Wire {2840:71240:24360:71560; w=320; l=21520; sidec=71400; net=s1;9; layer=metal2;4 (base); satindex=252; gid=77; id=762; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s2 ceid=77 terms=98 {
+  # Wire {124760:2360:146280:2680; w=320; l=21520; sidec=2520; net=s2;10; layer=metal2;4 (base); satindex=259; gid=98; id=761; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s2 ceid=78 terms=99 {
+  # Wire {124760:10760:146280:11080; w=320; l=21520; sidec=10920; net=s2;10; layer=metal2;4 (base); satindex=258; gid=99; id=760; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s2 ceid=79 terms=100 {
+  # Wire {124760:19160:146280:19480; w=320; l=21520; sidec=19320; net=s2;10; layer=metal2;4 (base); satindex=257; gid=100; id=759; usage=1; type=preroute}
+}
+
+ConnectedEntity net=s2 ceid=80 terms=101 {
+  # Wire {124760:27560:146280:27880; w=320; l=21520; sidec=27720; net=s2;10; layer=metal2;4 (base); satindex=256; gid=101; id=758; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=81 terms=0 {
+  # Wire {111320:115760:134440:116080; w=320; l=23120; sidec=115920; net=vga_out1;11; layer=metal2;4 (base); satindex=274; gid=0; id=757; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=82 terms=1 {
+  # Wire {139640:98960:140640:99280; w=320; l=1000; sidec=99120; net=vga_out1;11; layer=metal2;4 (base); satindex=273; gid=1; id=756; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=83 terms=2 {
+  # Wire {40760:47720:100680:48040; w=320; l=59920; sidec=47880; net=vga_out1;11; layer=metal2;4 (base); satindex=272; gid=2; id=755; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=84 terms=3 {
+  # Wire {40760:56120:100680:56440; w=320; l=59920; sidec=56280; net=vga_out1;11; layer=metal2;4 (base); satindex=271; gid=3; id=754; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=85 terms=4 {
+  # Wire {40760:64520:100680:64840; w=320; l=59920; sidec=64680; net=vga_out1;11; layer=metal2;4 (base); satindex=270; gid=4; id=753; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=86 terms=5 {
+  # Wire {40760:72920:100680:73240; w=320; l=59920; sidec=73080; net=vga_out1;11; layer=metal2;4 (base); satindex=269; gid=5; id=752; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=87 terms=6 {
+  # Wire {21560:4040:119880:4360; w=320; l=98320; sidec=4200; net=vga_out1;11; layer=metal2;4 (base); satindex=268; gid=6; id=751; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=88 terms=7 {
+  # Wire {21560:12440:119880:12760; w=320; l=98320; sidec=12600; net=vga_out1;11; layer=metal2;4 (base); satindex=267; gid=7; id=750; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=89 terms=8 {
+  # Wire {21560:20840:119880:21160; w=320; l=98320; sidec=21000; net=vga_out1;11; layer=metal2;4 (base); satindex=266; gid=8; id=749; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=90 terms=9 {
+  # Wire {21560:29240:119880:29560; w=320; l=98320; sidec=29400; net=vga_out1;11; layer=metal2;4 (base); satindex=265; gid=9; id=748; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=91 terms=10 {
+  # Wire {21560:37640:119880:37960; w=320; l=98320; sidec=37800; net=vga_out1;11; layer=metal2;4 (base); satindex=264; gid=10; id=747; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=92 terms=11 {
+  # Wire {40760:83000:100680:83320; w=320; l=59920; sidec=83160; net=vga_out1;11; layer=metal2;4 (base); satindex=263; gid=11; id=746; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=93 terms=12 {
+  # Wire {40760:91400:100680:91720; w=320; l=59920; sidec=91560; net=vga_out1;11; layer=metal2;4 (base); satindex=262; gid=12; id=745; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=94 terms=13 {
+  # Wire {40760:112400:100680:112720; w=320; l=59920; sidec=112560; net=vga_out1;11; layer=metal2;4 (base); satindex=261; gid=13; id=744; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out1 ceid=95 terms=14 {
+  # Wire {40760:104000:100680:104320; w=320; l=59920; sidec=104160; net=vga_out1;11; layer=metal2;4 (base); satindex=260; gid=14; id=743; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=96 terms=25 {
+  # Wire {7000:115760:30120:116080; w=320; l=23120; sidec=115920; net=vga_out2;12; layer=metal2;4 (base); satindex=289; gid=25; id=742; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=97 terms=26 {
+  # Wire {-40:98960:960:99280; w=320; l=1000; sidec=99120; net=vga_out2;12; layer=metal2;4 (base); satindex=288; gid=26; id=741; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=98 terms=27 {
+  # Wire {40760:49400:100680:49720; w=320; l=59920; sidec=49560; net=vga_out2;12; layer=metal2;4 (base); satindex=287; gid=27; id=740; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=99 terms=28 {
+  # Wire {40760:57800:100680:58120; w=320; l=59920; sidec=57960; net=vga_out2;12; layer=metal2;4 (base); satindex=286; gid=28; id=739; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=100 terms=29 {
+  # Wire {40760:66200:100680:66520; w=320; l=59920; sidec=66360; net=vga_out2;12; layer=metal2;4 (base); satindex=285; gid=29; id=738; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=101 terms=30 {
+  # Wire {40760:74600:100680:74920; w=320; l=59920; sidec=74760; net=vga_out2;12; layer=metal2;4 (base); satindex=284; gid=30; id=737; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=102 terms=31 {
+  # Wire {21560:5720:119880:6040; w=320; l=98320; sidec=5880; net=vga_out2;12; layer=metal2;4 (base); satindex=283; gid=31; id=736; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=103 terms=32 {
+  # Wire {21560:14120:119880:14440; w=320; l=98320; sidec=14280; net=vga_out2;12; layer=metal2;4 (base); satindex=282; gid=32; id=735; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=104 terms=33 {
+  # Wire {21560:22520:119880:22840; w=320; l=98320; sidec=22680; net=vga_out2;12; layer=metal2;4 (base); satindex=281; gid=33; id=734; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=105 terms=34 {
+  # Wire {21560:30920:119880:31240; w=320; l=98320; sidec=31080; net=vga_out2;12; layer=metal2;4 (base); satindex=280; gid=34; id=733; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=106 terms=35 {
+  # Wire {21560:39320:119880:39640; w=320; l=98320; sidec=39480; net=vga_out2;12; layer=metal2;4 (base); satindex=279; gid=35; id=732; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=107 terms=36 {
+  # Wire {40760:84680:100680:85000; w=320; l=59920; sidec=84840; net=vga_out2;12; layer=metal2;4 (base); satindex=278; gid=36; id=731; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=108 terms=37 {
+  # Wire {40760:93080:100680:93400; w=320; l=59920; sidec=93240; net=vga_out2;12; layer=metal2;4 (base); satindex=277; gid=37; id=730; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=109 terms=38 {
+  # Wire {40760:110720:100680:111040; w=320; l=59920; sidec=110880; net=vga_out2;12; layer=metal2;4 (base); satindex=276; gid=38; id=729; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vga_out2 ceid=110 terms=39 {
+  # Wire {40760:102320:100680:102640; w=320; l=59920; sidec=102480; net=vga_out2;12; layer=metal2;4 (base); satindex=275; gid=39; id=728; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=111 terms=15 {
+  # Wire {111320:138440:134440:138760; w=320; l=23120; sidec=138600; net=vgnd;13; layer=metal2;4 (base); satindex=299; gid=15; id=727; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=112 terms=16 {
+  # Wire {7000:138440:30120:138760; w=320; l=23120; sidec=138600; net=vgnd;13; layer=metal2;4 (base); satindex=298; gid=16; id=726; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=113 terms=17 {
+  # Wire {40760:182120:100680:182440; w=320; l=59920; sidec=182280; net=vgnd;13; layer=metal2;4 (base); satindex=297; gid=17; id=725; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=114 terms=18 {
+  # Wire {40760:173720:100680:174040; w=320; l=59920; sidec=173880; net=vgnd;13; layer=metal2;4 (base); satindex=296; gid=18; id=724; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=115 terms=19 {
+  # Wire {40760:165320:100680:165640; w=320; l=59920; sidec=165480; net=vgnd;13; layer=metal2;4 (base); satindex=295; gid=19; id=723; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=116 terms=20 {
+  # Wire {40760:156920:100680:157240; w=320; l=59920; sidec=157080; net=vgnd;13; layer=metal2;4 (base); satindex=294; gid=20; id=722; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=117 terms=21 {
+  # Wire {40760:148520:100680:148840; w=320; l=59920; sidec=148680; net=vgnd;13; layer=metal2;4 (base); satindex=293; gid=21; id=721; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=118 terms=22 {
+  # Wire {40760:140120:100680:140440; w=320; l=59920; sidec=140280; net=vgnd;13; layer=metal2;4 (base); satindex=292; gid=22; id=720; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=119 terms=23 {
+  # Wire {40760:131720:100680:132040; w=320; l=59920; sidec=131880; net=vgnd;13; layer=metal2;4 (base); satindex=291; gid=23; id=719; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vgnd ceid=120 terms=24 {
+  # Wire {40760:123320:100680:123640; w=320; l=59920; sidec=123480; net=vgnd;13; layer=metal2;4 (base); satindex=290; gid=24; id=718; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=121 terms=131 {
+  # Wire {40760:46040:100680:46360; w=320; l=59920; sidec=46200; net=vin1;14; layer=metal2;4 (base); satindex=312; gid=131; id=717; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=122 terms=132 {
+  # Wire {40760:54440:100680:54760; w=320; l=59920; sidec=54600; net=vin1;14; layer=metal2;4 (base); satindex=311; gid=132; id=716; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=123 terms=133 {
+  # Wire {40760:62840:100680:63160; w=320; l=59920; sidec=63000; net=vin1;14; layer=metal2;4 (base); satindex=310; gid=133; id=715; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=124 terms=134 {
+  # Wire {40760:71240:100680:71560; w=320; l=59920; sidec=71400; net=vin1;14; layer=metal2;4 (base); satindex=309; gid=134; id=714; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=125 terms=135 {
+  # Wire {21560:2360:119880:2680; w=320; l=98320; sidec=2520; net=vin1;14; layer=metal2;4 (base); satindex=308; gid=135; id=713; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=126 terms=136 {
+  # Wire {21560:10760:119880:11080; w=320; l=98320; sidec=10920; net=vin1;14; layer=metal2;4 (base); satindex=307; gid=136; id=712; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=127 terms=137 {
+  # Wire {21560:19160:119880:19480; w=320; l=98320; sidec=19320; net=vin1;14; layer=metal2;4 (base); satindex=306; gid=137; id=711; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=128 terms=138 {
+  # Wire {21560:27560:119880:27880; w=320; l=98320; sidec=27720; net=vin1;14; layer=metal2;4 (base); satindex=305; gid=138; id=710; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=129 terms=139 {
+  # Wire {21560:35960:119880:36280; w=320; l=98320; sidec=36120; net=vin1;14; layer=metal2;4 (base); satindex=304; gid=139; id=709; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=130 terms=140 {
+  # Wire {40760:81320:100680:81640; w=320; l=59920; sidec=81480; net=vin1;14; layer=metal2;4 (base); satindex=303; gid=140; id=708; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=131 terms=141 {
+  # Wire {40760:89720:100680:90040; w=320; l=59920; sidec=89880; net=vin1;14; layer=metal2;4 (base); satindex=302; gid=141; id=707; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=132 terms=142 {
+  # Wire {40760:114080:100680:114400; w=320; l=59920; sidec=114240; net=vin1;14; layer=metal2;4 (base); satindex=301; gid=142; id=706; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin1 ceid=133 terms=143 {
+  # Wire {40760:105680:100680:106000; w=320; l=59920; sidec=105840; net=vin1;14; layer=metal2;4 (base); satindex=300; gid=143; id=705; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=134 terms=144 {
+  # Wire {40760:48560:100680:48880; w=320; l=59920; sidec=48720; net=vin2;15; layer=metal2;4 (base); satindex=325; gid=144; id=704; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=135 terms=145 {
+  # Wire {40760:56960:100680:57280; w=320; l=59920; sidec=57120; net=vin2;15; layer=metal2;4 (base); satindex=324; gid=145; id=703; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=136 terms=146 {
+  # Wire {40760:65360:100680:65680; w=320; l=59920; sidec=65520; net=vin2;15; layer=metal2;4 (base); satindex=323; gid=146; id=702; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=137 terms=147 {
+  # Wire {40760:73760:100680:74080; w=320; l=59920; sidec=73920; net=vin2;15; layer=metal2;4 (base); satindex=322; gid=147; id=701; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=138 terms=148 {
+  # Wire {21560:4880:119880:5200; w=320; l=98320; sidec=5040; net=vin2;15; layer=metal2;4 (base); satindex=321; gid=148; id=700; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=139 terms=149 {
+  # Wire {21560:13280:119880:13600; w=320; l=98320; sidec=13440; net=vin2;15; layer=metal2;4 (base); satindex=320; gid=149; id=699; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=140 terms=150 {
+  # Wire {21560:21680:119880:22000; w=320; l=98320; sidec=21840; net=vin2;15; layer=metal2;4 (base); satindex=319; gid=150; id=698; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=141 terms=151 {
+  # Wire {21560:30080:119880:30400; w=320; l=98320; sidec=30240; net=vin2;15; layer=metal2;4 (base); satindex=318; gid=151; id=697; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=142 terms=152 {
+  # Wire {21560:38480:119880:38800; w=320; l=98320; sidec=38640; net=vin2;15; layer=metal2;4 (base); satindex=317; gid=152; id=696; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=143 terms=153 {
+  # Wire {40760:83840:100680:84160; w=320; l=59920; sidec=84000; net=vin2;15; layer=metal2;4 (base); satindex=316; gid=153; id=695; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=144 terms=154 {
+  # Wire {40760:92240:100680:92560; w=320; l=59920; sidec=92400; net=vin2;15; layer=metal2;4 (base); satindex=315; gid=154; id=694; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=145 terms=155 {
+  # Wire {40760:111560:100680:111880; w=320; l=59920; sidec=111720; net=vin2;15; layer=metal2;4 (base); satindex=314; gid=155; id=693; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vin2 ceid=146 terms=156 {
+  # Wire {40760:103160:100680:103480; w=320; l=59920; sidec=103320; net=vin2;15; layer=metal2;4 (base); satindex=313; gid=156; id=692; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=147 terms=113 {
+  # Wire {40760:181280:100680:181600; w=320; l=59920; sidec=181440; net=vmirror;16; layer=metal2;4 (base); satindex=333; gid=113; id=691; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=148 terms=114 {
+  # Wire {40760:172880:100680:173200; w=320; l=59920; sidec=173040; net=vmirror;16; layer=metal2;4 (base); satindex=332; gid=114; id=690; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=149 terms=115 {
+  # Wire {40760:164480:100680:164800; w=320; l=59920; sidec=164640; net=vmirror;16; layer=metal2;4 (base); satindex=331; gid=115; id=689; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=150 terms=116 {
+  # Wire {40760:156080:100680:156400; w=320; l=59920; sidec=156240; net=vmirror;16; layer=metal2;4 (base); satindex=330; gid=116; id=688; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=151 terms=117 {
+  # Wire {40760:147680:100680:148000; w=320; l=59920; sidec=147840; net=vmirror;16; layer=metal2;4 (base); satindex=329; gid=117; id=687; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=152 terms=118 {
+  # Wire {40760:139280:100680:139600; w=320; l=59920; sidec=139440; net=vmirror;16; layer=metal2;4 (base); satindex=328; gid=118; id=686; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=153 terms=119 {
+  # Wire {40760:130880:100680:131200; w=320; l=59920; sidec=131040; net=vmirror;16; layer=metal2;4 (base); satindex=327; gid=119; id=685; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vmirror ceid=154 terms=120 {
+  # Wire {40760:122480:100680:122800; w=320; l=59920; sidec=122640; net=vmirror;16; layer=metal2;4 (base); satindex=326; gid=120; id=684; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vps ceid=155 terms=111 {
+  # Wire {135520:107360:136520:107680; w=320; l=1000; sidec=107520; net=vps;17; layer=metal2;4 (base); satindex=335; gid=111; id=683; usage=1; type=preroute}
+}
+
+ConnectedEntity net=vps ceid=156 terms=112 {
+  # Wire {4080:107360:5080:107680; w=320; l=1000; sidec=107520; net=vps;17; layer=metal2;4 (base); satindex=334; gid=112; id=682; usage=1; type=preroute}
+}

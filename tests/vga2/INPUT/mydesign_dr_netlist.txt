@@ -1,0 +1,334 @@
+Cell name=mydesign bbox=0:0:149120:184800
+Wire  net=vga_out1 gid=0 layer=metal2 rect=111320:115760:134440:116080
+Wire  net=vga_out1 gid=1 layer=metal2 rect=139640:98960:140640:99280
+Wire  net=vga_out1 gid=2 layer=metal2 rect=40760:47720:100680:48040
+Wire  net=vga_out1 gid=3 layer=metal2 rect=40760:56120:100680:56440
+Wire  net=vga_out1 gid=4 layer=metal2 rect=40760:64520:100680:64840
+Wire  net=vga_out1 gid=5 layer=metal2 rect=40760:72920:100680:73240
+Wire  net=vga_out1 gid=6 layer=metal2 rect=21560:4040:119880:4360
+Wire  net=vga_out1 gid=7 layer=metal2 rect=21560:12440:119880:12760
+Wire  net=vga_out1 gid=8 layer=metal2 rect=21560:20840:119880:21160
+Wire  net=vga_out1 gid=9 layer=metal2 rect=21560:29240:119880:29560
+Wire  net=vga_out1 gid=10 layer=metal2 rect=21560:37640:119880:37960
+Wire  net=vga_out1 gid=11 layer=metal2 rect=40760:83000:100680:83320
+Wire  net=vga_out1 gid=12 layer=metal2 rect=40760:91400:100680:91720
+Wire  net=vga_out1 gid=13 layer=metal2 rect=40760:112400:100680:112720
+Wire  net=vga_out1 gid=14 layer=metal2 rect=40760:104000:100680:104320
+Wire  net=vgnd gid=15 layer=metal2 rect=111320:138440:134440:138760
+Wire  net=vgnd gid=16 layer=metal2 rect=7000:138440:30120:138760
+Wire  net=vgnd gid=17 layer=metal2 rect=40760:182120:100680:182440
+Wire  net=vgnd gid=18 layer=metal2 rect=40760:173720:100680:174040
+Wire  net=vgnd gid=19 layer=metal2 rect=40760:165320:100680:165640
+Wire  net=vgnd gid=20 layer=metal2 rect=40760:156920:100680:157240
+Wire  net=vgnd gid=21 layer=metal2 rect=40760:148520:100680:148840
+Wire  net=vgnd gid=22 layer=metal2 rect=40760:140120:100680:140440
+Wire  net=vgnd gid=23 layer=metal2 rect=40760:131720:100680:132040
+Wire  net=vgnd gid=24 layer=metal2 rect=40760:123320:100680:123640
+Wire  net=vga_out2 gid=25 layer=metal2 rect=7000:115760:30120:116080
+Wire  net=vga_out2 gid=26 layer=metal2 rect=-40:98960:960:99280
+Wire  net=vga_out2 gid=27 layer=metal2 rect=40760:49400:100680:49720
+Wire  net=vga_out2 gid=28 layer=metal2 rect=40760:57800:100680:58120
+Wire  net=vga_out2 gid=29 layer=metal2 rect=40760:66200:100680:66520
+Wire  net=vga_out2 gid=30 layer=metal2 rect=40760:74600:100680:74920
+Wire  net=vga_out2 gid=31 layer=metal2 rect=21560:5720:119880:6040
+Wire  net=vga_out2 gid=32 layer=metal2 rect=21560:14120:119880:14440
+Wire  net=vga_out2 gid=33 layer=metal2 rect=21560:22520:119880:22840
+Wire  net=vga_out2 gid=34 layer=metal2 rect=21560:30920:119880:31240
+Wire  net=vga_out2 gid=35 layer=metal2 rect=21560:39320:119880:39640
+Wire  net=vga_out2 gid=36 layer=metal2 rect=40760:84680:100680:85000
+Wire  net=vga_out2 gid=37 layer=metal2 rect=40760:93080:100680:93400
+Wire  net=vga_out2 gid=38 layer=metal2 rect=40760:110720:100680:111040
+Wire  net=vga_out2 gid=39 layer=metal2 rect=40760:102320:100680:102640
+Wire  net=net5p gid=40 layer=metal2 rect=105560:82160:127080:82480
+Wire  net=net5p gid=41 layer=metal2 rect=105560:90560:127080:90880
+Wire  net=net5p gid=42 layer=metal2 rect=105560:98960:127080:99280
+Wire  net=net5p gid=43 layer=metal2 rect=105560:107360:127080:107680
+Wire  net=net5p gid=44 layer=metal2 rect=40760:178760:100680:179080
+Wire  net=net5p gid=45 layer=metal2 rect=40760:170360:100680:170680
+Wire  net=net5p gid=46 layer=metal2 rect=40760:161960:100680:162280
+Wire  net=net5p gid=47 layer=metal2 rect=40760:153560:100680:153880
+Wire  net=net5p gid=48 layer=metal2 rect=40760:145160:100680:145480
+Wire  net=net5p gid=49 layer=metal2 rect=40760:136760:100680:137080
+Wire  net=net5p gid=50 layer=metal2 rect=40760:128360:100680:128680
+Wire  net=net5p gid=51 layer=metal2 rect=40760:119960:100680:120280
+Wire  net=s0 gid=52 layer=metal2 rect=105560:81320:127080:81640
+Wire  net=s0 gid=53 layer=metal2 rect=105560:89720:127080:90040
+Wire  net=s0 gid=54 layer=metal2 rect=105560:98120:127080:98440
+Wire  net=s0 gid=55 layer=metal2 rect=105560:106520:127080:106840
+Wire  net=net5 gid=56 layer=metal2 rect=105560:83000:127080:83320
+Wire  net=net5 gid=57 layer=metal2 rect=105560:91400:127080:91720
+Wire  net=net5 gid=58 layer=metal2 rect=105560:99800:127080:100120
+Wire  net=net5 gid=59 layer=metal2 rect=105560:108200:127080:108520
+Wire  net=net5 gid=60 layer=metal2 rect=40760:82160:100680:82480
+Wire  net=net5 gid=61 layer=metal2 rect=40760:90560:100680:90880
+Wire  net=net4p gid=62 layer=metal2 rect=2840:46880:24360:47200
+Wire  net=net4p gid=63 layer=metal2 rect=2840:55280:24360:55600
+Wire  net=net4p gid=64 layer=metal2 rect=2840:63680:24360:64000
+Wire  net=net4p gid=65 layer=metal2 rect=2840:72080:24360:72400
+Wire  net=net4p gid=66 layer=metal2 rect=40760:177920:100680:178240
+Wire  net=net4p gid=67 layer=metal2 rect=40760:169520:100680:169840
+Wire  net=net4p gid=68 layer=metal2 rect=40760:161120:100680:161440
+Wire  net=net4p gid=69 layer=metal2 rect=40760:152720:100680:153040
+Wire  net=net4p gid=70 layer=metal2 rect=40760:144320:100680:144640
+Wire  net=net4p gid=71 layer=metal2 rect=40760:135920:100680:136240
+Wire  net=net4p gid=72 layer=metal2 rect=40760:127520:100680:127840
+Wire  net=net4p gid=73 layer=metal2 rect=40760:119120:100680:119440
+Wire  net=s1 gid=74 layer=metal2 rect=2840:46040:24360:46360
+Wire  net=s1 gid=75 layer=metal2 rect=2840:54440:24360:54760
+Wire  net=s1 gid=76 layer=metal2 rect=2840:62840:24360:63160
+Wire  net=s1 gid=77 layer=metal2 rect=2840:71240:24360:71560
+Wire  net=net4 gid=78 layer=metal2 rect=2840:47720:24360:48040
+Wire  net=net4 gid=79 layer=metal2 rect=2840:56120:24360:56440
+Wire  net=net4 gid=80 layer=metal2 rect=2840:64520:24360:64840
+Wire  net=net4 gid=81 layer=metal2 rect=2840:72920:24360:73240
+Wire  net=net4 gid=82 layer=metal2 rect=40760:46880:100680:47200
+Wire  net=net4 gid=83 layer=metal2 rect=40760:55280:100680:55600
+Wire  net=net4 gid=84 layer=metal2 rect=40760:63680:100680:64000
+Wire  net=net4 gid=85 layer=metal2 rect=40760:72080:100680:72400
+Wire  net=net6p gid=86 layer=metal2 rect=124760:3200:146280:3520
+Wire  net=net6p gid=87 layer=metal2 rect=124760:11600:146280:11920
+Wire  net=net6p gid=88 layer=metal2 rect=124760:20000:146280:20320
+Wire  net=net6p gid=89 layer=metal2 rect=124760:28400:146280:28720
+Wire  net=net6p gid=90 layer=metal2 rect=40760:179600:100680:179920
+Wire  net=net6p gid=91 layer=metal2 rect=40760:171200:100680:171520
+Wire  net=net6p gid=92 layer=metal2 rect=40760:162800:100680:163120
+Wire  net=net6p gid=93 layer=metal2 rect=40760:154400:100680:154720
+Wire  net=net6p gid=94 layer=metal2 rect=40760:146000:100680:146320
+Wire  net=net6p gid=95 layer=metal2 rect=40760:137600:100680:137920
+Wire  net=net6p gid=96 layer=metal2 rect=40760:129200:100680:129520
+Wire  net=net6p gid=97 layer=metal2 rect=40760:120800:100680:121120
+Wire  net=s2 gid=98 layer=metal2 rect=124760:2360:146280:2680
+Wire  net=s2 gid=99 layer=metal2 rect=124760:10760:146280:11080
+Wire  net=s2 gid=100 layer=metal2 rect=124760:19160:146280:19480
+Wire  net=s2 gid=101 layer=metal2 rect=124760:27560:146280:27880
+Wire  net=net6 gid=102 layer=metal2 rect=124760:4040:146280:4360
+Wire  net=net6 gid=103 layer=metal2 rect=124760:12440:146280:12760
+Wire  net=net6 gid=104 layer=metal2 rect=124760:20840:146280:21160
+Wire  net=net6 gid=105 layer=metal2 rect=124760:29240:146280:29560
+Wire  net=net6 gid=106 layer=metal2 rect=21560:3200:119880:3520
+Wire  net=net6 gid=107 layer=metal2 rect=21560:11600:119880:11920
+Wire  net=net6 gid=108 layer=metal2 rect=21560:20000:119880:20320
+Wire  net=net6 gid=109 layer=metal2 rect=21560:28400:119880:28720
+Wire  net=net6 gid=110 layer=metal2 rect=21560:36800:119880:37120
+Wire  net=vps gid=111 layer=metal2 rect=135520:107360:136520:107680
+Wire  net=vps gid=112 layer=metal2 rect=4080:107360:5080:107680
+Wire  net=vmirror gid=113 layer=metal2 rect=40760:181280:100680:181600
+Wire  net=vmirror gid=114 layer=metal2 rect=40760:172880:100680:173200
+Wire  net=vmirror gid=115 layer=metal2 rect=40760:164480:100680:164800
+Wire  net=vmirror gid=116 layer=metal2 rect=40760:156080:100680:156400
+Wire  net=vmirror gid=117 layer=metal2 rect=40760:147680:100680:148000
+Wire  net=vmirror gid=118 layer=metal2 rect=40760:139280:100680:139600
+Wire  net=vmirror gid=119 layer=metal2 rect=40760:130880:100680:131200
+Wire  net=vmirror gid=120 layer=metal2 rect=40760:122480:100680:122800
+Wire  net=net3 gid=121 layer=metal2 rect=40760:180440:100680:180760
+Wire  net=net3 gid=122 layer=metal2 rect=40760:172040:100680:172360
+Wire  net=net3 gid=123 layer=metal2 rect=40760:163640:100680:163960
+Wire  net=net3 gid=124 layer=metal2 rect=40760:155240:100680:155560
+Wire  net=net3 gid=125 layer=metal2 rect=40760:146840:100680:147160
+Wire  net=net3 gid=126 layer=metal2 rect=40760:138440:100680:138760
+Wire  net=net3 gid=127 layer=metal2 rect=40760:130040:100680:130360
+Wire  net=net3 gid=128 layer=metal2 rect=40760:121640:100680:121960
+Wire  net=net3 gid=129 layer=metal2 rect=40760:113240:100680:113560
+Wire  net=net3 gid=130 layer=metal2 rect=40760:104840:100680:105160
+Wire  net=vin1 gid=131 layer=metal2 rect=40760:46040:100680:46360
+Wire  net=vin1 gid=132 layer=metal2 rect=40760:54440:100680:54760
+Wire  net=vin1 gid=133 layer=metal2 rect=40760:62840:100680:63160
+Wire  net=vin1 gid=134 layer=metal2 rect=40760:71240:100680:71560
+Wire  net=vin1 gid=135 layer=metal2 rect=21560:2360:119880:2680
+Wire  net=vin1 gid=136 layer=metal2 rect=21560:10760:119880:11080
+Wire  net=vin1 gid=137 layer=metal2 rect=21560:19160:119880:19480
+Wire  net=vin1 gid=138 layer=metal2 rect=21560:27560:119880:27880
+Wire  net=vin1 gid=139 layer=metal2 rect=21560:35960:119880:36280
+Wire  net=vin1 gid=140 layer=metal2 rect=40760:81320:100680:81640
+Wire  net=vin1 gid=141 layer=metal2 rect=40760:89720:100680:90040
+Wire  net=vin1 gid=142 layer=metal2 rect=40760:114080:100680:114400
+Wire  net=vin1 gid=143 layer=metal2 rect=40760:105680:100680:106000
+Wire  net=vin2 gid=144 layer=metal2 rect=40760:48560:100680:48880
+Wire  net=vin2 gid=145 layer=metal2 rect=40760:56960:100680:57280
+Wire  net=vin2 gid=146 layer=metal2 rect=40760:65360:100680:65680
+Wire  net=vin2 gid=147 layer=metal2 rect=40760:73760:100680:74080
+Wire  net=vin2 gid=148 layer=metal2 rect=21560:4880:119880:5200
+Wire  net=vin2 gid=149 layer=metal2 rect=21560:13280:119880:13600
+Wire  net=vin2 gid=150 layer=metal2 rect=21560:21680:119880:22000
+Wire  net=vin2 gid=151 layer=metal2 rect=21560:30080:119880:30400
+Wire  net=vin2 gid=152 layer=metal2 rect=21560:38480:119880:38800
+Wire  net=vin2 gid=153 layer=metal2 rect=40760:83840:100680:84160
+Wire  net=vin2 gid=154 layer=metal2 rect=40760:92240:100680:92560
+Wire  net=vin2 gid=155 layer=metal2 rect=40760:111560:100680:111880
+Wire  net=vin2 gid=156 layer=metal2 rect=40760:103160:100680:103480
+Wire net=!kor layer=metal1 rect=680:420:1000:184380
+Wire net=!kor layer=metal1 rect=1520:420:1840:184380
+Wire net=!kor layer=metal1 rect=2360:420:2680:184380
+Wire net=!kor layer=metal1 rect=3200:420:3520:184380
+Wire net=!kor layer=metal1 rect=4040:420:4360:184380
+Wire net=!kor layer=metal1 rect=4880:420:5200:184380
+Wire net=!kor layer=metal1 rect=5720:420:6040:184380
+Wire net=!kor layer=metal1 rect=6560:420:6880:184380
+Wire net=!kor layer=metal1 rect=7400:420:7720:184380
+Wire net=!kor layer=metal1 rect=8240:420:8560:184380
+Wire net=!kor layer=metal1 rect=9080:420:9400:184380
+Wire net=!kor layer=metal1 rect=9920:420:10240:184380
+Wire net=!kor layer=metal1 rect=10760:420:11080:184380
+Wire net=!kor layer=metal1 rect=11600:420:11920:184380
+Wire net=!kor layer=metal1 rect=12440:420:12760:184380
+Wire net=!kor layer=metal1 rect=13280:420:13600:184380
+Wire net=!kor layer=metal1 rect=14120:420:14440:184380
+Wire net=!kor layer=metal1 rect=14960:420:15280:184380
+Wire net=!kor layer=metal1 rect=15800:420:16120:184380
+Wire net=!kor layer=metal1 rect=16640:420:16960:184380
+Wire net=!kor layer=metal1 rect=17480:420:17800:184380
+Wire net=!kor layer=metal1 rect=18320:420:18640:184380
+Wire net=!kor layer=metal1 rect=19160:420:19480:184380
+Wire net=!kor layer=metal1 rect=20000:420:20320:184380
+Wire net=!kor layer=metal1 rect=20840:420:21160:184380
+Wire net=!kor layer=metal1 rect=21680:420:22000:184380
+Wire net=!kor layer=metal1 rect=22520:420:22840:184380
+Wire net=!kor layer=metal1 rect=23360:420:23680:184380
+Wire net=!kor layer=metal1 rect=24200:420:24520:184380
+Wire net=!kor layer=metal1 rect=25040:420:25360:184380
+Wire net=!kor layer=metal1 rect=25880:420:26200:184380
+Wire net=!kor layer=metal1 rect=26720:420:27040:184380
+Wire net=!kor layer=metal1 rect=27560:420:27880:184380
+Wire net=!kor layer=metal1 rect=28400:420:28720:184380
+Wire net=!kor layer=metal1 rect=29240:420:29560:184380
+Wire net=!kor layer=metal1 rect=30080:420:30400:184380
+Wire net=!kor layer=metal1 rect=30920:420:31240:184380
+Wire net=!kor layer=metal1 rect=31760:420:32080:184380
+Wire net=!kor layer=metal1 rect=32600:420:32920:184380
+Wire net=!kor layer=metal1 rect=33440:420:33760:184380
+Wire net=!kor layer=metal1 rect=34280:420:34600:184380
+Wire net=!kor layer=metal1 rect=35120:420:35440:184380
+Wire net=!kor layer=metal1 rect=35960:420:36280:184380
+Wire net=!kor layer=metal1 rect=36800:420:37120:184380
+Wire net=!kor layer=metal1 rect=37640:420:37960:184380
+Wire net=!kor layer=metal1 rect=38480:420:38800:184380
+Wire net=!kor layer=metal1 rect=39320:420:39640:184380
+Wire net=!kor layer=metal1 rect=40160:420:40480:184380
+Wire net=!kor layer=metal1 rect=41000:420:41320:184380
+Wire net=!kor layer=metal1 rect=41840:420:42160:184380
+Wire net=!kor layer=metal1 rect=42680:420:43000:184380
+Wire net=!kor layer=metal1 rect=43520:420:43840:184380
+Wire net=!kor layer=metal1 rect=44360:420:44680:184380
+Wire net=!kor layer=metal1 rect=45200:420:45520:184380
+Wire net=!kor layer=metal1 rect=46040:420:46360:184380
+Wire net=!kor layer=metal1 rect=46880:420:47200:184380
+Wire net=!kor layer=metal1 rect=47720:420:48040:184380
+Wire net=!kor layer=metal1 rect=48560:420:48880:184380
+Wire net=!kor layer=metal1 rect=49400:420:49720:184380
+Wire net=!kor layer=metal1 rect=50240:420:50560:184380
+Wire net=!kor layer=metal1 rect=51080:420:51400:184380
+Wire net=!kor layer=metal1 rect=51920:420:52240:184380
+Wire net=!kor layer=metal1 rect=52760:420:53080:184380
+Wire net=!kor layer=metal1 rect=53600:420:53920:184380
+Wire net=!kor layer=metal1 rect=54440:420:54760:184380
+Wire net=!kor layer=metal1 rect=55280:420:55600:184380
+Wire net=!kor layer=metal1 rect=56120:420:56440:184380
+Wire net=!kor layer=metal1 rect=56960:420:57280:184380
+Wire net=!kor layer=metal1 rect=57800:420:58120:184380
+Wire net=!kor layer=metal1 rect=58640:420:58960:184380
+Wire net=!kor layer=metal1 rect=59480:420:59800:184380
+Wire net=!kor layer=metal1 rect=60320:420:60640:184380
+Wire net=!kor layer=metal1 rect=61160:420:61480:184380
+Wire net=!kor layer=metal1 rect=62000:420:62320:184380
+Wire net=!kor layer=metal1 rect=62840:420:63160:184380
+Wire net=!kor layer=metal1 rect=63680:420:64000:184380
+Wire net=!kor layer=metal1 rect=64520:420:64840:184380
+Wire net=!kor layer=metal1 rect=65360:420:65680:184380
+Wire net=!kor layer=metal1 rect=66200:420:66520:184380
+Wire net=!kor layer=metal1 rect=67040:420:67360:184380
+Wire net=!kor layer=metal1 rect=67880:420:68200:184380
+Wire net=!kor layer=metal1 rect=68720:420:69040:184380
+Wire net=!kor layer=metal1 rect=69560:420:69880:184380
+Wire net=!kor layer=metal1 rect=70400:420:70720:184380
+Wire net=!kor layer=metal1 rect=71240:420:71560:184380
+Wire net=!kor layer=metal1 rect=72080:420:72400:184380
+Wire net=!kor layer=metal1 rect=72920:420:73240:184380
+Wire net=!kor layer=metal1 rect=73760:420:74080:184380
+Wire net=!kor layer=metal1 rect=74600:420:74920:184380
+Wire net=!kor layer=metal1 rect=75440:420:75760:184380
+Wire net=!kor layer=metal1 rect=76280:420:76600:184380
+Wire net=!kor layer=metal1 rect=77120:420:77440:184380
+Wire net=!kor layer=metal1 rect=77960:420:78280:184380
+Wire net=!kor layer=metal1 rect=78800:420:79120:184380
+Wire net=!kor layer=metal1 rect=79640:420:79960:184380
+Wire net=!kor layer=metal1 rect=80480:420:80800:184380
+Wire net=!kor layer=metal1 rect=81320:420:81640:184380
+Wire net=!kor layer=metal1 rect=82160:420:82480:184380
+Wire net=!kor layer=metal1 rect=83000:420:83320:184380
+Wire net=!kor layer=metal1 rect=83840:420:84160:184380
+Wire net=!kor layer=metal1 rect=84680:420:85000:184380
+Wire net=!kor layer=metal1 rect=85520:420:85840:184380
+Wire net=!kor layer=metal1 rect=86360:420:86680:184380
+Wire net=!kor layer=metal1 rect=87200:420:87520:184380
+Wire net=!kor layer=metal1 rect=88040:420:88360:184380
+Wire net=!kor layer=metal1 rect=88880:420:89200:184380
+Wire net=!kor layer=metal1 rect=89720:420:90040:184380
+Wire net=!kor layer=metal1 rect=90560:420:90880:184380
+Wire net=!kor layer=metal1 rect=91400:420:91720:184380
+Wire net=!kor layer=metal1 rect=92240:420:92560:184380
+Wire net=!kor layer=metal1 rect=93080:420:93400:184380
+Wire net=!kor layer=metal1 rect=93920:420:94240:184380
+Wire net=!kor layer=metal1 rect=94760:420:95080:184380
+Wire net=!kor layer=metal1 rect=95600:420:95920:184380
+Wire net=!kor layer=metal1 rect=96440:420:96760:184380
+Wire net=!kor layer=metal1 rect=97280:420:97600:184380
+Wire net=!kor layer=metal1 rect=98120:420:98440:184380
+Wire net=!kor layer=metal1 rect=98960:420:99280:184380
+Wire net=!kor layer=metal1 rect=99800:420:100120:184380
+Wire net=!kor layer=metal1 rect=100640:420:100960:184380
+Wire net=!kor layer=metal1 rect=101480:420:101800:184380
+Wire net=!kor layer=metal1 rect=102320:420:102640:184380
+Wire net=!kor layer=metal1 rect=103160:420:103480:184380
+Wire net=!kor layer=metal1 rect=104000:420:104320:184380
+Wire net=!kor layer=metal1 rect=104840:420:105160:184380
+Wire net=!kor layer=metal1 rect=105680:420:106000:184380
+Wire net=!kor layer=metal1 rect=106520:420:106840:184380
+Wire net=!kor layer=metal1 rect=107360:420:107680:184380
+Wire net=!kor layer=metal1 rect=108200:420:108520:184380
+Wire net=!kor layer=metal1 rect=109040:420:109360:184380
+Wire net=!kor layer=metal1 rect=109880:420:110200:184380
+Wire net=!kor layer=metal1 rect=110720:420:111040:184380
+Wire net=!kor layer=metal1 rect=111560:420:111880:184380
+Wire net=!kor layer=metal1 rect=112400:420:112720:184380
+Wire net=!kor layer=metal1 rect=113240:420:113560:184380
+Wire net=!kor layer=metal1 rect=114080:420:114400:184380
+Wire net=!kor layer=metal1 rect=114920:420:115240:184380
+Wire net=!kor layer=metal1 rect=115760:420:116080:184380
+Wire net=!kor layer=metal1 rect=116600:420:116920:184380
+Wire net=!kor layer=metal1 rect=117440:420:117760:184380
+Wire net=!kor layer=metal1 rect=118280:420:118600:184380
+Wire net=!kor layer=metal1 rect=119120:420:119440:184380
+Wire net=!kor layer=metal1 rect=119960:420:120280:184380
+Wire net=!kor layer=metal1 rect=120800:420:121120:184380
+Wire net=!kor layer=metal1 rect=121640:420:121960:184380
+Wire net=!kor layer=metal1 rect=122480:420:122800:184380
+Wire net=!kor layer=metal1 rect=123320:420:123640:184380
+Wire net=!kor layer=metal1 rect=124160:420:124480:184380
+Wire net=!kor layer=metal1 rect=125000:420:125320:184380
+Wire net=!kor layer=metal1 rect=125840:420:126160:184380
+Wire net=!kor layer=metal1 rect=126680:420:127000:184380
+Wire net=!kor layer=metal1 rect=127520:420:127840:184380
+Wire net=!kor layer=metal1 rect=128360:420:128680:184380
+Wire net=!kor layer=metal1 rect=129200:420:129520:184380
+Wire net=!kor layer=metal1 rect=130040:420:130360:184380
+Wire net=!kor layer=metal1 rect=130880:420:131200:184380
+Wire net=!kor layer=metal1 rect=131720:420:132040:184380
+Wire net=!kor layer=metal1 rect=132560:420:132880:184380
+Wire net=!kor layer=metal1 rect=133400:420:133720:184380
+Wire net=!kor layer=metal1 rect=134240:420:134560:184380
+Wire net=!kor layer=metal1 rect=135080:420:135400:184380
+Wire net=!kor layer=metal1 rect=135920:420:136240:184380
+Wire net=!kor layer=metal1 rect=136760:420:137080:184380
+Wire net=!kor layer=metal1 rect=137600:420:137920:184380
+Wire net=!kor layer=metal1 rect=138440:420:138760:184380
+Wire net=!kor layer=metal1 rect=139280:420:139600:184380
+Wire net=!kor layer=metal1 rect=140120:420:140440:184380
+Wire net=!kor layer=metal1 rect=140960:420:141280:184380
+Wire net=!kor layer=metal1 rect=141800:420:142120:184380
+Wire net=!kor layer=metal1 rect=142640:420:142960:184380
+Wire net=!kor layer=metal1 rect=143480:420:143800:184380
+Wire net=!kor layer=metal1 rect=144320:420:144640:184380
+Wire net=!kor layer=metal1 rect=145160:420:145480:184380
+Wire net=!kor layer=metal1 rect=146000:420:146320:184380
+Wire net=!kor layer=metal1 rect=146840:420:147160:184380
+Wire net=!kor layer=metal1 rect=147680:420:148000:184380

@@ -1,0 +1,3832 @@
+Cell mydesign bbox=0:0:149120:184800
+
+Wire net=!kor layer=metal1 rect=147680:420:148000:184380
+Wire net=!kor layer=metal1 rect=146840:420:147160:184380
+Wire net=!kor layer=metal1 rect=146000:420:146320:184380
+Wire net=!kor layer=metal1 rect=145160:420:145480:184380
+Wire net=!kor layer=metal1 rect=144320:420:144640:184380
+Wire net=!kor layer=metal1 rect=143480:420:143800:184380
+Wire net=!kor layer=metal1 rect=142640:420:142960:184380
+Wire net=!kor layer=metal1 rect=141800:420:142120:184380
+Wire net=!kor layer=metal1 rect=140960:420:141280:184380
+Wire net=!kor layer=metal1 rect=140120:420:140440:184380
+Wire net=!kor layer=metal1 rect=139280:420:139600:184380
+Wire net=!kor layer=metal1 rect=138440:420:138760:184380
+Wire net=!kor layer=metal1 rect=137600:420:137920:184380
+Wire net=!kor layer=metal1 rect=136760:420:137080:184380
+Wire net=!kor layer=metal1 rect=135920:420:136240:184380
+Wire net=!kor layer=metal1 rect=135080:420:135400:184380
+Wire net=!kor layer=metal1 rect=134240:420:134560:184380
+Wire net=!kor layer=metal1 rect=133400:420:133720:184380
+Wire net=!kor layer=metal1 rect=132560:420:132880:184380
+Wire net=!kor layer=metal1 rect=131720:420:132040:184380
+Wire net=!kor layer=metal1 rect=130880:420:131200:184380
+Wire net=!kor layer=metal1 rect=130040:420:130360:184380
+Wire net=!kor layer=metal1 rect=129200:420:129520:184380
+Wire net=!kor layer=metal1 rect=128360:420:128680:184380
+Wire net=!kor layer=metal1 rect=127520:420:127840:184380
+Wire net=!kor layer=metal1 rect=126680:420:127000:184380
+Wire net=!kor layer=metal1 rect=125840:420:126160:184380
+Wire net=!kor layer=metal1 rect=125000:420:125320:184380
+Wire net=!kor layer=metal1 rect=124160:420:124480:184380
+Wire net=!kor layer=metal1 rect=123320:420:123640:184380
+Wire net=!kor layer=metal1 rect=122480:420:122800:184380
+Wire net=!kor layer=metal1 rect=121640:420:121960:184380
+Wire net=!kor layer=metal1 rect=120800:420:121120:184380
+Wire net=!kor layer=metal1 rect=119960:420:120280:184380
+Wire net=!kor layer=metal1 rect=119120:420:119440:184380
+Wire net=!kor layer=metal1 rect=118280:420:118600:184380
+Wire net=!kor layer=metal1 rect=117440:420:117760:184380
+Wire net=!kor layer=metal1 rect=116600:420:116920:184380
+Wire net=!kor layer=metal1 rect=115760:420:116080:184380
+Wire net=!kor layer=metal1 rect=114920:420:115240:184380
+Wire net=!kor layer=metal1 rect=114080:420:114400:184380
+Wire net=!kor layer=metal1 rect=113240:420:113560:184380
+Wire net=!kor layer=metal1 rect=112400:420:112720:184380
+Wire net=!kor layer=metal1 rect=111560:420:111880:184380
+Wire net=!kor layer=metal1 rect=110720:420:111040:184380
+Wire net=!kor layer=metal1 rect=109880:420:110200:184380
+Wire net=!kor layer=metal1 rect=109040:420:109360:184380
+Wire net=!kor layer=metal1 rect=108200:420:108520:184380
+Wire net=!kor layer=metal1 rect=107360:420:107680:184380
+Wire net=!kor layer=metal1 rect=106520:420:106840:184380
+Wire net=!kor layer=metal1 rect=105680:420:106000:184380
+Wire net=!kor layer=metal1 rect=104840:420:105160:184380
+Wire net=!kor layer=metal1 rect=104000:420:104320:184380
+Wire net=!kor layer=metal1 rect=103160:420:103480:184380
+Wire net=!kor layer=metal1 rect=102320:420:102640:184380
+Wire net=!kor layer=metal1 rect=101480:420:101800:184380
+Wire net=!kor layer=metal1 rect=100640:420:100960:184380
+Wire net=!kor layer=metal1 rect=99800:420:100120:184380
+Wire net=!kor layer=metal1 rect=98960:420:99280:184380
+Wire net=!kor layer=metal1 rect=98120:420:98440:184380
+Wire net=!kor layer=metal1 rect=97280:420:97600:184380
+Wire net=!kor layer=metal1 rect=96440:420:96760:184380
+Wire net=!kor layer=metal1 rect=95600:420:95920:184380
+Wire net=!kor layer=metal1 rect=94760:420:95080:184380
+Wire net=!kor layer=metal1 rect=93920:420:94240:184380
+Wire net=!kor layer=metal1 rect=93080:420:93400:184380
+Wire net=!kor layer=metal1 rect=92240:420:92560:184380
+Wire net=!kor layer=metal1 rect=91400:420:91720:184380
+Wire net=!kor layer=metal1 rect=90560:420:90880:184380
+Wire net=!kor layer=metal1 rect=89720:420:90040:184380
+Wire net=!kor layer=metal1 rect=88880:420:89200:184380
+Wire net=!kor layer=metal1 rect=88040:420:88360:184380
+Wire net=!kor layer=metal1 rect=87200:420:87520:184380
+Wire net=!kor layer=metal1 rect=86360:420:86680:184380
+Wire net=!kor layer=metal1 rect=85520:420:85840:184380
+Wire net=!kor layer=metal1 rect=84680:420:85000:184380
+Wire net=!kor layer=metal1 rect=83840:420:84160:184380
+Wire net=!kor layer=metal1 rect=83000:420:83320:184380
+Wire net=!kor layer=metal1 rect=82160:420:82480:184380
+Wire net=!kor layer=metal1 rect=81320:420:81640:184380
+Wire net=!kor layer=metal1 rect=80480:420:80800:184380
+Wire net=!kor layer=metal1 rect=79640:420:79960:184380
+Wire net=!kor layer=metal1 rect=78800:420:79120:184380
+Wire net=!kor layer=metal1 rect=77960:420:78280:184380
+Wire net=!kor layer=metal1 rect=77120:420:77440:184380
+Wire net=!kor layer=metal1 rect=76280:420:76600:184380
+Wire net=!kor layer=metal1 rect=75440:420:75760:184380
+Wire net=!kor layer=metal1 rect=74600:420:74920:184380
+Wire net=!kor layer=metal1 rect=73760:420:74080:184380
+Wire net=!kor layer=metal1 rect=72920:420:73240:184380
+Wire net=!kor layer=metal1 rect=72080:420:72400:184380
+Wire net=!kor layer=metal1 rect=71240:420:71560:184380
+Wire net=!kor layer=metal1 rect=70400:420:70720:184380
+Wire net=!kor layer=metal1 rect=69560:420:69880:184380
+Wire net=!kor layer=metal1 rect=68720:420:69040:184380
+Wire net=!kor layer=metal1 rect=67880:420:68200:184380
+Wire net=!kor layer=metal1 rect=67040:420:67360:184380
+Wire net=!kor layer=metal1 rect=66200:420:66520:184380
+Wire net=!kor layer=metal1 rect=65360:420:65680:184380
+Wire net=!kor layer=metal1 rect=64520:420:64840:184380
+Wire net=!kor layer=metal1 rect=63680:420:64000:184380
+Wire net=!kor layer=metal1 rect=62840:420:63160:184380
+Wire net=!kor layer=metal1 rect=62000:420:62320:184380
+Wire net=!kor layer=metal1 rect=61160:420:61480:184380
+Wire net=!kor layer=metal1 rect=60320:420:60640:184380
+Wire net=!kor layer=metal1 rect=59480:420:59800:184380
+Wire net=!kor layer=metal1 rect=58640:420:58960:184380
+Wire net=!kor layer=metal1 rect=57800:420:58120:184380
+Wire net=!kor layer=metal1 rect=56960:420:57280:184380
+Wire net=!kor layer=metal1 rect=56120:420:56440:184380
+Wire net=!kor layer=metal1 rect=55280:420:55600:184380
+Wire net=!kor layer=metal1 rect=54440:420:54760:184380
+Wire net=!kor layer=metal1 rect=53600:420:53920:184380
+Wire net=!kor layer=metal1 rect=52760:420:53080:184380
+Wire net=!kor layer=metal1 rect=51920:420:52240:184380
+Wire net=!kor layer=metal1 rect=51080:420:51400:184380
+Wire net=!kor layer=metal1 rect=50240:420:50560:184380
+Wire net=!kor layer=metal1 rect=49400:420:49720:184380
+Wire net=!kor layer=metal1 rect=48560:420:48880:184380
+Wire net=!kor layer=metal1 rect=47720:420:48040:184380
+Wire net=!kor layer=metal1 rect=46880:420:47200:184380
+Wire net=!kor layer=metal1 rect=46040:420:46360:184380
+Wire net=!kor layer=metal1 rect=45200:420:45520:184380
+Wire net=!kor layer=metal1 rect=44360:420:44680:184380
+Wire net=!kor layer=metal1 rect=43520:420:43840:184380
+Wire net=!kor layer=metal1 rect=42680:420:43000:184380
+Wire net=!kor layer=metal1 rect=41840:420:42160:184380
+Wire net=!kor layer=metal1 rect=41000:420:41320:184380
+Wire net=!kor layer=metal1 rect=40160:420:40480:184380
+Wire net=!kor layer=metal1 rect=39320:420:39640:184380
+Wire net=!kor layer=metal1 rect=38480:420:38800:184380
+Wire net=!kor layer=metal1 rect=37640:420:37960:184380
+Wire net=!kor layer=metal1 rect=36800:420:37120:184380
+Wire net=!kor layer=metal1 rect=35960:420:36280:184380
+Wire net=!kor layer=metal1 rect=35120:420:35440:184380
+Wire net=!kor layer=metal1 rect=34280:420:34600:184380
+Wire net=!kor layer=metal1 rect=33440:420:33760:184380
+Wire net=!kor layer=metal1 rect=32600:420:32920:184380
+Wire net=!kor layer=metal1 rect=31760:420:32080:184380
+Wire net=!kor layer=metal1 rect=30920:420:31240:184380
+Wire net=!kor layer=metal1 rect=30080:420:30400:184380
+Wire net=!kor layer=metal1 rect=29240:420:29560:184380
+Wire net=!kor layer=metal1 rect=28400:420:28720:184380
+Wire net=!kor layer=metal1 rect=27560:420:27880:184380
+Wire net=!kor layer=metal1 rect=26720:420:27040:184380
+Wire net=!kor layer=metal1 rect=25880:420:26200:184380
+Wire net=!kor layer=metal1 rect=25040:420:25360:184380
+Wire net=!kor layer=metal1 rect=24200:420:24520:184380
+Wire net=!kor layer=metal1 rect=23360:420:23680:184380
+Wire net=!kor layer=metal1 rect=22520:420:22840:184380
+Wire net=!kor layer=metal1 rect=21680:420:22000:184380
+Wire net=!kor layer=metal1 rect=20840:420:21160:184380
+Wire net=!kor layer=metal1 rect=20000:420:20320:184380
+Wire net=!kor layer=metal1 rect=19160:420:19480:184380
+Wire net=!kor layer=metal1 rect=18320:420:18640:184380
+Wire net=!kor layer=metal1 rect=17480:420:17800:184380
+Wire net=!kor layer=metal1 rect=16640:420:16960:184380
+Wire net=!kor layer=metal1 rect=15800:420:16120:184380
+Wire net=!kor layer=metal1 rect=14960:420:15280:184380
+Wire net=!kor layer=metal1 rect=14120:420:14440:184380
+Wire net=!kor layer=metal1 rect=13280:420:13600:184380
+Wire net=!kor layer=metal1 rect=12440:420:12760:184380
+Wire net=!kor layer=metal1 rect=11600:420:11920:184380
+Wire net=!kor layer=metal1 rect=10760:420:11080:184380
+Wire net=!kor layer=metal1 rect=9920:420:10240:184380
+Wire net=!kor layer=metal1 rect=9080:420:9400:184380
+Wire net=!kor layer=metal1 rect=8240:420:8560:184380
+Wire net=!kor layer=metal1 rect=7400:420:7720:184380
+Wire net=!kor layer=metal1 rect=6560:420:6880:184380
+Wire net=!kor layer=metal1 rect=5720:420:6040:184380
+Wire net=!kor layer=metal1 rect=4880:420:5200:184380
+Wire net=!kor layer=metal1 rect=4040:420:4360:184380
+Wire net=!kor layer=metal1 rect=3200:420:3520:184380
+Wire net=!kor layer=metal1 rect=2360:420:2680:184380
+Wire net=!kor layer=metal1 rect=1520:420:1840:184380
+Wire net=!kor layer=metal1 rect=680:420:1000:184380
+Wire net=net3 layer=metal2 rect=40760:104840:100680:105160 gid=130
+Wire net=net3 layer=metal2 rect=40760:113240:100680:113560 gid=129
+Wire net=net3 layer=metal2 rect=40760:121640:100680:121960 gid=128
+Wire net=net3 layer=metal2 rect=40760:130040:100680:130360 gid=127
+Wire net=net3 layer=metal2 rect=40760:138440:100680:138760 gid=126
+Wire net=net3 layer=metal2 rect=40760:146840:100680:147160 gid=125
+Wire net=net3 layer=metal2 rect=40760:155240:100680:155560 gid=124
+Wire net=net3 layer=metal2 rect=40760:163640:100680:163960 gid=123
+Wire net=net3 layer=metal2 rect=40760:172040:100680:172360 gid=122
+Wire net=net3 layer=metal2 rect=40760:180440:100680:180760 gid=121
+Wire net=net3 layer=metal3 rect=73760:104580:74080:181020
+Wire net=net3 layer=metal3 rect=72920:104580:73240:181020
+Wire net=net3 layer=metal3 rect=70400:104580:70720:181020
+Obj net=net3 gen=via2_320_320 x=70560 y=105000 {
+  Wire net=net3 layer=via2 rect=70400:104840:70720:105160
+  Wire net=net3 layer=metal2 rect=70140:104840:70980:105160
+  Wire net=net3 layer=metal3 rect=70400:104580:70720:105420
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=113400 {
+  Wire net=net3 layer=via2 rect=70400:113240:70720:113560
+  Wire net=net3 layer=metal2 rect=70140:113240:70980:113560
+  Wire net=net3 layer=metal3 rect=70400:112980:70720:113820
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=121800 {
+  Wire net=net3 layer=via2 rect=70400:121640:70720:121960
+  Wire net=net3 layer=metal2 rect=70140:121640:70980:121960
+  Wire net=net3 layer=metal3 rect=70400:121380:70720:122220
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=130200 {
+  Wire net=net3 layer=via2 rect=70400:130040:70720:130360
+  Wire net=net3 layer=metal2 rect=70140:130040:70980:130360
+  Wire net=net3 layer=metal3 rect=70400:129780:70720:130620
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=138600 {
+  Wire net=net3 layer=via2 rect=70400:138440:70720:138760
+  Wire net=net3 layer=metal2 rect=70140:138440:70980:138760
+  Wire net=net3 layer=metal3 rect=70400:138180:70720:139020
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=147000 {
+  Wire net=net3 layer=via2 rect=70400:146840:70720:147160
+  Wire net=net3 layer=metal2 rect=70140:146840:70980:147160
+  Wire net=net3 layer=metal3 rect=70400:146580:70720:147420
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=155400 {
+  Wire net=net3 layer=via2 rect=70400:155240:70720:155560
+  Wire net=net3 layer=metal2 rect=70140:155240:70980:155560
+  Wire net=net3 layer=metal3 rect=70400:154980:70720:155820
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=163800 {
+  Wire net=net3 layer=via2 rect=70400:163640:70720:163960
+  Wire net=net3 layer=metal2 rect=70140:163640:70980:163960
+  Wire net=net3 layer=metal3 rect=70400:163380:70720:164220
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=172200 {
+  Wire net=net3 layer=via2 rect=70400:172040:70720:172360
+  Wire net=net3 layer=metal2 rect=70140:172040:70980:172360
+  Wire net=net3 layer=metal3 rect=70400:171780:70720:172620
+}
+Obj net=net3 gen=via2_320_320 x=70560 y=180600 {
+  Wire net=net3 layer=via2 rect=70400:180440:70720:180760
+  Wire net=net3 layer=metal2 rect=70140:180440:70980:180760
+  Wire net=net3 layer=metal3 rect=70400:180180:70720:181020
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=105000 {
+  Wire net=net3 layer=via2 rect=72920:104840:73240:105160
+  Wire net=net3 layer=metal2 rect=72660:104840:73500:105160
+  Wire net=net3 layer=metal3 rect=72920:104580:73240:105420
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=113400 {
+  Wire net=net3 layer=via2 rect=72920:113240:73240:113560
+  Wire net=net3 layer=metal2 rect=72660:113240:73500:113560
+  Wire net=net3 layer=metal3 rect=72920:112980:73240:113820
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=121800 {
+  Wire net=net3 layer=via2 rect=72920:121640:73240:121960
+  Wire net=net3 layer=metal2 rect=72660:121640:73500:121960
+  Wire net=net3 layer=metal3 rect=72920:121380:73240:122220
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=130200 {
+  Wire net=net3 layer=via2 rect=72920:130040:73240:130360
+  Wire net=net3 layer=metal2 rect=72660:130040:73500:130360
+  Wire net=net3 layer=metal3 rect=72920:129780:73240:130620
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=138600 {
+  Wire net=net3 layer=via2 rect=72920:138440:73240:138760
+  Wire net=net3 layer=metal2 rect=72660:138440:73500:138760
+  Wire net=net3 layer=metal3 rect=72920:138180:73240:139020
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=147000 {
+  Wire net=net3 layer=via2 rect=72920:146840:73240:147160
+  Wire net=net3 layer=metal2 rect=72660:146840:73500:147160
+  Wire net=net3 layer=metal3 rect=72920:146580:73240:147420
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=155400 {
+  Wire net=net3 layer=via2 rect=72920:155240:73240:155560
+  Wire net=net3 layer=metal2 rect=72660:155240:73500:155560
+  Wire net=net3 layer=metal3 rect=72920:154980:73240:155820
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=163800 {
+  Wire net=net3 layer=via2 rect=72920:163640:73240:163960
+  Wire net=net3 layer=metal2 rect=72660:163640:73500:163960
+  Wire net=net3 layer=metal3 rect=72920:163380:73240:164220
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=172200 {
+  Wire net=net3 layer=via2 rect=72920:172040:73240:172360
+  Wire net=net3 layer=metal2 rect=72660:172040:73500:172360
+  Wire net=net3 layer=metal3 rect=72920:171780:73240:172620
+}
+Obj net=net3 gen=via2_320_320 x=73080 y=180600 {
+  Wire net=net3 layer=via2 rect=72920:180440:73240:180760
+  Wire net=net3 layer=metal2 rect=72660:180440:73500:180760
+  Wire net=net3 layer=metal3 rect=72920:180180:73240:181020
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=105000 {
+  Wire net=net3 layer=via2 rect=73760:104840:74080:105160
+  Wire net=net3 layer=metal2 rect=73500:104840:74340:105160
+  Wire net=net3 layer=metal3 rect=73760:104580:74080:105420
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=113400 {
+  Wire net=net3 layer=via2 rect=73760:113240:74080:113560
+  Wire net=net3 layer=metal2 rect=73500:113240:74340:113560
+  Wire net=net3 layer=metal3 rect=73760:112980:74080:113820
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=121800 {
+  Wire net=net3 layer=via2 rect=73760:121640:74080:121960
+  Wire net=net3 layer=metal2 rect=73500:121640:74340:121960
+  Wire net=net3 layer=metal3 rect=73760:121380:74080:122220
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=130200 {
+  Wire net=net3 layer=via2 rect=73760:130040:74080:130360
+  Wire net=net3 layer=metal2 rect=73500:130040:74340:130360
+  Wire net=net3 layer=metal3 rect=73760:129780:74080:130620
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=138600 {
+  Wire net=net3 layer=via2 rect=73760:138440:74080:138760
+  Wire net=net3 layer=metal2 rect=73500:138440:74340:138760
+  Wire net=net3 layer=metal3 rect=73760:138180:74080:139020
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=147000 {
+  Wire net=net3 layer=via2 rect=73760:146840:74080:147160
+  Wire net=net3 layer=metal2 rect=73500:146840:74340:147160
+  Wire net=net3 layer=metal3 rect=73760:146580:74080:147420
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=155400 {
+  Wire net=net3 layer=via2 rect=73760:155240:74080:155560
+  Wire net=net3 layer=metal2 rect=73500:155240:74340:155560
+  Wire net=net3 layer=metal3 rect=73760:154980:74080:155820
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=163800 {
+  Wire net=net3 layer=via2 rect=73760:163640:74080:163960
+  Wire net=net3 layer=metal2 rect=73500:163640:74340:163960
+  Wire net=net3 layer=metal3 rect=73760:163380:74080:164220
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=172200 {
+  Wire net=net3 layer=via2 rect=73760:172040:74080:172360
+  Wire net=net3 layer=metal2 rect=73500:172040:74340:172360
+  Wire net=net3 layer=metal3 rect=73760:171780:74080:172620
+}
+Obj net=net3 gen=via2_320_320 x=73920 y=180600 {
+  Wire net=net3 layer=via2 rect=73760:180440:74080:180760
+  Wire net=net3 layer=metal2 rect=73500:180440:74340:180760
+  Wire net=net3 layer=metal3 rect=73760:180180:74080:181020
+}
+Wire net=net4 layer=metal2 rect=40760:72080:100680:72400 gid=85
+Wire net=net4 layer=metal2 rect=40760:63680:100680:64000 gid=84
+Wire net=net4 layer=metal2 rect=40760:55280:100680:55600 gid=83
+Wire net=net4 layer=metal2 rect=40760:46880:100680:47200 gid=82
+Wire net=net4 layer=metal2 rect=2840:72920:24360:73240 gid=81
+Wire net=net4 layer=metal2 rect=2840:64520:24360:64840 gid=80
+Wire net=net4 layer=metal2 rect=2840:56120:24360:56440 gid=79
+Wire net=net4 layer=metal2 rect=2840:47720:24360:48040 gid=78
+Wire net=net4 layer=metal3 rect=72920:46620:73240:72660
+Wire net=net4 layer=metal3 rect=14960:47460:15280:73500
+Wire net=net4 layer=metal3 rect=72080:46620:72400:72660
+Wire net=net4 layer=metal3 rect=14120:47460:14440:73500
+Wire net=net4 layer=metal3 rect=71240:46620:71560:72660
+Wire net=net4 layer=metal3 rect=12440:47460:12760:73500
+Wire net=net4 layer=metal4 rect=12180:59480:73500:59800
+Wire net=net4 layer=metal4 rect=12180:62000:73500:62320
+Wire net=net4 layer=metal4 rect=12180:60320:73500:60640
+Obj net=net4 gen=via2_320_320 x=12600 y=47880 {
+  Wire net=net4 layer=via2 rect=12440:47720:12760:48040
+  Wire net=net4 layer=metal2 rect=12180:47720:13020:48040
+  Wire net=net4 layer=metal3 rect=12440:47460:12760:48300
+}
+Obj net=net4 gen=via2_320_320 x=12600 y=56280 {
+  Wire net=net4 layer=via2 rect=12440:56120:12760:56440
+  Wire net=net4 layer=metal2 rect=12180:56120:13020:56440
+  Wire net=net4 layer=metal3 rect=12440:55860:12760:56700
+}
+Obj net=net4 gen=via2_320_320 x=12600 y=64680 {
+  Wire net=net4 layer=via2 rect=12440:64520:12760:64840
+  Wire net=net4 layer=metal2 rect=12180:64520:13020:64840
+  Wire net=net4 layer=metal3 rect=12440:64260:12760:65100
+}
+Obj net=net4 gen=via2_320_320 x=12600 y=73080 {
+  Wire net=net4 layer=via2 rect=12440:72920:12760:73240
+  Wire net=net4 layer=metal2 rect=12180:72920:13020:73240
+  Wire net=net4 layer=metal3 rect=12440:72660:12760:73500
+}
+Obj net=net4 gen=via2_320_320 x=14280 y=47880 {
+  Wire net=net4 layer=via2 rect=14120:47720:14440:48040
+  Wire net=net4 layer=metal2 rect=13860:47720:14700:48040
+  Wire net=net4 layer=metal3 rect=14120:47460:14440:48300
+}
+Obj net=net4 gen=via2_320_320 x=14280 y=56280 {
+  Wire net=net4 layer=via2 rect=14120:56120:14440:56440
+  Wire net=net4 layer=metal2 rect=13860:56120:14700:56440
+  Wire net=net4 layer=metal3 rect=14120:55860:14440:56700
+}
+Obj net=net4 gen=via2_320_320 x=14280 y=64680 {
+  Wire net=net4 layer=via2 rect=14120:64520:14440:64840
+  Wire net=net4 layer=metal2 rect=13860:64520:14700:64840
+  Wire net=net4 layer=metal3 rect=14120:64260:14440:65100
+}
+Obj net=net4 gen=via2_320_320 x=14280 y=73080 {
+  Wire net=net4 layer=via2 rect=14120:72920:14440:73240
+  Wire net=net4 layer=metal2 rect=13860:72920:14700:73240
+  Wire net=net4 layer=metal3 rect=14120:72660:14440:73500
+}
+Obj net=net4 gen=via2_320_320 x=15120 y=47880 {
+  Wire net=net4 layer=via2 rect=14960:47720:15280:48040
+  Wire net=net4 layer=metal2 rect=14700:47720:15540:48040
+  Wire net=net4 layer=metal3 rect=14960:47460:15280:48300
+}
+Obj net=net4 gen=via2_320_320 x=15120 y=56280 {
+  Wire net=net4 layer=via2 rect=14960:56120:15280:56440
+  Wire net=net4 layer=metal2 rect=14700:56120:15540:56440
+  Wire net=net4 layer=metal3 rect=14960:55860:15280:56700
+}
+Obj net=net4 gen=via2_320_320 x=15120 y=64680 {
+  Wire net=net4 layer=via2 rect=14960:64520:15280:64840
+  Wire net=net4 layer=metal2 rect=14700:64520:15540:64840
+  Wire net=net4 layer=metal3 rect=14960:64260:15280:65100
+}
+Obj net=net4 gen=via2_320_320 x=15120 y=73080 {
+  Wire net=net4 layer=via2 rect=14960:72920:15280:73240
+  Wire net=net4 layer=metal2 rect=14700:72920:15540:73240
+  Wire net=net4 layer=metal3 rect=14960:72660:15280:73500
+}
+Obj net=net4 gen=via2_320_320 x=71400 y=47040 {
+  Wire net=net4 layer=via2 rect=71240:46880:71560:47200
+  Wire net=net4 layer=metal2 rect=70980:46880:71820:47200
+  Wire net=net4 layer=metal3 rect=71240:46620:71560:47460
+}
+Obj net=net4 gen=via2_320_320 x=71400 y=55440 {
+  Wire net=net4 layer=via2 rect=71240:55280:71560:55600
+  Wire net=net4 layer=metal2 rect=70980:55280:71820:55600
+  Wire net=net4 layer=metal3 rect=71240:55020:71560:55860
+}
+Obj net=net4 gen=via2_320_320 x=71400 y=63840 {
+  Wire net=net4 layer=via2 rect=71240:63680:71560:64000
+  Wire net=net4 layer=metal2 rect=70980:63680:71820:64000
+  Wire net=net4 layer=metal3 rect=71240:63420:71560:64260
+}
+Obj net=net4 gen=via2_320_320 x=71400 y=72240 {
+  Wire net=net4 layer=via2 rect=71240:72080:71560:72400
+  Wire net=net4 layer=metal2 rect=70980:72080:71820:72400
+  Wire net=net4 layer=metal3 rect=71240:71820:71560:72660
+}
+Obj net=net4 gen=via2_320_320 x=72240 y=47040 {
+  Wire net=net4 layer=via2 rect=72080:46880:72400:47200
+  Wire net=net4 layer=metal2 rect=71820:46880:72660:47200
+  Wire net=net4 layer=metal3 rect=72080:46620:72400:47460
+}
+Obj net=net4 gen=via2_320_320 x=72240 y=55440 {
+  Wire net=net4 layer=via2 rect=72080:55280:72400:55600
+  Wire net=net4 layer=metal2 rect=71820:55280:72660:55600
+  Wire net=net4 layer=metal3 rect=72080:55020:72400:55860
+}
+Obj net=net4 gen=via2_320_320 x=72240 y=63840 {
+  Wire net=net4 layer=via2 rect=72080:63680:72400:64000
+  Wire net=net4 layer=metal2 rect=71820:63680:72660:64000
+  Wire net=net4 layer=metal3 rect=72080:63420:72400:64260
+}
+Obj net=net4 gen=via2_320_320 x=72240 y=72240 {
+  Wire net=net4 layer=via2 rect=72080:72080:72400:72400
+  Wire net=net4 layer=metal2 rect=71820:72080:72660:72400
+  Wire net=net4 layer=metal3 rect=72080:71820:72400:72660
+}
+Obj net=net4 gen=via2_320_320 x=73080 y=47040 {
+  Wire net=net4 layer=via2 rect=72920:46880:73240:47200
+  Wire net=net4 layer=metal2 rect=72660:46880:73500:47200
+  Wire net=net4 layer=metal3 rect=72920:46620:73240:47460
+}
+Obj net=net4 gen=via2_320_320 x=73080 y=55440 {
+  Wire net=net4 layer=via2 rect=72920:55280:73240:55600
+  Wire net=net4 layer=metal2 rect=72660:55280:73500:55600
+  Wire net=net4 layer=metal3 rect=72920:55020:73240:55860
+}
+Obj net=net4 gen=via2_320_320 x=73080 y=63840 {
+  Wire net=net4 layer=via2 rect=72920:63680:73240:64000
+  Wire net=net4 layer=metal2 rect=72660:63680:73500:64000
+  Wire net=net4 layer=metal3 rect=72920:63420:73240:64260
+}
+Obj net=net4 gen=via2_320_320 x=73080 y=72240 {
+  Wire net=net4 layer=via2 rect=72920:72080:73240:72400
+  Wire net=net4 layer=metal2 rect=72660:72080:73500:72400
+  Wire net=net4 layer=metal3 rect=72920:71820:73240:72660
+}
+Obj net=net4 gen=via3_320_320 x=12600 y=59640 {
+  Wire net=net4 layer=via3 rect=12440:59480:12760:59800
+  Wire net=net4 layer=metal3 rect=12440:59220:12760:60060
+  Wire net=net4 layer=metal4 rect=12180:59480:13020:59800
+}
+Obj net=net4 gen=via3_320_320 x=12600 y=60480 {
+  Wire net=net4 layer=via3 rect=12440:60320:12760:60640
+  Wire net=net4 layer=metal3 rect=12440:60060:12760:60900
+  Wire net=net4 layer=metal4 rect=12180:60320:13020:60640
+}
+Obj net=net4 gen=via3_320_320 x=12600 y=62160 {
+  Wire net=net4 layer=via3 rect=12440:62000:12760:62320
+  Wire net=net4 layer=metal3 rect=12440:61740:12760:62580
+  Wire net=net4 layer=metal4 rect=12180:62000:13020:62320
+}
+Obj net=net4 gen=via3_320_320 x=14280 y=59640 {
+  Wire net=net4 layer=via3 rect=14120:59480:14440:59800
+  Wire net=net4 layer=metal3 rect=14120:59220:14440:60060
+  Wire net=net4 layer=metal4 rect=13860:59480:14700:59800
+}
+Obj net=net4 gen=via3_320_320 x=14280 y=60480 {
+  Wire net=net4 layer=via3 rect=14120:60320:14440:60640
+  Wire net=net4 layer=metal3 rect=14120:60060:14440:60900
+  Wire net=net4 layer=metal4 rect=13860:60320:14700:60640
+}
+Obj net=net4 gen=via3_320_320 x=14280 y=62160 {
+  Wire net=net4 layer=via3 rect=14120:62000:14440:62320
+  Wire net=net4 layer=metal3 rect=14120:61740:14440:62580
+  Wire net=net4 layer=metal4 rect=13860:62000:14700:62320
+}
+Obj net=net4 gen=via3_320_320 x=15120 y=59640 {
+  Wire net=net4 layer=via3 rect=14960:59480:15280:59800
+  Wire net=net4 layer=metal3 rect=14960:59220:15280:60060
+  Wire net=net4 layer=metal4 rect=14700:59480:15540:59800
+}
+Obj net=net4 gen=via3_320_320 x=15120 y=60480 {
+  Wire net=net4 layer=via3 rect=14960:60320:15280:60640
+  Wire net=net4 layer=metal3 rect=14960:60060:15280:60900
+  Wire net=net4 layer=metal4 rect=14700:60320:15540:60640
+}
+Obj net=net4 gen=via3_320_320 x=15120 y=62160 {
+  Wire net=net4 layer=via3 rect=14960:62000:15280:62320
+  Wire net=net4 layer=metal3 rect=14960:61740:15280:62580
+  Wire net=net4 layer=metal4 rect=14700:62000:15540:62320
+}
+Obj net=net4 gen=via3_320_320 x=71400 y=59640 {
+  Wire net=net4 layer=via3 rect=71240:59480:71560:59800
+  Wire net=net4 layer=metal3 rect=71240:59220:71560:60060
+  Wire net=net4 layer=metal4 rect=70980:59480:71820:59800
+}
+Obj net=net4 gen=via3_320_320 x=71400 y=60480 {
+  Wire net=net4 layer=via3 rect=71240:60320:71560:60640
+  Wire net=net4 layer=metal3 rect=71240:60060:71560:60900
+  Wire net=net4 layer=metal4 rect=70980:60320:71820:60640
+}
+Obj net=net4 gen=via3_320_320 x=71400 y=62160 {
+  Wire net=net4 layer=via3 rect=71240:62000:71560:62320
+  Wire net=net4 layer=metal3 rect=71240:61740:71560:62580
+  Wire net=net4 layer=metal4 rect=70980:62000:71820:62320
+}
+Obj net=net4 gen=via3_320_320 x=72240 y=59640 {
+  Wire net=net4 layer=via3 rect=72080:59480:72400:59800
+  Wire net=net4 layer=metal3 rect=72080:59220:72400:60060
+  Wire net=net4 layer=metal4 rect=71820:59480:72660:59800
+}
+Obj net=net4 gen=via3_320_320 x=72240 y=60480 {
+  Wire net=net4 layer=via3 rect=72080:60320:72400:60640
+  Wire net=net4 layer=metal3 rect=72080:60060:72400:60900
+  Wire net=net4 layer=metal4 rect=71820:60320:72660:60640
+}
+Obj net=net4 gen=via3_320_320 x=72240 y=62160 {
+  Wire net=net4 layer=via3 rect=72080:62000:72400:62320
+  Wire net=net4 layer=metal3 rect=72080:61740:72400:62580
+  Wire net=net4 layer=metal4 rect=71820:62000:72660:62320
+}
+Obj net=net4 gen=via3_320_320 x=73080 y=59640 {
+  Wire net=net4 layer=via3 rect=72920:59480:73240:59800
+  Wire net=net4 layer=metal3 rect=72920:59220:73240:60060
+  Wire net=net4 layer=metal4 rect=72660:59480:73500:59800
+}
+Obj net=net4 gen=via3_320_320 x=73080 y=60480 {
+  Wire net=net4 layer=via3 rect=72920:60320:73240:60640
+  Wire net=net4 layer=metal3 rect=72920:60060:73240:60900
+  Wire net=net4 layer=metal4 rect=72660:60320:73500:60640
+}
+Obj net=net4 gen=via3_320_320 x=73080 y=62160 {
+  Wire net=net4 layer=via3 rect=72920:62000:73240:62320
+  Wire net=net4 layer=metal3 rect=72920:61740:73240:62580
+  Wire net=net4 layer=metal4 rect=72660:62000:73500:62320
+}
+Wire net=net4p layer=metal2 rect=40760:119120:100680:119440 gid=73
+Wire net=net4p layer=metal2 rect=40760:127520:100680:127840 gid=72
+Wire net=net4p layer=metal2 rect=40760:135920:100680:136240 gid=71
+Wire net=net4p layer=metal2 rect=40760:144320:100680:144640 gid=70
+Wire net=net4p layer=metal2 rect=40760:152720:100680:153040 gid=69
+Wire net=net4p layer=metal2 rect=40760:161120:100680:161440 gid=68
+Wire net=net4p layer=metal2 rect=40760:169520:100680:169840 gid=67
+Wire net=net4p layer=metal2 rect=40760:177920:100680:178240 gid=66
+Wire net=net4p layer=metal2 rect=2840:72080:24360:72400 gid=65
+Wire net=net4p layer=metal2 rect=2840:63680:24360:64000 gid=64
+Wire net=net4p layer=metal2 rect=2840:55280:24360:55600 gid=63
+Wire net=net4p layer=metal2 rect=2840:46880:24360:47200 gid=62
+Wire net=net4p layer=metal3 rect=74600:49980:74920:178500
+Wire net=net4p layer=metal3 rect=68720:49980:69040:178500
+Wire net=net4p layer=metal3 rect=67040:49980:67360:178500
+Wire net=net4p layer=metal3 rect=13280:46620:13600:72660
+Wire net=net4p layer=metal3 rect=11600:46620:11920:72660
+Wire net=net4p layer=metal3 rect=10760:46620:11080:72660
+Wire net=net4p layer=metal4 rect=10500:57800:67620:58120
+Wire net=net4p layer=metal4 rect=10500:58640:75180:58960
+Wire net=net4p layer=metal4 rect=10500:56960:67620:57280
+Obj net=net4p gen=via2_320_320 x=10920 y=47040 {
+  Wire net=net4p layer=via2 rect=10760:46880:11080:47200
+  Wire net=net4p layer=metal2 rect=10500:46880:11340:47200
+  Wire net=net4p layer=metal3 rect=10760:46620:11080:47460
+}
+Obj net=net4p gen=via2_320_320 x=10920 y=55440 {
+  Wire net=net4p layer=via2 rect=10760:55280:11080:55600
+  Wire net=net4p layer=metal2 rect=10500:55280:11340:55600
+  Wire net=net4p layer=metal3 rect=10760:55020:11080:55860
+}
+Obj net=net4p gen=via2_320_320 x=10920 y=63840 {
+  Wire net=net4p layer=via2 rect=10760:63680:11080:64000
+  Wire net=net4p layer=metal2 rect=10500:63680:11340:64000
+  Wire net=net4p layer=metal3 rect=10760:63420:11080:64260
+}
+Obj net=net4p gen=via2_320_320 x=10920 y=72240 {
+  Wire net=net4p layer=via2 rect=10760:72080:11080:72400
+  Wire net=net4p layer=metal2 rect=10500:72080:11340:72400
+  Wire net=net4p layer=metal3 rect=10760:71820:11080:72660
+}
+Obj net=net4p gen=via2_320_320 x=11760 y=47040 {
+  Wire net=net4p layer=via2 rect=11600:46880:11920:47200
+  Wire net=net4p layer=metal2 rect=11340:46880:12180:47200
+  Wire net=net4p layer=metal3 rect=11600:46620:11920:47460
+}
+Obj net=net4p gen=via2_320_320 x=11760 y=55440 {
+  Wire net=net4p layer=via2 rect=11600:55280:11920:55600
+  Wire net=net4p layer=metal2 rect=11340:55280:12180:55600
+  Wire net=net4p layer=metal3 rect=11600:55020:11920:55860
+}
+Obj net=net4p gen=via2_320_320 x=11760 y=63840 {
+  Wire net=net4p layer=via2 rect=11600:63680:11920:64000
+  Wire net=net4p layer=metal2 rect=11340:63680:12180:64000
+  Wire net=net4p layer=metal3 rect=11600:63420:11920:64260
+}
+Obj net=net4p gen=via2_320_320 x=11760 y=72240 {
+  Wire net=net4p layer=via2 rect=11600:72080:11920:72400
+  Wire net=net4p layer=metal2 rect=11340:72080:12180:72400
+  Wire net=net4p layer=metal3 rect=11600:71820:11920:72660
+}
+Obj net=net4p gen=via2_320_320 x=13440 y=47040 {
+  Wire net=net4p layer=via2 rect=13280:46880:13600:47200
+  Wire net=net4p layer=metal2 rect=13020:46880:13860:47200
+  Wire net=net4p layer=metal3 rect=13280:46620:13600:47460
+}
+Obj net=net4p gen=via2_320_320 x=13440 y=55440 {
+  Wire net=net4p layer=via2 rect=13280:55280:13600:55600
+  Wire net=net4p layer=metal2 rect=13020:55280:13860:55600
+  Wire net=net4p layer=metal3 rect=13280:55020:13600:55860
+}
+Obj net=net4p gen=via2_320_320 x=13440 y=63840 {
+  Wire net=net4p layer=via2 rect=13280:63680:13600:64000
+  Wire net=net4p layer=metal2 rect=13020:63680:13860:64000
+  Wire net=net4p layer=metal3 rect=13280:63420:13600:64260
+}
+Obj net=net4p gen=via2_320_320 x=13440 y=72240 {
+  Wire net=net4p layer=via2 rect=13280:72080:13600:72400
+  Wire net=net4p layer=metal2 rect=13020:72080:13860:72400
+  Wire net=net4p layer=metal3 rect=13280:71820:13600:72660
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=119280 {
+  Wire net=net4p layer=via2 rect=67040:119120:67360:119440
+  Wire net=net4p layer=metal2 rect=66780:119120:67620:119440
+  Wire net=net4p layer=metal3 rect=67040:118860:67360:119700
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=127680 {
+  Wire net=net4p layer=via2 rect=67040:127520:67360:127840
+  Wire net=net4p layer=metal2 rect=66780:127520:67620:127840
+  Wire net=net4p layer=metal3 rect=67040:127260:67360:128100
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=136080 {
+  Wire net=net4p layer=via2 rect=67040:135920:67360:136240
+  Wire net=net4p layer=metal2 rect=66780:135920:67620:136240
+  Wire net=net4p layer=metal3 rect=67040:135660:67360:136500
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=144480 {
+  Wire net=net4p layer=via2 rect=67040:144320:67360:144640
+  Wire net=net4p layer=metal2 rect=66780:144320:67620:144640
+  Wire net=net4p layer=metal3 rect=67040:144060:67360:144900
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=152880 {
+  Wire net=net4p layer=via2 rect=67040:152720:67360:153040
+  Wire net=net4p layer=metal2 rect=66780:152720:67620:153040
+  Wire net=net4p layer=metal3 rect=67040:152460:67360:153300
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=161280 {
+  Wire net=net4p layer=via2 rect=67040:161120:67360:161440
+  Wire net=net4p layer=metal2 rect=66780:161120:67620:161440
+  Wire net=net4p layer=metal3 rect=67040:160860:67360:161700
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=169680 {
+  Wire net=net4p layer=via2 rect=67040:169520:67360:169840
+  Wire net=net4p layer=metal2 rect=66780:169520:67620:169840
+  Wire net=net4p layer=metal3 rect=67040:169260:67360:170100
+}
+Obj net=net4p gen=via2_320_320 x=67200 y=178080 {
+  Wire net=net4p layer=via2 rect=67040:177920:67360:178240
+  Wire net=net4p layer=metal2 rect=66780:177920:67620:178240
+  Wire net=net4p layer=metal3 rect=67040:177660:67360:178500
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=119280 {
+  Wire net=net4p layer=via2 rect=68720:119120:69040:119440
+  Wire net=net4p layer=metal2 rect=68460:119120:69300:119440
+  Wire net=net4p layer=metal3 rect=68720:118860:69040:119700
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=127680 {
+  Wire net=net4p layer=via2 rect=68720:127520:69040:127840
+  Wire net=net4p layer=metal2 rect=68460:127520:69300:127840
+  Wire net=net4p layer=metal3 rect=68720:127260:69040:128100
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=136080 {
+  Wire net=net4p layer=via2 rect=68720:135920:69040:136240
+  Wire net=net4p layer=metal2 rect=68460:135920:69300:136240
+  Wire net=net4p layer=metal3 rect=68720:135660:69040:136500
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=144480 {
+  Wire net=net4p layer=via2 rect=68720:144320:69040:144640
+  Wire net=net4p layer=metal2 rect=68460:144320:69300:144640
+  Wire net=net4p layer=metal3 rect=68720:144060:69040:144900
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=152880 {
+  Wire net=net4p layer=via2 rect=68720:152720:69040:153040
+  Wire net=net4p layer=metal2 rect=68460:152720:69300:153040
+  Wire net=net4p layer=metal3 rect=68720:152460:69040:153300
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=161280 {
+  Wire net=net4p layer=via2 rect=68720:161120:69040:161440
+  Wire net=net4p layer=metal2 rect=68460:161120:69300:161440
+  Wire net=net4p layer=metal3 rect=68720:160860:69040:161700
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=169680 {
+  Wire net=net4p layer=via2 rect=68720:169520:69040:169840
+  Wire net=net4p layer=metal2 rect=68460:169520:69300:169840
+  Wire net=net4p layer=metal3 rect=68720:169260:69040:170100
+}
+Obj net=net4p gen=via2_320_320 x=68880 y=178080 {
+  Wire net=net4p layer=via2 rect=68720:177920:69040:178240
+  Wire net=net4p layer=metal2 rect=68460:177920:69300:178240
+  Wire net=net4p layer=metal3 rect=68720:177660:69040:178500
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=119280 {
+  Wire net=net4p layer=via2 rect=74600:119120:74920:119440
+  Wire net=net4p layer=metal2 rect=74340:119120:75180:119440
+  Wire net=net4p layer=metal3 rect=74600:118860:74920:119700
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=127680 {
+  Wire net=net4p layer=via2 rect=74600:127520:74920:127840
+  Wire net=net4p layer=metal2 rect=74340:127520:75180:127840
+  Wire net=net4p layer=metal3 rect=74600:127260:74920:128100
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=136080 {
+  Wire net=net4p layer=via2 rect=74600:135920:74920:136240
+  Wire net=net4p layer=metal2 rect=74340:135920:75180:136240
+  Wire net=net4p layer=metal3 rect=74600:135660:74920:136500
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=144480 {
+  Wire net=net4p layer=via2 rect=74600:144320:74920:144640
+  Wire net=net4p layer=metal2 rect=74340:144320:75180:144640
+  Wire net=net4p layer=metal3 rect=74600:144060:74920:144900
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=152880 {
+  Wire net=net4p layer=via2 rect=74600:152720:74920:153040
+  Wire net=net4p layer=metal2 rect=74340:152720:75180:153040
+  Wire net=net4p layer=metal3 rect=74600:152460:74920:153300
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=161280 {
+  Wire net=net4p layer=via2 rect=74600:161120:74920:161440
+  Wire net=net4p layer=metal2 rect=74340:161120:75180:161440
+  Wire net=net4p layer=metal3 rect=74600:160860:74920:161700
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=169680 {
+  Wire net=net4p layer=via2 rect=74600:169520:74920:169840
+  Wire net=net4p layer=metal2 rect=74340:169520:75180:169840
+  Wire net=net4p layer=metal3 rect=74600:169260:74920:170100
+}
+Obj net=net4p gen=via2_320_320 x=74760 y=178080 {
+  Wire net=net4p layer=via2 rect=74600:177920:74920:178240
+  Wire net=net4p layer=metal2 rect=74340:177920:75180:178240
+  Wire net=net4p layer=metal3 rect=74600:177660:74920:178500
+}
+Obj net=net4p gen=via3_320_320 x=10920 y=57120 {
+  Wire net=net4p layer=via3 rect=10760:56960:11080:57280
+  Wire net=net4p layer=metal3 rect=10760:56700:11080:57540
+  Wire net=net4p layer=metal4 rect=10500:56960:11340:57280
+}
+Obj net=net4p gen=via3_320_320 x=10920 y=57960 {
+  Wire net=net4p layer=via3 rect=10760:57800:11080:58120
+  Wire net=net4p layer=metal3 rect=10760:57540:11080:58380
+  Wire net=net4p layer=metal4 rect=10500:57800:11340:58120
+}
+Obj net=net4p gen=via3_320_320 x=10920 y=58800 {
+  Wire net=net4p layer=via3 rect=10760:58640:11080:58960
+  Wire net=net4p layer=metal3 rect=10760:58380:11080:59220
+  Wire net=net4p layer=metal4 rect=10500:58640:11340:58960
+}
+Obj net=net4p gen=via3_320_320 x=11760 y=57120 {
+  Wire net=net4p layer=via3 rect=11600:56960:11920:57280
+  Wire net=net4p layer=metal3 rect=11600:56700:11920:57540
+  Wire net=net4p layer=metal4 rect=11340:56960:12180:57280
+}
+Obj net=net4p gen=via3_320_320 x=11760 y=57960 {
+  Wire net=net4p layer=via3 rect=11600:57800:11920:58120
+  Wire net=net4p layer=metal3 rect=11600:57540:11920:58380
+  Wire net=net4p layer=metal4 rect=11340:57800:12180:58120
+}
+Obj net=net4p gen=via3_320_320 x=11760 y=58800 {
+  Wire net=net4p layer=via3 rect=11600:58640:11920:58960
+  Wire net=net4p layer=metal3 rect=11600:58380:11920:59220
+  Wire net=net4p layer=metal4 rect=11340:58640:12180:58960
+}
+Obj net=net4p gen=via3_320_320 x=13440 y=57120 {
+  Wire net=net4p layer=via3 rect=13280:56960:13600:57280
+  Wire net=net4p layer=metal3 rect=13280:56700:13600:57540
+  Wire net=net4p layer=metal4 rect=13020:56960:13860:57280
+}
+Obj net=net4p gen=via3_320_320 x=13440 y=57960 {
+  Wire net=net4p layer=via3 rect=13280:57800:13600:58120
+  Wire net=net4p layer=metal3 rect=13280:57540:13600:58380
+  Wire net=net4p layer=metal4 rect=13020:57800:13860:58120
+}
+Obj net=net4p gen=via3_320_320 x=13440 y=58800 {
+  Wire net=net4p layer=via3 rect=13280:58640:13600:58960
+  Wire net=net4p layer=metal3 rect=13280:58380:13600:59220
+  Wire net=net4p layer=metal4 rect=13020:58640:13860:58960
+}
+Obj net=net4p gen=via3_320_320 x=67200 y=57120 {
+  Wire net=net4p layer=via3 rect=67040:56960:67360:57280
+  Wire net=net4p layer=metal3 rect=67040:56700:67360:57540
+  Wire net=net4p layer=metal4 rect=66780:56960:67620:57280
+}
+Obj net=net4p gen=via3_320_320 x=67200 y=57960 {
+  Wire net=net4p layer=via3 rect=67040:57800:67360:58120
+  Wire net=net4p layer=metal3 rect=67040:57540:67360:58380
+  Wire net=net4p layer=metal4 rect=66780:57800:67620:58120
+}
+Obj net=net4p gen=via3_320_320 x=67200 y=58800 {
+  Wire net=net4p layer=via3 rect=67040:58640:67360:58960
+  Wire net=net4p layer=metal3 rect=67040:58380:67360:59220
+  Wire net=net4p layer=metal4 rect=66780:58640:67620:58960
+}
+Obj net=net4p gen=via3_320_320 x=68880 y=58800 {
+  Wire net=net4p layer=via3 rect=68720:58640:69040:58960
+  Wire net=net4p layer=metal3 rect=68720:58380:69040:59220
+  Wire net=net4p layer=metal4 rect=68460:58640:69300:58960
+}
+Obj net=net4p gen=via3_320_320 x=74760 y=58800 {
+  Wire net=net4p layer=via3 rect=74600:58640:74920:58960
+  Wire net=net4p layer=metal3 rect=74600:58380:74920:59220
+  Wire net=net4p layer=metal4 rect=74340:58640:75180:58960
+}
+Wire net=net5 layer=metal2 rect=40760:90560:100680:90880 gid=61
+Wire net=net5 layer=metal2 rect=40760:82160:100680:82480 gid=60
+Wire net=net5 layer=metal2 rect=105560:108200:127080:108520 gid=59
+Wire net=net5 layer=metal2 rect=105560:99800:127080:100120 gid=58
+Wire net=net5 layer=metal2 rect=105560:91400:127080:91720 gid=57
+Wire net=net5 layer=metal2 rect=105560:83000:127080:83320 gid=56
+Wire net=net5 layer=metal3 rect=124160:82740:124480:108780
+Wire net=net5 layer=metal3 rect=119960:82740:120280:108780
+Wire net=net5 layer=metal3 rect=119120:82740:119440:108780
+Wire net=net5 layer=metal3 rect=77120:81900:77440:99540
+Wire net=net5 layer=metal3 rect=80480:81900:80800:99540
+Wire net=net5 layer=metal3 rect=79640:81900:79960:99540
+Wire net=net5 layer=metal4 rect=76860:98960:124740:99280
+Wire net=net5 layer=metal4 rect=76860:93920:124740:94240
+Wire net=net5 layer=metal4 rect=76860:98120:124740:98440
+Obj net=net5 gen=via2_320_320 x=77280 y=82320 {
+  Wire net=net5 layer=via2 rect=77120:82160:77440:82480
+  Wire net=net5 layer=metal2 rect=76860:82160:77700:82480
+  Wire net=net5 layer=metal3 rect=77120:81900:77440:82740
+}
+Obj net=net5 gen=via2_320_320 x=77280 y=90720 {
+  Wire net=net5 layer=via2 rect=77120:90560:77440:90880
+  Wire net=net5 layer=metal2 rect=76860:90560:77700:90880
+  Wire net=net5 layer=metal3 rect=77120:90300:77440:91140
+}
+Obj net=net5 gen=via2_320_320 x=79800 y=82320 {
+  Wire net=net5 layer=via2 rect=79640:82160:79960:82480
+  Wire net=net5 layer=metal2 rect=79380:82160:80220:82480
+  Wire net=net5 layer=metal3 rect=79640:81900:79960:82740
+}
+Obj net=net5 gen=via2_320_320 x=79800 y=90720 {
+  Wire net=net5 layer=via2 rect=79640:90560:79960:90880
+  Wire net=net5 layer=metal2 rect=79380:90560:80220:90880
+  Wire net=net5 layer=metal3 rect=79640:90300:79960:91140
+}
+Obj net=net5 gen=via2_320_320 x=80640 y=82320 {
+  Wire net=net5 layer=via2 rect=80480:82160:80800:82480
+  Wire net=net5 layer=metal2 rect=80220:82160:81060:82480
+  Wire net=net5 layer=metal3 rect=80480:81900:80800:82740
+}
+Obj net=net5 gen=via2_320_320 x=80640 y=90720 {
+  Wire net=net5 layer=via2 rect=80480:90560:80800:90880
+  Wire net=net5 layer=metal2 rect=80220:90560:81060:90880
+  Wire net=net5 layer=metal3 rect=80480:90300:80800:91140
+}
+Obj net=net5 gen=via2_320_320 x=119280 y=83160 {
+  Wire net=net5 layer=via2 rect=119120:83000:119440:83320
+  Wire net=net5 layer=metal2 rect=118860:83000:119700:83320
+  Wire net=net5 layer=metal3 rect=119120:82740:119440:83580
+}
+Obj net=net5 gen=via2_320_320 x=119280 y=91560 {
+  Wire net=net5 layer=via2 rect=119120:91400:119440:91720
+  Wire net=net5 layer=metal2 rect=118860:91400:119700:91720
+  Wire net=net5 layer=metal3 rect=119120:91140:119440:91980
+}
+Obj net=net5 gen=via2_320_320 x=119280 y=99960 {
+  Wire net=net5 layer=via2 rect=119120:99800:119440:100120
+  Wire net=net5 layer=metal2 rect=118860:99800:119700:100120
+  Wire net=net5 layer=metal3 rect=119120:99540:119440:100380
+}
+Obj net=net5 gen=via2_320_320 x=119280 y=108360 {
+  Wire net=net5 layer=via2 rect=119120:108200:119440:108520
+  Wire net=net5 layer=metal2 rect=118860:108200:119700:108520
+  Wire net=net5 layer=metal3 rect=119120:107940:119440:108780
+}
+Obj net=net5 gen=via2_320_320 x=120120 y=83160 {
+  Wire net=net5 layer=via2 rect=119960:83000:120280:83320
+  Wire net=net5 layer=metal2 rect=119700:83000:120540:83320
+  Wire net=net5 layer=metal3 rect=119960:82740:120280:83580
+}
+Obj net=net5 gen=via2_320_320 x=120120 y=91560 {
+  Wire net=net5 layer=via2 rect=119960:91400:120280:91720
+  Wire net=net5 layer=metal2 rect=119700:91400:120540:91720
+  Wire net=net5 layer=metal3 rect=119960:91140:120280:91980
+}
+Obj net=net5 gen=via2_320_320 x=120120 y=99960 {
+  Wire net=net5 layer=via2 rect=119960:99800:120280:100120
+  Wire net=net5 layer=metal2 rect=119700:99800:120540:100120
+  Wire net=net5 layer=metal3 rect=119960:99540:120280:100380
+}
+Obj net=net5 gen=via2_320_320 x=120120 y=108360 {
+  Wire net=net5 layer=via2 rect=119960:108200:120280:108520
+  Wire net=net5 layer=metal2 rect=119700:108200:120540:108520
+  Wire net=net5 layer=metal3 rect=119960:107940:120280:108780
+}
+Obj net=net5 gen=via2_320_320 x=124320 y=83160 {
+  Wire net=net5 layer=via2 rect=124160:83000:124480:83320
+  Wire net=net5 layer=metal2 rect=123900:83000:124740:83320
+  Wire net=net5 layer=metal3 rect=124160:82740:124480:83580
+}
+Obj net=net5 gen=via2_320_320 x=124320 y=91560 {
+  Wire net=net5 layer=via2 rect=124160:91400:124480:91720
+  Wire net=net5 layer=metal2 rect=123900:91400:124740:91720
+  Wire net=net5 layer=metal3 rect=124160:91140:124480:91980
+}
+Obj net=net5 gen=via2_320_320 x=124320 y=99960 {
+  Wire net=net5 layer=via2 rect=124160:99800:124480:100120
+  Wire net=net5 layer=metal2 rect=123900:99800:124740:100120
+  Wire net=net5 layer=metal3 rect=124160:99540:124480:100380
+}
+Obj net=net5 gen=via2_320_320 x=124320 y=108360 {
+  Wire net=net5 layer=via2 rect=124160:108200:124480:108520
+  Wire net=net5 layer=metal2 rect=123900:108200:124740:108520
+  Wire net=net5 layer=metal3 rect=124160:107940:124480:108780
+}
+Obj net=net5 gen=via3_320_320 x=77280 y=94080 {
+  Wire net=net5 layer=via3 rect=77120:93920:77440:94240
+  Wire net=net5 layer=metal3 rect=77120:93660:77440:94500
+  Wire net=net5 layer=metal4 rect=76860:93920:77700:94240
+}
+Obj net=net5 gen=via3_320_320 x=77280 y=98280 {
+  Wire net=net5 layer=via3 rect=77120:98120:77440:98440
+  Wire net=net5 layer=metal3 rect=77120:97860:77440:98700
+  Wire net=net5 layer=metal4 rect=76860:98120:77700:98440
+}
+Obj net=net5 gen=via3_320_320 x=77280 y=99120 {
+  Wire net=net5 layer=via3 rect=77120:98960:77440:99280
+  Wire net=net5 layer=metal3 rect=77120:98700:77440:99540
+  Wire net=net5 layer=metal4 rect=76860:98960:77700:99280
+}
+Obj net=net5 gen=via3_320_320 x=79800 y=94080 {
+  Wire net=net5 layer=via3 rect=79640:93920:79960:94240
+  Wire net=net5 layer=metal3 rect=79640:93660:79960:94500
+  Wire net=net5 layer=metal4 rect=79380:93920:80220:94240
+}
+Obj net=net5 gen=via3_320_320 x=79800 y=98280 {
+  Wire net=net5 layer=via3 rect=79640:98120:79960:98440
+  Wire net=net5 layer=metal3 rect=79640:97860:79960:98700
+  Wire net=net5 layer=metal4 rect=79380:98120:80220:98440
+}
+Obj net=net5 gen=via3_320_320 x=79800 y=99120 {
+  Wire net=net5 layer=via3 rect=79640:98960:79960:99280
+  Wire net=net5 layer=metal3 rect=79640:98700:79960:99540
+  Wire net=net5 layer=metal4 rect=79380:98960:80220:99280
+}
+Obj net=net5 gen=via3_320_320 x=80640 y=94080 {
+  Wire net=net5 layer=via3 rect=80480:93920:80800:94240
+  Wire net=net5 layer=metal3 rect=80480:93660:80800:94500
+  Wire net=net5 layer=metal4 rect=80220:93920:81060:94240
+}
+Obj net=net5 gen=via3_320_320 x=80640 y=98280 {
+  Wire net=net5 layer=via3 rect=80480:98120:80800:98440
+  Wire net=net5 layer=metal3 rect=80480:97860:80800:98700
+  Wire net=net5 layer=metal4 rect=80220:98120:81060:98440
+}
+Obj net=net5 gen=via3_320_320 x=80640 y=99120 {
+  Wire net=net5 layer=via3 rect=80480:98960:80800:99280
+  Wire net=net5 layer=metal3 rect=80480:98700:80800:99540
+  Wire net=net5 layer=metal4 rect=80220:98960:81060:99280
+}
+Obj net=net5 gen=via3_320_320 x=119280 y=94080 {
+  Wire net=net5 layer=via3 rect=119120:93920:119440:94240
+  Wire net=net5 layer=metal3 rect=119120:93660:119440:94500
+  Wire net=net5 layer=metal4 rect=118860:93920:119700:94240
+}
+Obj net=net5 gen=via3_320_320 x=119280 y=98280 {
+  Wire net=net5 layer=via3 rect=119120:98120:119440:98440
+  Wire net=net5 layer=metal3 rect=119120:97860:119440:98700
+  Wire net=net5 layer=metal4 rect=118860:98120:119700:98440
+}
+Obj net=net5 gen=via3_320_320 x=119280 y=99120 {
+  Wire net=net5 layer=via3 rect=119120:98960:119440:99280
+  Wire net=net5 layer=metal3 rect=119120:98700:119440:99540
+  Wire net=net5 layer=metal4 rect=118860:98960:119700:99280
+}
+Obj net=net5 gen=via3_320_320 x=120120 y=94080 {
+  Wire net=net5 layer=via3 rect=119960:93920:120280:94240
+  Wire net=net5 layer=metal3 rect=119960:93660:120280:94500
+  Wire net=net5 layer=metal4 rect=119700:93920:120540:94240
+}
+Obj net=net5 gen=via3_320_320 x=120120 y=98280 {
+  Wire net=net5 layer=via3 rect=119960:98120:120280:98440
+  Wire net=net5 layer=metal3 rect=119960:97860:120280:98700
+  Wire net=net5 layer=metal4 rect=119700:98120:120540:98440
+}
+Obj net=net5 gen=via3_320_320 x=120120 y=99120 {
+  Wire net=net5 layer=via3 rect=119960:98960:120280:99280
+  Wire net=net5 layer=metal3 rect=119960:98700:120280:99540
+  Wire net=net5 layer=metal4 rect=119700:98960:120540:99280
+}
+Obj net=net5 gen=via3_320_320 x=124320 y=94080 {
+  Wire net=net5 layer=via3 rect=124160:93920:124480:94240
+  Wire net=net5 layer=metal3 rect=124160:93660:124480:94500
+  Wire net=net5 layer=metal4 rect=123900:93920:124740:94240
+}
+Obj net=net5 gen=via3_320_320 x=124320 y=98280 {
+  Wire net=net5 layer=via3 rect=124160:98120:124480:98440
+  Wire net=net5 layer=metal3 rect=124160:97860:124480:98700
+  Wire net=net5 layer=metal4 rect=123900:98120:124740:98440
+}
+Obj net=net5 gen=via3_320_320 x=124320 y=99120 {
+  Wire net=net5 layer=via3 rect=124160:98960:124480:99280
+  Wire net=net5 layer=metal3 rect=124160:98700:124480:99540
+  Wire net=net5 layer=metal4 rect=123900:98960:124740:99280
+}
+Wire net=net5p layer=metal2 rect=40760:119960:100680:120280 gid=51
+Wire net=net5p layer=metal2 rect=40760:128360:100680:128680 gid=50
+Wire net=net5p layer=metal2 rect=40760:136760:100680:137080 gid=49
+Wire net=net5p layer=metal2 rect=40760:145160:100680:145480 gid=48
+Wire net=net5p layer=metal2 rect=40760:153560:100680:153880 gid=47
+Wire net=net5p layer=metal2 rect=40760:161960:100680:162280 gid=46
+Wire net=net5p layer=metal2 rect=40760:170360:100680:170680 gid=45
+Wire net=net5p layer=metal2 rect=40760:178760:100680:179080 gid=44
+Wire net=net5p layer=metal2 rect=105560:107360:127080:107680 gid=43
+Wire net=net5p layer=metal2 rect=105560:98960:127080:99280 gid=42
+Wire net=net5p layer=metal2 rect=105560:90560:127080:90880 gid=41
+Wire net=net5p layer=metal2 rect=105560:82160:127080:82480 gid=40
+Wire net=net5p layer=metal3 rect=71240:91980:71560:179340
+Wire net=net5p layer=metal3 rect=67880:94500:68200:179340
+Wire net=net5p layer=metal3 rect=72080:94500:72400:179340
+Wire net=net5p layer=metal3 rect=109880:81900:110200:107940
+Wire net=net5p layer=metal3 rect=110720:81900:111040:107940
+Wire net=net5p layer=metal3 rect=114920:81900:115240:107940
+Wire net=net5p layer=metal4 rect=70980:92240:115500:92560
+Wire net=net5p layer=metal4 rect=67620:94760:115500:95080
+Wire net=net5p layer=metal4 rect=67620:99800:115500:100120
+Obj net=net5p gen=via2_320_320 x=68040 y=120120 {
+  Wire net=net5p layer=via2 rect=67880:119960:68200:120280
+  Wire net=net5p layer=metal2 rect=67620:119960:68460:120280
+  Wire net=net5p layer=metal3 rect=67880:119700:68200:120540
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=128520 {
+  Wire net=net5p layer=via2 rect=67880:128360:68200:128680
+  Wire net=net5p layer=metal2 rect=67620:128360:68460:128680
+  Wire net=net5p layer=metal3 rect=67880:128100:68200:128940
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=136920 {
+  Wire net=net5p layer=via2 rect=67880:136760:68200:137080
+  Wire net=net5p layer=metal2 rect=67620:136760:68460:137080
+  Wire net=net5p layer=metal3 rect=67880:136500:68200:137340
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=145320 {
+  Wire net=net5p layer=via2 rect=67880:145160:68200:145480
+  Wire net=net5p layer=metal2 rect=67620:145160:68460:145480
+  Wire net=net5p layer=metal3 rect=67880:144900:68200:145740
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=153720 {
+  Wire net=net5p layer=via2 rect=67880:153560:68200:153880
+  Wire net=net5p layer=metal2 rect=67620:153560:68460:153880
+  Wire net=net5p layer=metal3 rect=67880:153300:68200:154140
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=162120 {
+  Wire net=net5p layer=via2 rect=67880:161960:68200:162280
+  Wire net=net5p layer=metal2 rect=67620:161960:68460:162280
+  Wire net=net5p layer=metal3 rect=67880:161700:68200:162540
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=170520 {
+  Wire net=net5p layer=via2 rect=67880:170360:68200:170680
+  Wire net=net5p layer=metal2 rect=67620:170360:68460:170680
+  Wire net=net5p layer=metal3 rect=67880:170100:68200:170940
+}
+Obj net=net5p gen=via2_320_320 x=68040 y=178920 {
+  Wire net=net5p layer=via2 rect=67880:178760:68200:179080
+  Wire net=net5p layer=metal2 rect=67620:178760:68460:179080
+  Wire net=net5p layer=metal3 rect=67880:178500:68200:179340
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=120120 {
+  Wire net=net5p layer=via2 rect=71240:119960:71560:120280
+  Wire net=net5p layer=metal2 rect=70980:119960:71820:120280
+  Wire net=net5p layer=metal3 rect=71240:119700:71560:120540
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=128520 {
+  Wire net=net5p layer=via2 rect=71240:128360:71560:128680
+  Wire net=net5p layer=metal2 rect=70980:128360:71820:128680
+  Wire net=net5p layer=metal3 rect=71240:128100:71560:128940
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=136920 {
+  Wire net=net5p layer=via2 rect=71240:136760:71560:137080
+  Wire net=net5p layer=metal2 rect=70980:136760:71820:137080
+  Wire net=net5p layer=metal3 rect=71240:136500:71560:137340
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=145320 {
+  Wire net=net5p layer=via2 rect=71240:145160:71560:145480
+  Wire net=net5p layer=metal2 rect=70980:145160:71820:145480
+  Wire net=net5p layer=metal3 rect=71240:144900:71560:145740
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=153720 {
+  Wire net=net5p layer=via2 rect=71240:153560:71560:153880
+  Wire net=net5p layer=metal2 rect=70980:153560:71820:153880
+  Wire net=net5p layer=metal3 rect=71240:153300:71560:154140
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=162120 {
+  Wire net=net5p layer=via2 rect=71240:161960:71560:162280
+  Wire net=net5p layer=metal2 rect=70980:161960:71820:162280
+  Wire net=net5p layer=metal3 rect=71240:161700:71560:162540
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=170520 {
+  Wire net=net5p layer=via2 rect=71240:170360:71560:170680
+  Wire net=net5p layer=metal2 rect=70980:170360:71820:170680
+  Wire net=net5p layer=metal3 rect=71240:170100:71560:170940
+}
+Obj net=net5p gen=via2_320_320 x=71400 y=178920 {
+  Wire net=net5p layer=via2 rect=71240:178760:71560:179080
+  Wire net=net5p layer=metal2 rect=70980:178760:71820:179080
+  Wire net=net5p layer=metal3 rect=71240:178500:71560:179340
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=120120 {
+  Wire net=net5p layer=via2 rect=72080:119960:72400:120280
+  Wire net=net5p layer=metal2 rect=71820:119960:72660:120280
+  Wire net=net5p layer=metal3 rect=72080:119700:72400:120540
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=128520 {
+  Wire net=net5p layer=via2 rect=72080:128360:72400:128680
+  Wire net=net5p layer=metal2 rect=71820:128360:72660:128680
+  Wire net=net5p layer=metal3 rect=72080:128100:72400:128940
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=136920 {
+  Wire net=net5p layer=via2 rect=72080:136760:72400:137080
+  Wire net=net5p layer=metal2 rect=71820:136760:72660:137080
+  Wire net=net5p layer=metal3 rect=72080:136500:72400:137340
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=145320 {
+  Wire net=net5p layer=via2 rect=72080:145160:72400:145480
+  Wire net=net5p layer=metal2 rect=71820:145160:72660:145480
+  Wire net=net5p layer=metal3 rect=72080:144900:72400:145740
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=153720 {
+  Wire net=net5p layer=via2 rect=72080:153560:72400:153880
+  Wire net=net5p layer=metal2 rect=71820:153560:72660:153880
+  Wire net=net5p layer=metal3 rect=72080:153300:72400:154140
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=162120 {
+  Wire net=net5p layer=via2 rect=72080:161960:72400:162280
+  Wire net=net5p layer=metal2 rect=71820:161960:72660:162280
+  Wire net=net5p layer=metal3 rect=72080:161700:72400:162540
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=170520 {
+  Wire net=net5p layer=via2 rect=72080:170360:72400:170680
+  Wire net=net5p layer=metal2 rect=71820:170360:72660:170680
+  Wire net=net5p layer=metal3 rect=72080:170100:72400:170940
+}
+Obj net=net5p gen=via2_320_320 x=72240 y=178920 {
+  Wire net=net5p layer=via2 rect=72080:178760:72400:179080
+  Wire net=net5p layer=metal2 rect=71820:178760:72660:179080
+  Wire net=net5p layer=metal3 rect=72080:178500:72400:179340
+}
+Obj net=net5p gen=via2_320_320 x=110040 y=82320 {
+  Wire net=net5p layer=via2 rect=109880:82160:110200:82480
+  Wire net=net5p layer=metal2 rect=109620:82160:110460:82480
+  Wire net=net5p layer=metal3 rect=109880:81900:110200:82740
+}
+Obj net=net5p gen=via2_320_320 x=110040 y=90720 {
+  Wire net=net5p layer=via2 rect=109880:90560:110200:90880
+  Wire net=net5p layer=metal2 rect=109620:90560:110460:90880
+  Wire net=net5p layer=metal3 rect=109880:90300:110200:91140
+}
+Obj net=net5p gen=via2_320_320 x=110040 y=99120 {
+  Wire net=net5p layer=via2 rect=109880:98960:110200:99280
+  Wire net=net5p layer=metal2 rect=109620:98960:110460:99280
+  Wire net=net5p layer=metal3 rect=109880:98700:110200:99540
+}
+Obj net=net5p gen=via2_320_320 x=110040 y=107520 {
+  Wire net=net5p layer=via2 rect=109880:107360:110200:107680
+  Wire net=net5p layer=metal2 rect=109620:107360:110460:107680
+  Wire net=net5p layer=metal3 rect=109880:107100:110200:107940
+}
+Obj net=net5p gen=via2_320_320 x=110880 y=82320 {
+  Wire net=net5p layer=via2 rect=110720:82160:111040:82480
+  Wire net=net5p layer=metal2 rect=110460:82160:111300:82480
+  Wire net=net5p layer=metal3 rect=110720:81900:111040:82740
+}
+Obj net=net5p gen=via2_320_320 x=110880 y=90720 {
+  Wire net=net5p layer=via2 rect=110720:90560:111040:90880
+  Wire net=net5p layer=metal2 rect=110460:90560:111300:90880
+  Wire net=net5p layer=metal3 rect=110720:90300:111040:91140
+}
+Obj net=net5p gen=via2_320_320 x=110880 y=99120 {
+  Wire net=net5p layer=via2 rect=110720:98960:111040:99280
+  Wire net=net5p layer=metal2 rect=110460:98960:111300:99280
+  Wire net=net5p layer=metal3 rect=110720:98700:111040:99540
+}
+Obj net=net5p gen=via2_320_320 x=110880 y=107520 {
+  Wire net=net5p layer=via2 rect=110720:107360:111040:107680
+  Wire net=net5p layer=metal2 rect=110460:107360:111300:107680
+  Wire net=net5p layer=metal3 rect=110720:107100:111040:107940
+}
+Obj net=net5p gen=via2_320_320 x=115080 y=82320 {
+  Wire net=net5p layer=via2 rect=114920:82160:115240:82480
+  Wire net=net5p layer=metal2 rect=114660:82160:115500:82480
+  Wire net=net5p layer=metal3 rect=114920:81900:115240:82740
+}
+Obj net=net5p gen=via2_320_320 x=115080 y=90720 {
+  Wire net=net5p layer=via2 rect=114920:90560:115240:90880
+  Wire net=net5p layer=metal2 rect=114660:90560:115500:90880
+  Wire net=net5p layer=metal3 rect=114920:90300:115240:91140
+}
+Obj net=net5p gen=via2_320_320 x=115080 y=99120 {
+  Wire net=net5p layer=via2 rect=114920:98960:115240:99280
+  Wire net=net5p layer=metal2 rect=114660:98960:115500:99280
+  Wire net=net5p layer=metal3 rect=114920:98700:115240:99540
+}
+Obj net=net5p gen=via2_320_320 x=115080 y=107520 {
+  Wire net=net5p layer=via2 rect=114920:107360:115240:107680
+  Wire net=net5p layer=metal2 rect=114660:107360:115500:107680
+  Wire net=net5p layer=metal3 rect=114920:107100:115240:107940
+}
+Obj net=net5p gen=via3_320_320 x=68040 y=94920 {
+  Wire net=net5p layer=via3 rect=67880:94760:68200:95080
+  Wire net=net5p layer=metal3 rect=67880:94500:68200:95340
+  Wire net=net5p layer=metal4 rect=67620:94760:68460:95080
+}
+Obj net=net5p gen=via3_320_320 x=68040 y=99960 {
+  Wire net=net5p layer=via3 rect=67880:99800:68200:100120
+  Wire net=net5p layer=metal3 rect=67880:99540:68200:100380
+  Wire net=net5p layer=metal4 rect=67620:99800:68460:100120
+}
+Obj net=net5p gen=via3_320_320 x=71400 y=92400 {
+  Wire net=net5p layer=via3 rect=71240:92240:71560:92560
+  Wire net=net5p layer=metal3 rect=71240:91980:71560:92820
+  Wire net=net5p layer=metal4 rect=70980:92240:71820:92560
+}
+Obj net=net5p gen=via3_320_320 x=71400 y=94920 {
+  Wire net=net5p layer=via3 rect=71240:94760:71560:95080
+  Wire net=net5p layer=metal3 rect=71240:94500:71560:95340
+  Wire net=net5p layer=metal4 rect=70980:94760:71820:95080
+}
+Obj net=net5p gen=via3_320_320 x=71400 y=99960 {
+  Wire net=net5p layer=via3 rect=71240:99800:71560:100120
+  Wire net=net5p layer=metal3 rect=71240:99540:71560:100380
+  Wire net=net5p layer=metal4 rect=70980:99800:71820:100120
+}
+Obj net=net5p gen=via3_320_320 x=72240 y=94920 {
+  Wire net=net5p layer=via3 rect=72080:94760:72400:95080
+  Wire net=net5p layer=metal3 rect=72080:94500:72400:95340
+  Wire net=net5p layer=metal4 rect=71820:94760:72660:95080
+}
+Obj net=net5p gen=via3_320_320 x=72240 y=99960 {
+  Wire net=net5p layer=via3 rect=72080:99800:72400:100120
+  Wire net=net5p layer=metal3 rect=72080:99540:72400:100380
+  Wire net=net5p layer=metal4 rect=71820:99800:72660:100120
+}
+Obj net=net5p gen=via3_320_320 x=110040 y=92400 {
+  Wire net=net5p layer=via3 rect=109880:92240:110200:92560
+  Wire net=net5p layer=metal3 rect=109880:91980:110200:92820
+  Wire net=net5p layer=metal4 rect=109620:92240:110460:92560
+}
+Obj net=net5p gen=via3_320_320 x=110040 y=94920 {
+  Wire net=net5p layer=via3 rect=109880:94760:110200:95080
+  Wire net=net5p layer=metal3 rect=109880:94500:110200:95340
+  Wire net=net5p layer=metal4 rect=109620:94760:110460:95080
+}
+Obj net=net5p gen=via3_320_320 x=110040 y=99960 {
+  Wire net=net5p layer=via3 rect=109880:99800:110200:100120
+  Wire net=net5p layer=metal3 rect=109880:99540:110200:100380
+  Wire net=net5p layer=metal4 rect=109620:99800:110460:100120
+}
+Obj net=net5p gen=via3_320_320 x=110880 y=92400 {
+  Wire net=net5p layer=via3 rect=110720:92240:111040:92560
+  Wire net=net5p layer=metal3 rect=110720:91980:111040:92820
+  Wire net=net5p layer=metal4 rect=110460:92240:111300:92560
+}
+Obj net=net5p gen=via3_320_320 x=110880 y=94920 {
+  Wire net=net5p layer=via3 rect=110720:94760:111040:95080
+  Wire net=net5p layer=metal3 rect=110720:94500:111040:95340
+  Wire net=net5p layer=metal4 rect=110460:94760:111300:95080
+}
+Obj net=net5p gen=via3_320_320 x=110880 y=99960 {
+  Wire net=net5p layer=via3 rect=110720:99800:111040:100120
+  Wire net=net5p layer=metal3 rect=110720:99540:111040:100380
+  Wire net=net5p layer=metal4 rect=110460:99800:111300:100120
+}
+Obj net=net5p gen=via3_320_320 x=115080 y=92400 {
+  Wire net=net5p layer=via3 rect=114920:92240:115240:92560
+  Wire net=net5p layer=metal3 rect=114920:91980:115240:92820
+  Wire net=net5p layer=metal4 rect=114660:92240:115500:92560
+}
+Obj net=net5p gen=via3_320_320 x=115080 y=94920 {
+  Wire net=net5p layer=via3 rect=114920:94760:115240:95080
+  Wire net=net5p layer=metal3 rect=114920:94500:115240:95340
+  Wire net=net5p layer=metal4 rect=114660:94760:115500:95080
+}
+Obj net=net5p gen=via3_320_320 x=115080 y=99960 {
+  Wire net=net5p layer=via3 rect=114920:99800:115240:100120
+  Wire net=net5p layer=metal3 rect=114920:99540:115240:100380
+  Wire net=net5p layer=metal4 rect=114660:99800:115500:100120
+}
+Wire net=net6 layer=metal2 rect=21560:36800:119880:37120 gid=110
+Wire net=net6 layer=metal2 rect=21560:28400:119880:28720 gid=109
+Wire net=net6 layer=metal2 rect=21560:20000:119880:20320 gid=108
+Wire net=net6 layer=metal2 rect=21560:11600:119880:11920 gid=107
+Wire net=net6 layer=metal2 rect=21560:3200:119880:3520 gid=106
+Wire net=net6 layer=metal2 rect=124760:29240:146280:29560 gid=105
+Wire net=net6 layer=metal2 rect=124760:20840:146280:21160 gid=104
+Wire net=net6 layer=metal2 rect=124760:12440:146280:12760 gid=103
+Wire net=net6 layer=metal2 rect=124760:4040:146280:4360 gid=102
+Wire net=net6 layer=metal3 rect=73760:2940:74080:37380
+Wire net=net6 layer=metal3 rect=67040:2940:67360:37380
+Wire net=net6 layer=metal3 rect=137600:3780:137920:29820
+Wire net=net6 layer=metal3 rect=140120:3780:140440:29820
+Wire net=net6 layer=metal3 rect=135080:3780:135400:29820
+Wire net=net6 layer=metal3 rect=74600:2940:74920:37380
+Wire net=net6 layer=metal4 rect=73500:24200:140700:24520
+Wire net=net6 layer=metal4 rect=66780:19160:140700:19480
+Wire net=net6 layer=metal4 rect=66780:16640:140700:16960
+Obj net=net6 gen=via2_320_320 x=67200 y=3360 {
+  Wire net=net6 layer=via2 rect=67040:3200:67360:3520
+  Wire net=net6 layer=metal2 rect=66780:3200:67620:3520
+  Wire net=net6 layer=metal3 rect=67040:2940:67360:3780
+}
+Obj net=net6 gen=via2_320_320 x=67200 y=11760 {
+  Wire net=net6 layer=via2 rect=67040:11600:67360:11920
+  Wire net=net6 layer=metal2 rect=66780:11600:67620:11920
+  Wire net=net6 layer=metal3 rect=67040:11340:67360:12180
+}
+Obj net=net6 gen=via2_320_320 x=67200 y=20160 {
+  Wire net=net6 layer=via2 rect=67040:20000:67360:20320
+  Wire net=net6 layer=metal2 rect=66780:20000:67620:20320
+  Wire net=net6 layer=metal3 rect=67040:19740:67360:20580
+}
+Obj net=net6 gen=via2_320_320 x=67200 y=28560 {
+  Wire net=net6 layer=via2 rect=67040:28400:67360:28720
+  Wire net=net6 layer=metal2 rect=66780:28400:67620:28720
+  Wire net=net6 layer=metal3 rect=67040:28140:67360:28980
+}
+Obj net=net6 gen=via2_320_320 x=67200 y=36960 {
+  Wire net=net6 layer=via2 rect=67040:36800:67360:37120
+  Wire net=net6 layer=metal2 rect=66780:36800:67620:37120
+  Wire net=net6 layer=metal3 rect=67040:36540:67360:37380
+}
+Obj net=net6 gen=via2_320_320 x=73920 y=3360 {
+  Wire net=net6 layer=via2 rect=73760:3200:74080:3520
+  Wire net=net6 layer=metal2 rect=73500:3200:74340:3520
+  Wire net=net6 layer=metal3 rect=73760:2940:74080:3780
+}
+Obj net=net6 gen=via2_320_320 x=73920 y=11760 {
+  Wire net=net6 layer=via2 rect=73760:11600:74080:11920
+  Wire net=net6 layer=metal2 rect=73500:11600:74340:11920
+  Wire net=net6 layer=metal3 rect=73760:11340:74080:12180
+}
+Obj net=net6 gen=via2_320_320 x=73920 y=20160 {
+  Wire net=net6 layer=via2 rect=73760:20000:74080:20320
+  Wire net=net6 layer=metal2 rect=73500:20000:74340:20320
+  Wire net=net6 layer=metal3 rect=73760:19740:74080:20580
+}
+Obj net=net6 gen=via2_320_320 x=73920 y=28560 {
+  Wire net=net6 layer=via2 rect=73760:28400:74080:28720
+  Wire net=net6 layer=metal2 rect=73500:28400:74340:28720
+  Wire net=net6 layer=metal3 rect=73760:28140:74080:28980
+}
+Obj net=net6 gen=via2_320_320 x=73920 y=36960 {
+  Wire net=net6 layer=via2 rect=73760:36800:74080:37120
+  Wire net=net6 layer=metal2 rect=73500:36800:74340:37120
+  Wire net=net6 layer=metal3 rect=73760:36540:74080:37380
+}
+Obj net=net6 gen=via2_320_320 x=74760 y=3360 {
+  Wire net=net6 layer=via2 rect=74600:3200:74920:3520
+  Wire net=net6 layer=metal2 rect=74340:3200:75180:3520
+  Wire net=net6 layer=metal3 rect=74600:2940:74920:3780
+}
+Obj net=net6 gen=via2_320_320 x=74760 y=11760 {
+  Wire net=net6 layer=via2 rect=74600:11600:74920:11920
+  Wire net=net6 layer=metal2 rect=74340:11600:75180:11920
+  Wire net=net6 layer=metal3 rect=74600:11340:74920:12180
+}
+Obj net=net6 gen=via2_320_320 x=74760 y=20160 {
+  Wire net=net6 layer=via2 rect=74600:20000:74920:20320
+  Wire net=net6 layer=metal2 rect=74340:20000:75180:20320
+  Wire net=net6 layer=metal3 rect=74600:19740:74920:20580
+}
+Obj net=net6 gen=via2_320_320 x=74760 y=28560 {
+  Wire net=net6 layer=via2 rect=74600:28400:74920:28720
+  Wire net=net6 layer=metal2 rect=74340:28400:75180:28720
+  Wire net=net6 layer=metal3 rect=74600:28140:74920:28980
+}
+Obj net=net6 gen=via2_320_320 x=74760 y=36960 {
+  Wire net=net6 layer=via2 rect=74600:36800:74920:37120
+  Wire net=net6 layer=metal2 rect=74340:36800:75180:37120
+  Wire net=net6 layer=metal3 rect=74600:36540:74920:37380
+}
+Obj net=net6 gen=via2_320_320 x=135240 y=4200 {
+  Wire net=net6 layer=via2 rect=135080:4040:135400:4360
+  Wire net=net6 layer=metal2 rect=134820:4040:135660:4360
+  Wire net=net6 layer=metal3 rect=135080:3780:135400:4620
+}
+Obj net=net6 gen=via2_320_320 x=135240 y=12600 {
+  Wire net=net6 layer=via2 rect=135080:12440:135400:12760
+  Wire net=net6 layer=metal2 rect=134820:12440:135660:12760
+  Wire net=net6 layer=metal3 rect=135080:12180:135400:13020
+}
+Obj net=net6 gen=via2_320_320 x=135240 y=21000 {
+  Wire net=net6 layer=via2 rect=135080:20840:135400:21160
+  Wire net=net6 layer=metal2 rect=134820:20840:135660:21160
+  Wire net=net6 layer=metal3 rect=135080:20580:135400:21420
+}
+Obj net=net6 gen=via2_320_320 x=135240 y=29400 {
+  Wire net=net6 layer=via2 rect=135080:29240:135400:29560
+  Wire net=net6 layer=metal2 rect=134820:29240:135660:29560
+  Wire net=net6 layer=metal3 rect=135080:28980:135400:29820
+}
+Obj net=net6 gen=via2_320_320 x=137760 y=4200 {
+  Wire net=net6 layer=via2 rect=137600:4040:137920:4360
+  Wire net=net6 layer=metal2 rect=137340:4040:138180:4360
+  Wire net=net6 layer=metal3 rect=137600:3780:137920:4620
+}
+Obj net=net6 gen=via2_320_320 x=137760 y=12600 {
+  Wire net=net6 layer=via2 rect=137600:12440:137920:12760
+  Wire net=net6 layer=metal2 rect=137340:12440:138180:12760
+  Wire net=net6 layer=metal3 rect=137600:12180:137920:13020
+}
+Obj net=net6 gen=via2_320_320 x=137760 y=21000 {
+  Wire net=net6 layer=via2 rect=137600:20840:137920:21160
+  Wire net=net6 layer=metal2 rect=137340:20840:138180:21160
+  Wire net=net6 layer=metal3 rect=137600:20580:137920:21420
+}
+Obj net=net6 gen=via2_320_320 x=137760 y=29400 {
+  Wire net=net6 layer=via2 rect=137600:29240:137920:29560
+  Wire net=net6 layer=metal2 rect=137340:29240:138180:29560
+  Wire net=net6 layer=metal3 rect=137600:28980:137920:29820
+}
+Obj net=net6 gen=via2_320_320 x=140280 y=4200 {
+  Wire net=net6 layer=via2 rect=140120:4040:140440:4360
+  Wire net=net6 layer=metal2 rect=139860:4040:140700:4360
+  Wire net=net6 layer=metal3 rect=140120:3780:140440:4620
+}
+Obj net=net6 gen=via2_320_320 x=140280 y=12600 {
+  Wire net=net6 layer=via2 rect=140120:12440:140440:12760
+  Wire net=net6 layer=metal2 rect=139860:12440:140700:12760
+  Wire net=net6 layer=metal3 rect=140120:12180:140440:13020
+}
+Obj net=net6 gen=via2_320_320 x=140280 y=21000 {
+  Wire net=net6 layer=via2 rect=140120:20840:140440:21160
+  Wire net=net6 layer=metal2 rect=139860:20840:140700:21160
+  Wire net=net6 layer=metal3 rect=140120:20580:140440:21420
+}
+Obj net=net6 gen=via2_320_320 x=140280 y=29400 {
+  Wire net=net6 layer=via2 rect=140120:29240:140440:29560
+  Wire net=net6 layer=metal2 rect=139860:29240:140700:29560
+  Wire net=net6 layer=metal3 rect=140120:28980:140440:29820
+}
+Obj net=net6 gen=via3_320_320 x=67200 y=16800 {
+  Wire net=net6 layer=via3 rect=67040:16640:67360:16960
+  Wire net=net6 layer=metal3 rect=67040:16380:67360:17220
+  Wire net=net6 layer=metal4 rect=66780:16640:67620:16960
+}
+Obj net=net6 gen=via3_320_320 x=67200 y=19320 {
+  Wire net=net6 layer=via3 rect=67040:19160:67360:19480
+  Wire net=net6 layer=metal3 rect=67040:18900:67360:19740
+  Wire net=net6 layer=metal4 rect=66780:19160:67620:19480
+}
+Obj net=net6 gen=via3_320_320 x=73920 y=16800 {
+  Wire net=net6 layer=via3 rect=73760:16640:74080:16960
+  Wire net=net6 layer=metal3 rect=73760:16380:74080:17220
+  Wire net=net6 layer=metal4 rect=73500:16640:74340:16960
+}
+Obj net=net6 gen=via3_320_320 x=73920 y=19320 {
+  Wire net=net6 layer=via3 rect=73760:19160:74080:19480
+  Wire net=net6 layer=metal3 rect=73760:18900:74080:19740
+  Wire net=net6 layer=metal4 rect=73500:19160:74340:19480
+}
+Obj net=net6 gen=via3_320_320 x=73920 y=24360 {
+  Wire net=net6 layer=via3 rect=73760:24200:74080:24520
+  Wire net=net6 layer=metal3 rect=73760:23940:74080:24780
+  Wire net=net6 layer=metal4 rect=73500:24200:74340:24520
+}
+Obj net=net6 gen=via3_320_320 x=74760 y=16800 {
+  Wire net=net6 layer=via3 rect=74600:16640:74920:16960
+  Wire net=net6 layer=metal3 rect=74600:16380:74920:17220
+  Wire net=net6 layer=metal4 rect=74340:16640:75180:16960
+}
+Obj net=net6 gen=via3_320_320 x=74760 y=19320 {
+  Wire net=net6 layer=via3 rect=74600:19160:74920:19480
+  Wire net=net6 layer=metal3 rect=74600:18900:74920:19740
+  Wire net=net6 layer=metal4 rect=74340:19160:75180:19480
+}
+Obj net=net6 gen=via3_320_320 x=74760 y=24360 {
+  Wire net=net6 layer=via3 rect=74600:24200:74920:24520
+  Wire net=net6 layer=metal3 rect=74600:23940:74920:24780
+  Wire net=net6 layer=metal4 rect=74340:24200:75180:24520
+}
+Obj net=net6 gen=via3_320_320 x=135240 y=16800 {
+  Wire net=net6 layer=via3 rect=135080:16640:135400:16960
+  Wire net=net6 layer=metal3 rect=135080:16380:135400:17220
+  Wire net=net6 layer=metal4 rect=134820:16640:135660:16960
+}
+Obj net=net6 gen=via3_320_320 x=135240 y=19320 {
+  Wire net=net6 layer=via3 rect=135080:19160:135400:19480
+  Wire net=net6 layer=metal3 rect=135080:18900:135400:19740
+  Wire net=net6 layer=metal4 rect=134820:19160:135660:19480
+}
+Obj net=net6 gen=via3_320_320 x=135240 y=24360 {
+  Wire net=net6 layer=via3 rect=135080:24200:135400:24520
+  Wire net=net6 layer=metal3 rect=135080:23940:135400:24780
+  Wire net=net6 layer=metal4 rect=134820:24200:135660:24520
+}
+Obj net=net6 gen=via3_320_320 x=137760 y=16800 {
+  Wire net=net6 layer=via3 rect=137600:16640:137920:16960
+  Wire net=net6 layer=metal3 rect=137600:16380:137920:17220
+  Wire net=net6 layer=metal4 rect=137340:16640:138180:16960
+}
+Obj net=net6 gen=via3_320_320 x=137760 y=19320 {
+  Wire net=net6 layer=via3 rect=137600:19160:137920:19480
+  Wire net=net6 layer=metal3 rect=137600:18900:137920:19740
+  Wire net=net6 layer=metal4 rect=137340:19160:138180:19480
+}
+Obj net=net6 gen=via3_320_320 x=137760 y=24360 {
+  Wire net=net6 layer=via3 rect=137600:24200:137920:24520
+  Wire net=net6 layer=metal3 rect=137600:23940:137920:24780
+  Wire net=net6 layer=metal4 rect=137340:24200:138180:24520
+}
+Obj net=net6 gen=via3_320_320 x=140280 y=16800 {
+  Wire net=net6 layer=via3 rect=140120:16640:140440:16960
+  Wire net=net6 layer=metal3 rect=140120:16380:140440:17220
+  Wire net=net6 layer=metal4 rect=139860:16640:140700:16960
+}
+Obj net=net6 gen=via3_320_320 x=140280 y=19320 {
+  Wire net=net6 layer=via3 rect=140120:19160:140440:19480
+  Wire net=net6 layer=metal3 rect=140120:18900:140440:19740
+  Wire net=net6 layer=metal4 rect=139860:19160:140700:19480
+}
+Obj net=net6 gen=via3_320_320 x=140280 y=24360 {
+  Wire net=net6 layer=via3 rect=140120:24200:140440:24520
+  Wire net=net6 layer=metal3 rect=140120:23940:140440:24780
+  Wire net=net6 layer=metal4 rect=139860:24200:140700:24520
+}
+Wire net=net6p layer=metal2 rect=40760:120800:100680:121120 gid=97
+Wire net=net6p layer=metal2 rect=40760:129200:100680:129520 gid=96
+Wire net=net6p layer=metal2 rect=40760:137600:100680:137920 gid=95
+Wire net=net6p layer=metal2 rect=40760:146000:100680:146320 gid=94
+Wire net=net6p layer=metal2 rect=40760:154400:100680:154720 gid=93
+Wire net=net6p layer=metal2 rect=40760:162800:100680:163120 gid=92
+Wire net=net6p layer=metal2 rect=40760:171200:100680:171520 gid=91
+Wire net=net6p layer=metal2 rect=40760:179600:100680:179920 gid=90
+Wire net=net6p layer=metal2 rect=124760:28400:146280:28720 gid=89
+Wire net=net6p layer=metal2 rect=124760:20000:146280:20320 gid=88
+Wire net=net6p layer=metal2 rect=124760:11600:146280:11920 gid=87
+Wire net=net6p layer=metal2 rect=124760:3200:146280:3520 gid=86
+Wire net=net6p layer=metal3 rect=141800:2940:142120:28980
+Wire net=net6p layer=metal3 rect=76280:7980:76600:180180
+Wire net=net6p layer=metal3 rect=77960:7980:78280:180180
+Wire net=net6p layer=metal3 rect=140960:2940:141280:28980
+Wire net=net6p layer=metal3 rect=78800:7980:79120:180180
+Wire net=net6p layer=metal3 rect=142640:2940:142960:28980
+Wire net=net6p layer=metal4 rect=76020:11600:143220:11920
+Wire net=net6p layer=metal4 rect=76020:9080:143220:9400
+Wire net=net6p layer=metal4 rect=76020:10760:143220:11080
+Obj net=net6p gen=via2_320_320 x=76440 y=120960 {
+  Wire net=net6p layer=via2 rect=76280:120800:76600:121120
+  Wire net=net6p layer=metal2 rect=76020:120800:76860:121120
+  Wire net=net6p layer=metal3 rect=76280:120540:76600:121380
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=129360 {
+  Wire net=net6p layer=via2 rect=76280:129200:76600:129520
+  Wire net=net6p layer=metal2 rect=76020:129200:76860:129520
+  Wire net=net6p layer=metal3 rect=76280:128940:76600:129780
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=137760 {
+  Wire net=net6p layer=via2 rect=76280:137600:76600:137920
+  Wire net=net6p layer=metal2 rect=76020:137600:76860:137920
+  Wire net=net6p layer=metal3 rect=76280:137340:76600:138180
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=146160 {
+  Wire net=net6p layer=via2 rect=76280:146000:76600:146320
+  Wire net=net6p layer=metal2 rect=76020:146000:76860:146320
+  Wire net=net6p layer=metal3 rect=76280:145740:76600:146580
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=154560 {
+  Wire net=net6p layer=via2 rect=76280:154400:76600:154720
+  Wire net=net6p layer=metal2 rect=76020:154400:76860:154720
+  Wire net=net6p layer=metal3 rect=76280:154140:76600:154980
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=162960 {
+  Wire net=net6p layer=via2 rect=76280:162800:76600:163120
+  Wire net=net6p layer=metal2 rect=76020:162800:76860:163120
+  Wire net=net6p layer=metal3 rect=76280:162540:76600:163380
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=171360 {
+  Wire net=net6p layer=via2 rect=76280:171200:76600:171520
+  Wire net=net6p layer=metal2 rect=76020:171200:76860:171520
+  Wire net=net6p layer=metal3 rect=76280:170940:76600:171780
+}
+Obj net=net6p gen=via2_320_320 x=76440 y=179760 {
+  Wire net=net6p layer=via2 rect=76280:179600:76600:179920
+  Wire net=net6p layer=metal2 rect=76020:179600:76860:179920
+  Wire net=net6p layer=metal3 rect=76280:179340:76600:180180
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=120960 {
+  Wire net=net6p layer=via2 rect=77960:120800:78280:121120
+  Wire net=net6p layer=metal2 rect=77700:120800:78540:121120
+  Wire net=net6p layer=metal3 rect=77960:120540:78280:121380
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=129360 {
+  Wire net=net6p layer=via2 rect=77960:129200:78280:129520
+  Wire net=net6p layer=metal2 rect=77700:129200:78540:129520
+  Wire net=net6p layer=metal3 rect=77960:128940:78280:129780
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=137760 {
+  Wire net=net6p layer=via2 rect=77960:137600:78280:137920
+  Wire net=net6p layer=metal2 rect=77700:137600:78540:137920
+  Wire net=net6p layer=metal3 rect=77960:137340:78280:138180
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=146160 {
+  Wire net=net6p layer=via2 rect=77960:146000:78280:146320
+  Wire net=net6p layer=metal2 rect=77700:146000:78540:146320
+  Wire net=net6p layer=metal3 rect=77960:145740:78280:146580
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=154560 {
+  Wire net=net6p layer=via2 rect=77960:154400:78280:154720
+  Wire net=net6p layer=metal2 rect=77700:154400:78540:154720
+  Wire net=net6p layer=metal3 rect=77960:154140:78280:154980
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=162960 {
+  Wire net=net6p layer=via2 rect=77960:162800:78280:163120
+  Wire net=net6p layer=metal2 rect=77700:162800:78540:163120
+  Wire net=net6p layer=metal3 rect=77960:162540:78280:163380
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=171360 {
+  Wire net=net6p layer=via2 rect=77960:171200:78280:171520
+  Wire net=net6p layer=metal2 rect=77700:171200:78540:171520
+  Wire net=net6p layer=metal3 rect=77960:170940:78280:171780
+}
+Obj net=net6p gen=via2_320_320 x=78120 y=179760 {
+  Wire net=net6p layer=via2 rect=77960:179600:78280:179920
+  Wire net=net6p layer=metal2 rect=77700:179600:78540:179920
+  Wire net=net6p layer=metal3 rect=77960:179340:78280:180180
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=120960 {
+  Wire net=net6p layer=via2 rect=78800:120800:79120:121120
+  Wire net=net6p layer=metal2 rect=78540:120800:79380:121120
+  Wire net=net6p layer=metal3 rect=78800:120540:79120:121380
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=129360 {
+  Wire net=net6p layer=via2 rect=78800:129200:79120:129520
+  Wire net=net6p layer=metal2 rect=78540:129200:79380:129520
+  Wire net=net6p layer=metal3 rect=78800:128940:79120:129780
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=137760 {
+  Wire net=net6p layer=via2 rect=78800:137600:79120:137920
+  Wire net=net6p layer=metal2 rect=78540:137600:79380:137920
+  Wire net=net6p layer=metal3 rect=78800:137340:79120:138180
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=146160 {
+  Wire net=net6p layer=via2 rect=78800:146000:79120:146320
+  Wire net=net6p layer=metal2 rect=78540:146000:79380:146320
+  Wire net=net6p layer=metal3 rect=78800:145740:79120:146580
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=154560 {
+  Wire net=net6p layer=via2 rect=78800:154400:79120:154720
+  Wire net=net6p layer=metal2 rect=78540:154400:79380:154720
+  Wire net=net6p layer=metal3 rect=78800:154140:79120:154980
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=162960 {
+  Wire net=net6p layer=via2 rect=78800:162800:79120:163120
+  Wire net=net6p layer=metal2 rect=78540:162800:79380:163120
+  Wire net=net6p layer=metal3 rect=78800:162540:79120:163380
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=171360 {
+  Wire net=net6p layer=via2 rect=78800:171200:79120:171520
+  Wire net=net6p layer=metal2 rect=78540:171200:79380:171520
+  Wire net=net6p layer=metal3 rect=78800:170940:79120:171780
+}
+Obj net=net6p gen=via2_320_320 x=78960 y=179760 {
+  Wire net=net6p layer=via2 rect=78800:179600:79120:179920
+  Wire net=net6p layer=metal2 rect=78540:179600:79380:179920
+  Wire net=net6p layer=metal3 rect=78800:179340:79120:180180
+}
+Obj net=net6p gen=via2_320_320 x=141120 y=3360 {
+  Wire net=net6p layer=via2 rect=140960:3200:141280:3520
+  Wire net=net6p layer=metal2 rect=140700:3200:141540:3520
+  Wire net=net6p layer=metal3 rect=140960:2940:141280:3780
+}
+Obj net=net6p gen=via2_320_320 x=141120 y=11760 {
+  Wire net=net6p layer=via2 rect=140960:11600:141280:11920
+  Wire net=net6p layer=metal2 rect=140700:11600:141540:11920
+  Wire net=net6p layer=metal3 rect=140960:11340:141280:12180
+}
+Obj net=net6p gen=via2_320_320 x=141120 y=20160 {
+  Wire net=net6p layer=via2 rect=140960:20000:141280:20320
+  Wire net=net6p layer=metal2 rect=140700:20000:141540:20320
+  Wire net=net6p layer=metal3 rect=140960:19740:141280:20580
+}
+Obj net=net6p gen=via2_320_320 x=141120 y=28560 {
+  Wire net=net6p layer=via2 rect=140960:28400:141280:28720
+  Wire net=net6p layer=metal2 rect=140700:28400:141540:28720
+  Wire net=net6p layer=metal3 rect=140960:28140:141280:28980
+}
+Obj net=net6p gen=via2_320_320 x=141960 y=3360 {
+  Wire net=net6p layer=via2 rect=141800:3200:142120:3520
+  Wire net=net6p layer=metal2 rect=141540:3200:142380:3520
+  Wire net=net6p layer=metal3 rect=141800:2940:142120:3780
+}
+Obj net=net6p gen=via2_320_320 x=141960 y=11760 {
+  Wire net=net6p layer=via2 rect=141800:11600:142120:11920
+  Wire net=net6p layer=metal2 rect=141540:11600:142380:11920
+  Wire net=net6p layer=metal3 rect=141800:11340:142120:12180
+}
+Obj net=net6p gen=via2_320_320 x=141960 y=20160 {
+  Wire net=net6p layer=via2 rect=141800:20000:142120:20320
+  Wire net=net6p layer=metal2 rect=141540:20000:142380:20320
+  Wire net=net6p layer=metal3 rect=141800:19740:142120:20580
+}
+Obj net=net6p gen=via2_320_320 x=141960 y=28560 {
+  Wire net=net6p layer=via2 rect=141800:28400:142120:28720
+  Wire net=net6p layer=metal2 rect=141540:28400:142380:28720
+  Wire net=net6p layer=metal3 rect=141800:28140:142120:28980
+}
+Obj net=net6p gen=via2_320_320 x=142800 y=3360 {
+  Wire net=net6p layer=via2 rect=142640:3200:142960:3520
+  Wire net=net6p layer=metal2 rect=142380:3200:143220:3520
+  Wire net=net6p layer=metal3 rect=142640:2940:142960:3780
+}
+Obj net=net6p gen=via2_320_320 x=142800 y=11760 {
+  Wire net=net6p layer=via2 rect=142640:11600:142960:11920
+  Wire net=net6p layer=metal2 rect=142380:11600:143220:11920
+  Wire net=net6p layer=metal3 rect=142640:11340:142960:12180
+}
+Obj net=net6p gen=via2_320_320 x=142800 y=20160 {
+  Wire net=net6p layer=via2 rect=142640:20000:142960:20320
+  Wire net=net6p layer=metal2 rect=142380:20000:143220:20320
+  Wire net=net6p layer=metal3 rect=142640:19740:142960:20580
+}
+Obj net=net6p gen=via2_320_320 x=142800 y=28560 {
+  Wire net=net6p layer=via2 rect=142640:28400:142960:28720
+  Wire net=net6p layer=metal2 rect=142380:28400:143220:28720
+  Wire net=net6p layer=metal3 rect=142640:28140:142960:28980
+}
+Obj net=net6p gen=via3_320_320 x=76440 y=9240 {
+  Wire net=net6p layer=via3 rect=76280:9080:76600:9400
+  Wire net=net6p layer=metal3 rect=76280:8820:76600:9660
+  Wire net=net6p layer=metal4 rect=76020:9080:76860:9400
+}
+Obj net=net6p gen=via3_320_320 x=76440 y=10920 {
+  Wire net=net6p layer=via3 rect=76280:10760:76600:11080
+  Wire net=net6p layer=metal3 rect=76280:10500:76600:11340
+  Wire net=net6p layer=metal4 rect=76020:10760:76860:11080
+}
+Obj net=net6p gen=via3_320_320 x=76440 y=11760 {
+  Wire net=net6p layer=via3 rect=76280:11600:76600:11920
+  Wire net=net6p layer=metal3 rect=76280:11340:76600:12180
+  Wire net=net6p layer=metal4 rect=76020:11600:76860:11920
+}
+Obj net=net6p gen=via3_320_320 x=78120 y=9240 {
+  Wire net=net6p layer=via3 rect=77960:9080:78280:9400
+  Wire net=net6p layer=metal3 rect=77960:8820:78280:9660
+  Wire net=net6p layer=metal4 rect=77700:9080:78540:9400
+}
+Obj net=net6p gen=via3_320_320 x=78120 y=10920 {
+  Wire net=net6p layer=via3 rect=77960:10760:78280:11080
+  Wire net=net6p layer=metal3 rect=77960:10500:78280:11340
+  Wire net=net6p layer=metal4 rect=77700:10760:78540:11080
+}
+Obj net=net6p gen=via3_320_320 x=78120 y=11760 {
+  Wire net=net6p layer=via3 rect=77960:11600:78280:11920
+  Wire net=net6p layer=metal3 rect=77960:11340:78280:12180
+  Wire net=net6p layer=metal4 rect=77700:11600:78540:11920
+}
+Obj net=net6p gen=via3_320_320 x=78960 y=9240 {
+  Wire net=net6p layer=via3 rect=78800:9080:79120:9400
+  Wire net=net6p layer=metal3 rect=78800:8820:79120:9660
+  Wire net=net6p layer=metal4 rect=78540:9080:79380:9400
+}
+Obj net=net6p gen=via3_320_320 x=78960 y=10920 {
+  Wire net=net6p layer=via3 rect=78800:10760:79120:11080
+  Wire net=net6p layer=metal3 rect=78800:10500:79120:11340
+  Wire net=net6p layer=metal4 rect=78540:10760:79380:11080
+}
+Obj net=net6p gen=via3_320_320 x=78960 y=11760 {
+  Wire net=net6p layer=via3 rect=78800:11600:79120:11920
+  Wire net=net6p layer=metal3 rect=78800:11340:79120:12180
+  Wire net=net6p layer=metal4 rect=78540:11600:79380:11920
+}
+Obj net=net6p gen=via3_320_320 x=141120 y=9240 {
+  Wire net=net6p layer=via3 rect=140960:9080:141280:9400
+  Wire net=net6p layer=metal3 rect=140960:8820:141280:9660
+  Wire net=net6p layer=metal4 rect=140700:9080:141540:9400
+}
+Obj net=net6p gen=via3_320_320 x=141120 y=10920 {
+  Wire net=net6p layer=via3 rect=140960:10760:141280:11080
+  Wire net=net6p layer=metal3 rect=140960:10500:141280:11340
+  Wire net=net6p layer=metal4 rect=140700:10760:141540:11080
+}
+Obj net=net6p gen=via3_320_320 x=141120 y=11760 {
+  Wire net=net6p layer=via3 rect=140960:11600:141280:11920
+  Wire net=net6p layer=metal3 rect=140960:11340:141280:12180
+  Wire net=net6p layer=metal4 rect=140700:11600:141540:11920
+}
+Obj net=net6p gen=via3_320_320 x=141960 y=9240 {
+  Wire net=net6p layer=via3 rect=141800:9080:142120:9400
+  Wire net=net6p layer=metal3 rect=141800:8820:142120:9660
+  Wire net=net6p layer=metal4 rect=141540:9080:142380:9400
+}
+Obj net=net6p gen=via3_320_320 x=141960 y=10920 {
+  Wire net=net6p layer=via3 rect=141800:10760:142120:11080
+  Wire net=net6p layer=metal3 rect=141800:10500:142120:11340
+  Wire net=net6p layer=metal4 rect=141540:10760:142380:11080
+}
+Obj net=net6p gen=via3_320_320 x=141960 y=11760 {
+  Wire net=net6p layer=via3 rect=141800:11600:142120:11920
+  Wire net=net6p layer=metal3 rect=141800:11340:142120:12180
+  Wire net=net6p layer=metal4 rect=141540:11600:142380:11920
+}
+Obj net=net6p gen=via3_320_320 x=142800 y=9240 {
+  Wire net=net6p layer=via3 rect=142640:9080:142960:9400
+  Wire net=net6p layer=metal3 rect=142640:8820:142960:9660
+  Wire net=net6p layer=metal4 rect=142380:9080:143220:9400
+}
+Obj net=net6p gen=via3_320_320 x=142800 y=10920 {
+  Wire net=net6p layer=via3 rect=142640:10760:142960:11080
+  Wire net=net6p layer=metal3 rect=142640:10500:142960:11340
+  Wire net=net6p layer=metal4 rect=142380:10760:143220:11080
+}
+Obj net=net6p gen=via3_320_320 x=142800 y=11760 {
+  Wire net=net6p layer=via3 rect=142640:11600:142960:11920
+  Wire net=net6p layer=metal3 rect=142640:11340:142960:12180
+  Wire net=net6p layer=metal4 rect=142380:11600:143220:11920
+}
+Wire net=s0 layer=metal2 rect=105560:106520:127080:106840 gid=55
+Wire net=s0 layer=metal2 rect=105560:98120:127080:98440 gid=54
+Wire net=s0 layer=metal2 rect=105560:89720:127080:90040 gid=53
+Wire net=s0 layer=metal2 rect=105560:81320:127080:81640 gid=52
+Wire net=s0 layer=metal3 rect=115760:81060:116080:107100
+Wire net=s0 layer=metal3 rect=116600:81060:116920:107100
+Wire net=s0 layer=metal3 rect=109040:81060:109360:107100
+Obj net=s0 gen=via2_320_320 x=109200 y=81480 {
+  Wire net=s0 layer=via2 rect=109040:81320:109360:81640
+  Wire net=s0 layer=metal2 rect=108780:81320:109620:81640
+  Wire net=s0 layer=metal3 rect=109040:81060:109360:81900
+}
+Obj net=s0 gen=via2_320_320 x=109200 y=89880 {
+  Wire net=s0 layer=via2 rect=109040:89720:109360:90040
+  Wire net=s0 layer=metal2 rect=108780:89720:109620:90040
+  Wire net=s0 layer=metal3 rect=109040:89460:109360:90300
+}
+Obj net=s0 gen=via2_320_320 x=109200 y=98280 {
+  Wire net=s0 layer=via2 rect=109040:98120:109360:98440
+  Wire net=s0 layer=metal2 rect=108780:98120:109620:98440
+  Wire net=s0 layer=metal3 rect=109040:97860:109360:98700
+}
+Obj net=s0 gen=via2_320_320 x=109200 y=106680 {
+  Wire net=s0 layer=via2 rect=109040:106520:109360:106840
+  Wire net=s0 layer=metal2 rect=108780:106520:109620:106840
+  Wire net=s0 layer=metal3 rect=109040:106260:109360:107100
+}
+Obj net=s0 gen=via2_320_320 x=115920 y=81480 {
+  Wire net=s0 layer=via2 rect=115760:81320:116080:81640
+  Wire net=s0 layer=metal2 rect=115500:81320:116340:81640
+  Wire net=s0 layer=metal3 rect=115760:81060:116080:81900
+}
+Obj net=s0 gen=via2_320_320 x=115920 y=89880 {
+  Wire net=s0 layer=via2 rect=115760:89720:116080:90040
+  Wire net=s0 layer=metal2 rect=115500:89720:116340:90040
+  Wire net=s0 layer=metal3 rect=115760:89460:116080:90300
+}
+Obj net=s0 gen=via2_320_320 x=115920 y=98280 {
+  Wire net=s0 layer=via2 rect=115760:98120:116080:98440
+  Wire net=s0 layer=metal2 rect=115500:98120:116340:98440
+  Wire net=s0 layer=metal3 rect=115760:97860:116080:98700
+}
+Obj net=s0 gen=via2_320_320 x=115920 y=106680 {
+  Wire net=s0 layer=via2 rect=115760:106520:116080:106840
+  Wire net=s0 layer=metal2 rect=115500:106520:116340:106840
+  Wire net=s0 layer=metal3 rect=115760:106260:116080:107100
+}
+Obj net=s0 gen=via2_320_320 x=116760 y=81480 {
+  Wire net=s0 layer=via2 rect=116600:81320:116920:81640
+  Wire net=s0 layer=metal2 rect=116340:81320:117180:81640
+  Wire net=s0 layer=metal3 rect=116600:81060:116920:81900
+}
+Obj net=s0 gen=via2_320_320 x=116760 y=89880 {
+  Wire net=s0 layer=via2 rect=116600:89720:116920:90040
+  Wire net=s0 layer=metal2 rect=116340:89720:117180:90040
+  Wire net=s0 layer=metal3 rect=116600:89460:116920:90300
+}
+Obj net=s0 gen=via2_320_320 x=116760 y=98280 {
+  Wire net=s0 layer=via2 rect=116600:98120:116920:98440
+  Wire net=s0 layer=metal2 rect=116340:98120:117180:98440
+  Wire net=s0 layer=metal3 rect=116600:97860:116920:98700
+}
+Obj net=s0 gen=via2_320_320 x=116760 y=106680 {
+  Wire net=s0 layer=via2 rect=116600:106520:116920:106840
+  Wire net=s0 layer=metal2 rect=116340:106520:117180:106840
+  Wire net=s0 layer=metal3 rect=116600:106260:116920:107100
+}
+Wire net=s1 layer=metal2 rect=2840:71240:24360:71560 gid=77
+Wire net=s1 layer=metal2 rect=2840:62840:24360:63160 gid=76
+Wire net=s1 layer=metal2 rect=2840:54440:24360:54760 gid=75
+Wire net=s1 layer=metal2 rect=2840:46040:24360:46360 gid=74
+Wire net=s1 layer=metal3 rect=16640:45780:16960:71820
+Wire net=s1 layer=metal3 rect=8240:45780:8560:71820
+Wire net=s1 layer=metal3 rect=15800:45780:16120:71820
+Obj net=s1 gen=via2_320_320 x=8400 y=46200 {
+  Wire net=s1 layer=via2 rect=8240:46040:8560:46360
+  Wire net=s1 layer=metal2 rect=7980:46040:8820:46360
+  Wire net=s1 layer=metal3 rect=8240:45780:8560:46620
+}
+Obj net=s1 gen=via2_320_320 x=8400 y=54600 {
+  Wire net=s1 layer=via2 rect=8240:54440:8560:54760
+  Wire net=s1 layer=metal2 rect=7980:54440:8820:54760
+  Wire net=s1 layer=metal3 rect=8240:54180:8560:55020
+}
+Obj net=s1 gen=via2_320_320 x=8400 y=63000 {
+  Wire net=s1 layer=via2 rect=8240:62840:8560:63160
+  Wire net=s1 layer=metal2 rect=7980:62840:8820:63160
+  Wire net=s1 layer=metal3 rect=8240:62580:8560:63420
+}
+Obj net=s1 gen=via2_320_320 x=8400 y=71400 {
+  Wire net=s1 layer=via2 rect=8240:71240:8560:71560
+  Wire net=s1 layer=metal2 rect=7980:71240:8820:71560
+  Wire net=s1 layer=metal3 rect=8240:70980:8560:71820
+}
+Obj net=s1 gen=via2_320_320 x=15960 y=46200 {
+  Wire net=s1 layer=via2 rect=15800:46040:16120:46360
+  Wire net=s1 layer=metal2 rect=15540:46040:16380:46360
+  Wire net=s1 layer=metal3 rect=15800:45780:16120:46620
+}
+Obj net=s1 gen=via2_320_320 x=15960 y=54600 {
+  Wire net=s1 layer=via2 rect=15800:54440:16120:54760
+  Wire net=s1 layer=metal2 rect=15540:54440:16380:54760
+  Wire net=s1 layer=metal3 rect=15800:54180:16120:55020
+}
+Obj net=s1 gen=via2_320_320 x=15960 y=63000 {
+  Wire net=s1 layer=via2 rect=15800:62840:16120:63160
+  Wire net=s1 layer=metal2 rect=15540:62840:16380:63160
+  Wire net=s1 layer=metal3 rect=15800:62580:16120:63420
+}
+Obj net=s1 gen=via2_320_320 x=15960 y=71400 {
+  Wire net=s1 layer=via2 rect=15800:71240:16120:71560
+  Wire net=s1 layer=metal2 rect=15540:71240:16380:71560
+  Wire net=s1 layer=metal3 rect=15800:70980:16120:71820
+}
+Obj net=s1 gen=via2_320_320 x=16800 y=46200 {
+  Wire net=s1 layer=via2 rect=16640:46040:16960:46360
+  Wire net=s1 layer=metal2 rect=16380:46040:17220:46360
+  Wire net=s1 layer=metal3 rect=16640:45780:16960:46620
+}
+Obj net=s1 gen=via2_320_320 x=16800 y=54600 {
+  Wire net=s1 layer=via2 rect=16640:54440:16960:54760
+  Wire net=s1 layer=metal2 rect=16380:54440:17220:54760
+  Wire net=s1 layer=metal3 rect=16640:54180:16960:55020
+}
+Obj net=s1 gen=via2_320_320 x=16800 y=63000 {
+  Wire net=s1 layer=via2 rect=16640:62840:16960:63160
+  Wire net=s1 layer=metal2 rect=16380:62840:17220:63160
+  Wire net=s1 layer=metal3 rect=16640:62580:16960:63420
+}
+Obj net=s1 gen=via2_320_320 x=16800 y=71400 {
+  Wire net=s1 layer=via2 rect=16640:71240:16960:71560
+  Wire net=s1 layer=metal2 rect=16380:71240:17220:71560
+  Wire net=s1 layer=metal3 rect=16640:70980:16960:71820
+}
+Wire net=s2 layer=metal2 rect=124760:27560:146280:27880 gid=101
+Wire net=s2 layer=metal2 rect=124760:19160:146280:19480 gid=100
+Wire net=s2 layer=metal2 rect=124760:10760:146280:11080 gid=99
+Wire net=s2 layer=metal2 rect=124760:2360:146280:2680 gid=98
+Wire net=s2 layer=metal3 rect=138440:2100:138760:28140
+Wire net=s2 layer=metal3 rect=139280:2100:139600:28140
+Wire net=s2 layer=metal3 rect=136760:2100:137080:28140
+Obj net=s2 gen=via2_320_320 x=136920 y=2520 {
+  Wire net=s2 layer=via2 rect=136760:2360:137080:2680
+  Wire net=s2 layer=metal2 rect=136500:2360:137340:2680
+  Wire net=s2 layer=metal3 rect=136760:2100:137080:2940
+}
+Obj net=s2 gen=via2_320_320 x=136920 y=10920 {
+  Wire net=s2 layer=via2 rect=136760:10760:137080:11080
+  Wire net=s2 layer=metal2 rect=136500:10760:137340:11080
+  Wire net=s2 layer=metal3 rect=136760:10500:137080:11340
+}
+Obj net=s2 gen=via2_320_320 x=136920 y=19320 {
+  Wire net=s2 layer=via2 rect=136760:19160:137080:19480
+  Wire net=s2 layer=metal2 rect=136500:19160:137340:19480
+  Wire net=s2 layer=metal3 rect=136760:18900:137080:19740
+}
+Obj net=s2 gen=via2_320_320 x=136920 y=27720 {
+  Wire net=s2 layer=via2 rect=136760:27560:137080:27880
+  Wire net=s2 layer=metal2 rect=136500:27560:137340:27880
+  Wire net=s2 layer=metal3 rect=136760:27300:137080:28140
+}
+Obj net=s2 gen=via2_320_320 x=138600 y=2520 {
+  Wire net=s2 layer=via2 rect=138440:2360:138760:2680
+  Wire net=s2 layer=metal2 rect=138180:2360:139020:2680
+  Wire net=s2 layer=metal3 rect=138440:2100:138760:2940
+}
+Obj net=s2 gen=via2_320_320 x=138600 y=10920 {
+  Wire net=s2 layer=via2 rect=138440:10760:138760:11080
+  Wire net=s2 layer=metal2 rect=138180:10760:139020:11080
+  Wire net=s2 layer=metal3 rect=138440:10500:138760:11340
+}
+Obj net=s2 gen=via2_320_320 x=138600 y=19320 {
+  Wire net=s2 layer=via2 rect=138440:19160:138760:19480
+  Wire net=s2 layer=metal2 rect=138180:19160:139020:19480
+  Wire net=s2 layer=metal3 rect=138440:18900:138760:19740
+}
+Obj net=s2 gen=via2_320_320 x=138600 y=27720 {
+  Wire net=s2 layer=via2 rect=138440:27560:138760:27880
+  Wire net=s2 layer=metal2 rect=138180:27560:139020:27880
+  Wire net=s2 layer=metal3 rect=138440:27300:138760:28140
+}
+Obj net=s2 gen=via2_320_320 x=139440 y=2520 {
+  Wire net=s2 layer=via2 rect=139280:2360:139600:2680
+  Wire net=s2 layer=metal2 rect=139020:2360:139860:2680
+  Wire net=s2 layer=metal3 rect=139280:2100:139600:2940
+}
+Obj net=s2 gen=via2_320_320 x=139440 y=10920 {
+  Wire net=s2 layer=via2 rect=139280:10760:139600:11080
+  Wire net=s2 layer=metal2 rect=139020:10760:139860:11080
+  Wire net=s2 layer=metal3 rect=139280:10500:139600:11340
+}
+Obj net=s2 gen=via2_320_320 x=139440 y=19320 {
+  Wire net=s2 layer=via2 rect=139280:19160:139600:19480
+  Wire net=s2 layer=metal2 rect=139020:19160:139860:19480
+  Wire net=s2 layer=metal3 rect=139280:18900:139600:19740
+}
+Obj net=s2 gen=via2_320_320 x=139440 y=27720 {
+  Wire net=s2 layer=via2 rect=139280:27560:139600:27880
+  Wire net=s2 layer=metal2 rect=139020:27560:139860:27880
+  Wire net=s2 layer=metal3 rect=139280:27300:139600:28140
+}
+Wire net=vga_out1 layer=metal2 rect=40760:104000:100680:104320 gid=14
+Wire net=vga_out1 layer=metal2 rect=40760:112400:100680:112720 gid=13
+Wire net=vga_out1 layer=metal2 rect=40760:91400:100680:91720 gid=12
+Wire net=vga_out1 layer=metal2 rect=40760:83000:100680:83320 gid=11
+Wire net=vga_out1 layer=metal2 rect=21560:37640:119880:37960 gid=10
+Wire net=vga_out1 layer=metal2 rect=21560:29240:119880:29560 gid=9
+Wire net=vga_out1 layer=metal2 rect=21560:20840:119880:21160 gid=8
+Wire net=vga_out1 layer=metal2 rect=21560:12440:119880:12760 gid=7
+Wire net=vga_out1 layer=metal2 rect=21560:4040:119880:4360 gid=6
+Wire net=vga_out1 layer=metal2 rect=40760:72920:100680:73240 gid=5
+Wire net=vga_out1 layer=metal2 rect=40760:64520:100680:64840 gid=4
+Wire net=vga_out1 layer=metal2 rect=40760:56120:100680:56440 gid=3
+Wire net=vga_out1 layer=metal2 rect=40760:47720:100680:48040 gid=2
+Wire net=vga_out1 layer=metal2 rect=111320:115760:134440:116080 gid=0
+Wire net=vga_out1 layer=metal2 rect=138180:98960:140700:99280 gid=1
+Wire net=vga_out1 layer=metal3 rect=140120:92820:140440:99540
+Wire net=vga_out1 layer=metal3 rect=117440:92820:117760:116340
+Wire net=vga_out1 layer=metal3 rect=121640:92820:121960:116340
+Wire net=vga_out1 layer=metal3 rect=69560:3780:69880:112980
+Wire net=vga_out1 layer=metal3 rect=120800:92820:121120:116340
+Wire net=vga_out1 layer=metal4 rect=69300:93080:140700:93400
+Wire net=vga_out1 layer=metal4 rect=69300:95600:140700:95920
+Wire net=vga_out1 layer=metal4 rect=69300:96440:140700:96760
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=4200 {
+  Wire net=vga_out1 layer=via2 rect=69560:4040:69880:4360
+  Wire net=vga_out1 layer=metal2 rect=69300:4040:70140:4360
+  Wire net=vga_out1 layer=metal3 rect=69560:3780:69880:4620
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=12600 {
+  Wire net=vga_out1 layer=via2 rect=69560:12440:69880:12760
+  Wire net=vga_out1 layer=metal2 rect=69300:12440:70140:12760
+  Wire net=vga_out1 layer=metal3 rect=69560:12180:69880:13020
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=21000 {
+  Wire net=vga_out1 layer=via2 rect=69560:20840:69880:21160
+  Wire net=vga_out1 layer=metal2 rect=69300:20840:70140:21160
+  Wire net=vga_out1 layer=metal3 rect=69560:20580:69880:21420
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=29400 {
+  Wire net=vga_out1 layer=via2 rect=69560:29240:69880:29560
+  Wire net=vga_out1 layer=metal2 rect=69300:29240:70140:29560
+  Wire net=vga_out1 layer=metal3 rect=69560:28980:69880:29820
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=37800 {
+  Wire net=vga_out1 layer=via2 rect=69560:37640:69880:37960
+  Wire net=vga_out1 layer=metal2 rect=69300:37640:70140:37960
+  Wire net=vga_out1 layer=metal3 rect=69560:37380:69880:38220
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=47880 {
+  Wire net=vga_out1 layer=via2 rect=69560:47720:69880:48040
+  Wire net=vga_out1 layer=metal2 rect=69300:47720:70140:48040
+  Wire net=vga_out1 layer=metal3 rect=69560:47460:69880:48300
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=56280 {
+  Wire net=vga_out1 layer=via2 rect=69560:56120:69880:56440
+  Wire net=vga_out1 layer=metal2 rect=69300:56120:70140:56440
+  Wire net=vga_out1 layer=metal3 rect=69560:55860:69880:56700
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=64680 {
+  Wire net=vga_out1 layer=via2 rect=69560:64520:69880:64840
+  Wire net=vga_out1 layer=metal2 rect=69300:64520:70140:64840
+  Wire net=vga_out1 layer=metal3 rect=69560:64260:69880:65100
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=73080 {
+  Wire net=vga_out1 layer=via2 rect=69560:72920:69880:73240
+  Wire net=vga_out1 layer=metal2 rect=69300:72920:70140:73240
+  Wire net=vga_out1 layer=metal3 rect=69560:72660:69880:73500
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=83160 {
+  Wire net=vga_out1 layer=via2 rect=69560:83000:69880:83320
+  Wire net=vga_out1 layer=metal2 rect=69300:83000:70140:83320
+  Wire net=vga_out1 layer=metal3 rect=69560:82740:69880:83580
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=91560 {
+  Wire net=vga_out1 layer=via2 rect=69560:91400:69880:91720
+  Wire net=vga_out1 layer=metal2 rect=69300:91400:70140:91720
+  Wire net=vga_out1 layer=metal3 rect=69560:91140:69880:91980
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=104160 {
+  Wire net=vga_out1 layer=via2 rect=69560:104000:69880:104320
+  Wire net=vga_out1 layer=metal2 rect=69300:104000:70140:104320
+  Wire net=vga_out1 layer=metal3 rect=69560:103740:69880:104580
+}
+Obj net=vga_out1 gen=via2_320_320 x=69720 y=112560 {
+  Wire net=vga_out1 layer=via2 rect=69560:112400:69880:112720
+  Wire net=vga_out1 layer=metal2 rect=69300:112400:70140:112720
+  Wire net=vga_out1 layer=metal3 rect=69560:112140:69880:112980
+}
+Obj net=vga_out1 gen=via2_320_320 x=117600 y=115920 {
+  Wire net=vga_out1 layer=via2 rect=117440:115760:117760:116080
+  Wire net=vga_out1 layer=metal2 rect=117180:115760:118020:116080
+  Wire net=vga_out1 layer=metal3 rect=117440:115500:117760:116340
+}
+Obj net=vga_out1 gen=via2_320_320 x=120960 y=115920 {
+  Wire net=vga_out1 layer=via2 rect=120800:115760:121120:116080
+  Wire net=vga_out1 layer=metal2 rect=120540:115760:121380:116080
+  Wire net=vga_out1 layer=metal3 rect=120800:115500:121120:116340
+}
+Obj net=vga_out1 gen=via2_320_320 x=121800 y=115920 {
+  Wire net=vga_out1 layer=via2 rect=121640:115760:121960:116080
+  Wire net=vga_out1 layer=metal2 rect=121380:115760:122220:116080
+  Wire net=vga_out1 layer=metal3 rect=121640:115500:121960:116340
+}
+Obj net=vga_out1 gen=via2_320_320 x=140280 y=99120 {
+  Wire net=vga_out1 layer=via2 rect=140120:98960:140440:99280
+  Wire net=vga_out1 layer=metal2 rect=139860:98960:140700:99280
+  Wire net=vga_out1 layer=metal3 rect=140120:98700:140440:99540
+}
+Obj net=vga_out1 gen=via3_320_320 x=69720 y=93240 {
+  Wire net=vga_out1 layer=via3 rect=69560:93080:69880:93400
+  Wire net=vga_out1 layer=metal3 rect=69560:92820:69880:93660
+  Wire net=vga_out1 layer=metal4 rect=69300:93080:70140:93400
+}
+Obj net=vga_out1 gen=via3_320_320 x=69720 y=95760 {
+  Wire net=vga_out1 layer=via3 rect=69560:95600:69880:95920
+  Wire net=vga_out1 layer=metal3 rect=69560:95340:69880:96180
+  Wire net=vga_out1 layer=metal4 rect=69300:95600:70140:95920
+}
+Obj net=vga_out1 gen=via3_320_320 x=69720 y=96600 {
+  Wire net=vga_out1 layer=via3 rect=69560:96440:69880:96760
+  Wire net=vga_out1 layer=metal3 rect=69560:96180:69880:97020
+  Wire net=vga_out1 layer=metal4 rect=69300:96440:70140:96760
+}
+Obj net=vga_out1 gen=via3_320_320 x=117600 y=93240 {
+  Wire net=vga_out1 layer=via3 rect=117440:93080:117760:93400
+  Wire net=vga_out1 layer=metal3 rect=117440:92820:117760:93660
+  Wire net=vga_out1 layer=metal4 rect=117180:93080:118020:93400
+}
+Obj net=vga_out1 gen=via3_320_320 x=117600 y=95760 {
+  Wire net=vga_out1 layer=via3 rect=117440:95600:117760:95920
+  Wire net=vga_out1 layer=metal3 rect=117440:95340:117760:96180
+  Wire net=vga_out1 layer=metal4 rect=117180:95600:118020:95920
+}
+Obj net=vga_out1 gen=via3_320_320 x=117600 y=96600 {
+  Wire net=vga_out1 layer=via3 rect=117440:96440:117760:96760
+  Wire net=vga_out1 layer=metal3 rect=117440:96180:117760:97020
+  Wire net=vga_out1 layer=metal4 rect=117180:96440:118020:96760
+}
+Obj net=vga_out1 gen=via3_320_320 x=120960 y=93240 {
+  Wire net=vga_out1 layer=via3 rect=120800:93080:121120:93400
+  Wire net=vga_out1 layer=metal3 rect=120800:92820:121120:93660
+  Wire net=vga_out1 layer=metal4 rect=120540:93080:121380:93400
+}
+Obj net=vga_out1 gen=via3_320_320 x=120960 y=95760 {
+  Wire net=vga_out1 layer=via3 rect=120800:95600:121120:95920
+  Wire net=vga_out1 layer=metal3 rect=120800:95340:121120:96180
+  Wire net=vga_out1 layer=metal4 rect=120540:95600:121380:95920
+}
+Obj net=vga_out1 gen=via3_320_320 x=120960 y=96600 {
+  Wire net=vga_out1 layer=via3 rect=120800:96440:121120:96760
+  Wire net=vga_out1 layer=metal3 rect=120800:96180:121120:97020
+  Wire net=vga_out1 layer=metal4 rect=120540:96440:121380:96760
+}
+Obj net=vga_out1 gen=via3_320_320 x=121800 y=93240 {
+  Wire net=vga_out1 layer=via3 rect=121640:93080:121960:93400
+  Wire net=vga_out1 layer=metal3 rect=121640:92820:121960:93660
+  Wire net=vga_out1 layer=metal4 rect=121380:93080:122220:93400
+}
+Obj net=vga_out1 gen=via3_320_320 x=121800 y=95760 {
+  Wire net=vga_out1 layer=via3 rect=121640:95600:121960:95920
+  Wire net=vga_out1 layer=metal3 rect=121640:95340:121960:96180
+  Wire net=vga_out1 layer=metal4 rect=121380:95600:122220:95920
+}
+Obj net=vga_out1 gen=via3_320_320 x=121800 y=96600 {
+  Wire net=vga_out1 layer=via3 rect=121640:96440:121960:96760
+  Wire net=vga_out1 layer=metal3 rect=121640:96180:121960:97020
+  Wire net=vga_out1 layer=metal4 rect=121380:96440:122220:96760
+}
+Obj net=vga_out1 gen=via3_320_320 x=140280 y=93240 {
+  Wire net=vga_out1 layer=via3 rect=140120:93080:140440:93400
+  Wire net=vga_out1 layer=metal3 rect=140120:92820:140440:93660
+  Wire net=vga_out1 layer=metal4 rect=139860:93080:140700:93400
+}
+Obj net=vga_out1 gen=via3_320_320 x=140280 y=95760 {
+  Wire net=vga_out1 layer=via3 rect=140120:95600:140440:95920
+  Wire net=vga_out1 layer=metal3 rect=140120:95340:140440:96180
+  Wire net=vga_out1 layer=metal4 rect=139860:95600:140700:95920
+}
+Obj net=vga_out1 gen=via3_320_320 x=140280 y=96600 {
+  Wire net=vga_out1 layer=via3 rect=140120:96440:140440:96760
+  Wire net=vga_out1 layer=metal3 rect=140120:96180:140440:97020
+  Wire net=vga_out1 layer=metal4 rect=139860:96440:140700:96760
+}
+Wire net=vga_out2 layer=metal2 rect=40760:102320:100680:102640 gid=39
+Wire net=vga_out2 layer=metal2 rect=40760:110720:100680:111040 gid=38
+Wire net=vga_out2 layer=metal2 rect=40760:93080:100680:93400 gid=37
+Wire net=vga_out2 layer=metal2 rect=40760:84680:100680:85000 gid=36
+Wire net=vga_out2 layer=metal2 rect=21560:39320:119880:39640 gid=35
+Wire net=vga_out2 layer=metal2 rect=21560:30920:119880:31240 gid=34
+Wire net=vga_out2 layer=metal2 rect=21560:22520:119880:22840 gid=33
+Wire net=vga_out2 layer=metal2 rect=21560:14120:119880:14440 gid=32
+Wire net=vga_out2 layer=metal2 rect=21560:5720:119880:6040 gid=31
+Wire net=vga_out2 layer=metal2 rect=40760:74600:100680:74920 gid=30
+Wire net=vga_out2 layer=metal2 rect=40760:66200:100680:66520 gid=29
+Wire net=vga_out2 layer=metal2 rect=40760:57800:100680:58120 gid=28
+Wire net=vga_out2 layer=metal2 rect=40760:49400:100680:49720 gid=27
+Wire net=vga_out2 layer=metal2 rect=7000:115760:30120:116080 gid=25
+Wire net=vga_out2 layer=metal2 rect=-1260:98960:1260:99280 gid=26
+Wire net=vga_out2 layer=metal3 rect=680:93660:1000:100380
+Wire net=vga_out2 layer=metal3 rect=75440:5460:75760:111300
+Wire net=vga_out2 layer=metal3 rect=23360:93660:23680:116340
+Wire net=vga_out2 layer=metal3 rect=24200:93660:24520:116340
+Wire net=vga_out2 layer=metal3 rect=25040:93660:25360:116340
+Wire net=vga_out2 layer=metal4 rect=420:93920:76020:94240
+Wire net=vga_out2 layer=metal4 rect=420:97280:76020:97600
+Wire net=vga_out2 layer=metal4 rect=420:98960:76020:99280
+Obj net=vga_out2 gen=via2_320_320 x=840 y=99120 {
+  Wire net=vga_out2 layer=via2 rect=680:98960:1000:99280
+  Wire net=vga_out2 layer=metal2 rect=420:98960:1260:99280
+  Wire net=vga_out2 layer=metal3 rect=680:98700:1000:99540
+}
+Obj net=vga_out2 gen=via2_320_320 x=23520 y=115920 {
+  Wire net=vga_out2 layer=via2 rect=23360:115760:23680:116080
+  Wire net=vga_out2 layer=metal2 rect=23100:115760:23940:116080
+  Wire net=vga_out2 layer=metal3 rect=23360:115500:23680:116340
+}
+Obj net=vga_out2 gen=via2_320_320 x=24360 y=115920 {
+  Wire net=vga_out2 layer=via2 rect=24200:115760:24520:116080
+  Wire net=vga_out2 layer=metal2 rect=23940:115760:24780:116080
+  Wire net=vga_out2 layer=metal3 rect=24200:115500:24520:116340
+}
+Obj net=vga_out2 gen=via2_320_320 x=25200 y=115920 {
+  Wire net=vga_out2 layer=via2 rect=25040:115760:25360:116080
+  Wire net=vga_out2 layer=metal2 rect=24780:115760:25620:116080
+  Wire net=vga_out2 layer=metal3 rect=25040:115500:25360:116340
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=5880 {
+  Wire net=vga_out2 layer=via2 rect=75440:5720:75760:6040
+  Wire net=vga_out2 layer=metal2 rect=75180:5720:76020:6040
+  Wire net=vga_out2 layer=metal3 rect=75440:5460:75760:6300
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=14280 {
+  Wire net=vga_out2 layer=via2 rect=75440:14120:75760:14440
+  Wire net=vga_out2 layer=metal2 rect=75180:14120:76020:14440
+  Wire net=vga_out2 layer=metal3 rect=75440:13860:75760:14700
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=22680 {
+  Wire net=vga_out2 layer=via2 rect=75440:22520:75760:22840
+  Wire net=vga_out2 layer=metal2 rect=75180:22520:76020:22840
+  Wire net=vga_out2 layer=metal3 rect=75440:22260:75760:23100
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=31080 {
+  Wire net=vga_out2 layer=via2 rect=75440:30920:75760:31240
+  Wire net=vga_out2 layer=metal2 rect=75180:30920:76020:31240
+  Wire net=vga_out2 layer=metal3 rect=75440:30660:75760:31500
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=39480 {
+  Wire net=vga_out2 layer=via2 rect=75440:39320:75760:39640
+  Wire net=vga_out2 layer=metal2 rect=75180:39320:76020:39640
+  Wire net=vga_out2 layer=metal3 rect=75440:39060:75760:39900
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=49560 {
+  Wire net=vga_out2 layer=via2 rect=75440:49400:75760:49720
+  Wire net=vga_out2 layer=metal2 rect=75180:49400:76020:49720
+  Wire net=vga_out2 layer=metal3 rect=75440:49140:75760:49980
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=57960 {
+  Wire net=vga_out2 layer=via2 rect=75440:57800:75760:58120
+  Wire net=vga_out2 layer=metal2 rect=75180:57800:76020:58120
+  Wire net=vga_out2 layer=metal3 rect=75440:57540:75760:58380
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=66360 {
+  Wire net=vga_out2 layer=via2 rect=75440:66200:75760:66520
+  Wire net=vga_out2 layer=metal2 rect=75180:66200:76020:66520
+  Wire net=vga_out2 layer=metal3 rect=75440:65940:75760:66780
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=74760 {
+  Wire net=vga_out2 layer=via2 rect=75440:74600:75760:74920
+  Wire net=vga_out2 layer=metal2 rect=75180:74600:76020:74920
+  Wire net=vga_out2 layer=metal3 rect=75440:74340:75760:75180
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=84840 {
+  Wire net=vga_out2 layer=via2 rect=75440:84680:75760:85000
+  Wire net=vga_out2 layer=metal2 rect=75180:84680:76020:85000
+  Wire net=vga_out2 layer=metal3 rect=75440:84420:75760:85260
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=93240 {
+  Wire net=vga_out2 layer=via2 rect=75440:93080:75760:93400
+  Wire net=vga_out2 layer=metal2 rect=75180:93080:76020:93400
+  Wire net=vga_out2 layer=metal3 rect=75440:92820:75760:93660
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=102480 {
+  Wire net=vga_out2 layer=via2 rect=75440:102320:75760:102640
+  Wire net=vga_out2 layer=metal2 rect=75180:102320:76020:102640
+  Wire net=vga_out2 layer=metal3 rect=75440:102060:75760:102900
+}
+Obj net=vga_out2 gen=via2_320_320 x=75600 y=110880 {
+  Wire net=vga_out2 layer=via2 rect=75440:110720:75760:111040
+  Wire net=vga_out2 layer=metal2 rect=75180:110720:76020:111040
+  Wire net=vga_out2 layer=metal3 rect=75440:110460:75760:111300
+}
+Obj net=vga_out2 gen=via3_320_320 x=840 y=94080 {
+  Wire net=vga_out2 layer=via3 rect=680:93920:1000:94240
+  Wire net=vga_out2 layer=metal3 rect=680:93660:1000:94500
+  Wire net=vga_out2 layer=metal4 rect=420:93920:1260:94240
+}
+Obj net=vga_out2 gen=via3_320_320 x=840 y=97440 {
+  Wire net=vga_out2 layer=via3 rect=680:97280:1000:97600
+  Wire net=vga_out2 layer=metal3 rect=680:97020:1000:97860
+  Wire net=vga_out2 layer=metal4 rect=420:97280:1260:97600
+}
+Obj net=vga_out2 gen=via3_320_320 x=840 y=99120 {
+  Wire net=vga_out2 layer=via3 rect=680:98960:1000:99280
+  Wire net=vga_out2 layer=metal3 rect=680:98700:1000:99540
+  Wire net=vga_out2 layer=metal4 rect=420:98960:1260:99280
+}
+Obj net=vga_out2 gen=via3_320_320 x=23520 y=94080 {
+  Wire net=vga_out2 layer=via3 rect=23360:93920:23680:94240
+  Wire net=vga_out2 layer=metal3 rect=23360:93660:23680:94500
+  Wire net=vga_out2 layer=metal4 rect=23100:93920:23940:94240
+}
+Obj net=vga_out2 gen=via3_320_320 x=23520 y=97440 {
+  Wire net=vga_out2 layer=via3 rect=23360:97280:23680:97600
+  Wire net=vga_out2 layer=metal3 rect=23360:97020:23680:97860
+  Wire net=vga_out2 layer=metal4 rect=23100:97280:23940:97600
+}
+Obj net=vga_out2 gen=via3_320_320 x=23520 y=99120 {
+  Wire net=vga_out2 layer=via3 rect=23360:98960:23680:99280
+  Wire net=vga_out2 layer=metal3 rect=23360:98700:23680:99540
+  Wire net=vga_out2 layer=metal4 rect=23100:98960:23940:99280
+}
+Obj net=vga_out2 gen=via3_320_320 x=24360 y=94080 {
+  Wire net=vga_out2 layer=via3 rect=24200:93920:24520:94240
+  Wire net=vga_out2 layer=metal3 rect=24200:93660:24520:94500
+  Wire net=vga_out2 layer=metal4 rect=23940:93920:24780:94240
+}
+Obj net=vga_out2 gen=via3_320_320 x=24360 y=97440 {
+  Wire net=vga_out2 layer=via3 rect=24200:97280:24520:97600
+  Wire net=vga_out2 layer=metal3 rect=24200:97020:24520:97860
+  Wire net=vga_out2 layer=metal4 rect=23940:97280:24780:97600
+}
+Obj net=vga_out2 gen=via3_320_320 x=24360 y=99120 {
+  Wire net=vga_out2 layer=via3 rect=24200:98960:24520:99280
+  Wire net=vga_out2 layer=metal3 rect=24200:98700:24520:99540
+  Wire net=vga_out2 layer=metal4 rect=23940:98960:24780:99280
+}
+Obj net=vga_out2 gen=via3_320_320 x=25200 y=94080 {
+  Wire net=vga_out2 layer=via3 rect=25040:93920:25360:94240
+  Wire net=vga_out2 layer=metal3 rect=25040:93660:25360:94500
+  Wire net=vga_out2 layer=metal4 rect=24780:93920:25620:94240
+}
+Obj net=vga_out2 gen=via3_320_320 x=25200 y=97440 {
+  Wire net=vga_out2 layer=via3 rect=25040:97280:25360:97600
+  Wire net=vga_out2 layer=metal3 rect=25040:97020:25360:97860
+  Wire net=vga_out2 layer=metal4 rect=24780:97280:25620:97600
+}
+Obj net=vga_out2 gen=via3_320_320 x=25200 y=99120 {
+  Wire net=vga_out2 layer=via3 rect=25040:98960:25360:99280
+  Wire net=vga_out2 layer=metal3 rect=25040:98700:25360:99540
+  Wire net=vga_out2 layer=metal4 rect=24780:98960:25620:99280
+}
+Obj net=vga_out2 gen=via3_320_320 x=75600 y=94080 {
+  Wire net=vga_out2 layer=via3 rect=75440:93920:75760:94240
+  Wire net=vga_out2 layer=metal3 rect=75440:93660:75760:94500
+  Wire net=vga_out2 layer=metal4 rect=75180:93920:76020:94240
+}
+Obj net=vga_out2 gen=via3_320_320 x=75600 y=97440 {
+  Wire net=vga_out2 layer=via3 rect=75440:97280:75760:97600
+  Wire net=vga_out2 layer=metal3 rect=75440:97020:75760:97860
+  Wire net=vga_out2 layer=metal4 rect=75180:97280:76020:97600
+}
+Obj net=vga_out2 gen=via3_320_320 x=75600 y=99120 {
+  Wire net=vga_out2 layer=via3 rect=75440:98960:75760:99280
+  Wire net=vga_out2 layer=metal3 rect=75440:98700:75760:99540
+  Wire net=vga_out2 layer=metal4 rect=75180:98960:76020:99280
+}
+Wire net=vgnd layer=metal2 rect=40760:123320:100680:123640 gid=24
+Wire net=vgnd layer=metal2 rect=40760:131720:100680:132040 gid=23
+Wire net=vgnd layer=metal2 rect=40760:140120:100680:140440 gid=22
+Wire net=vgnd layer=metal2 rect=40760:148520:100680:148840 gid=21
+Wire net=vgnd layer=metal2 rect=40760:156920:100680:157240 gid=20
+Wire net=vgnd layer=metal2 rect=40760:165320:100680:165640 gid=19
+Wire net=vgnd layer=metal2 rect=40760:173720:100680:174040 gid=18
+Wire net=vgnd layer=metal2 rect=40760:182120:100680:182440 gid=17
+Wire net=vgnd layer=metal2 rect=7000:138440:30120:138760 gid=16
+Wire net=vgnd layer=metal2 rect=111320:138440:134440:138760 gid=15
+Wire net=vgnd layer=metal3 rect=25880:136500:26200:141540
+Wire net=vgnd layer=metal3 rect=69560:123060:69880:182700
+Wire net=vgnd layer=metal3 rect=122480:136500:122800:141540
+Wire net=vgnd layer=metal4 rect=25620:140120:123060:140440
+Wire net=vgnd layer=metal4 rect=25620:136760:123060:137080
+Wire net=vgnd layer=metal4 rect=25620:140960:123060:141280
+Obj net=vgnd gen=via2_320_320 x=26040 y=138600 {
+  Wire net=vgnd layer=via2 rect=25880:138440:26200:138760
+  Wire net=vgnd layer=metal2 rect=25620:138440:26460:138760
+  Wire net=vgnd layer=metal3 rect=25880:138180:26200:139020
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=123480 {
+  Wire net=vgnd layer=via2 rect=69560:123320:69880:123640
+  Wire net=vgnd layer=metal2 rect=69300:123320:70140:123640
+  Wire net=vgnd layer=metal3 rect=69560:123060:69880:123900
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=131880 {
+  Wire net=vgnd layer=via2 rect=69560:131720:69880:132040
+  Wire net=vgnd layer=metal2 rect=69300:131720:70140:132040
+  Wire net=vgnd layer=metal3 rect=69560:131460:69880:132300
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=140280 {
+  Wire net=vgnd layer=via2 rect=69560:140120:69880:140440
+  Wire net=vgnd layer=metal2 rect=69300:140120:70140:140440
+  Wire net=vgnd layer=metal3 rect=69560:139860:69880:140700
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=148680 {
+  Wire net=vgnd layer=via2 rect=69560:148520:69880:148840
+  Wire net=vgnd layer=metal2 rect=69300:148520:70140:148840
+  Wire net=vgnd layer=metal3 rect=69560:148260:69880:149100
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=157080 {
+  Wire net=vgnd layer=via2 rect=69560:156920:69880:157240
+  Wire net=vgnd layer=metal2 rect=69300:156920:70140:157240
+  Wire net=vgnd layer=metal3 rect=69560:156660:69880:157500
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=165480 {
+  Wire net=vgnd layer=via2 rect=69560:165320:69880:165640
+  Wire net=vgnd layer=metal2 rect=69300:165320:70140:165640
+  Wire net=vgnd layer=metal3 rect=69560:165060:69880:165900
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=173880 {
+  Wire net=vgnd layer=via2 rect=69560:173720:69880:174040
+  Wire net=vgnd layer=metal2 rect=69300:173720:70140:174040
+  Wire net=vgnd layer=metal3 rect=69560:173460:69880:174300
+}
+Obj net=vgnd gen=via2_320_320 x=69720 y=182280 {
+  Wire net=vgnd layer=via2 rect=69560:182120:69880:182440
+  Wire net=vgnd layer=metal2 rect=69300:182120:70140:182440
+  Wire net=vgnd layer=metal3 rect=69560:181860:69880:182700
+}
+Obj net=vgnd gen=via2_320_320 x=122640 y=138600 {
+  Wire net=vgnd layer=via2 rect=122480:138440:122800:138760
+  Wire net=vgnd layer=metal2 rect=122220:138440:123060:138760
+  Wire net=vgnd layer=metal3 rect=122480:138180:122800:139020
+}
+Obj net=vgnd gen=via3_320_320 x=26040 y=136920 {
+  Wire net=vgnd layer=via3 rect=25880:136760:26200:137080
+  Wire net=vgnd layer=metal3 rect=25880:136500:26200:137340
+  Wire net=vgnd layer=metal4 rect=25620:136760:26460:137080
+}
+Obj net=vgnd gen=via3_320_320 x=26040 y=140280 {
+  Wire net=vgnd layer=via3 rect=25880:140120:26200:140440
+  Wire net=vgnd layer=metal3 rect=25880:139860:26200:140700
+  Wire net=vgnd layer=metal4 rect=25620:140120:26460:140440
+}
+Obj net=vgnd gen=via3_320_320 x=26040 y=141120 {
+  Wire net=vgnd layer=via3 rect=25880:140960:26200:141280
+  Wire net=vgnd layer=metal3 rect=25880:140700:26200:141540
+  Wire net=vgnd layer=metal4 rect=25620:140960:26460:141280
+}
+Obj net=vgnd gen=via3_320_320 x=69720 y=136920 {
+  Wire net=vgnd layer=via3 rect=69560:136760:69880:137080
+  Wire net=vgnd layer=metal3 rect=69560:136500:69880:137340
+  Wire net=vgnd layer=metal4 rect=69300:136760:70140:137080
+}
+Obj net=vgnd gen=via3_320_320 x=69720 y=140280 {
+  Wire net=vgnd layer=via3 rect=69560:140120:69880:140440
+  Wire net=vgnd layer=metal3 rect=69560:139860:69880:140700
+  Wire net=vgnd layer=metal4 rect=69300:140120:70140:140440
+}
+Obj net=vgnd gen=via3_320_320 x=69720 y=141120 {
+  Wire net=vgnd layer=via3 rect=69560:140960:69880:141280
+  Wire net=vgnd layer=metal3 rect=69560:140700:69880:141540
+  Wire net=vgnd layer=metal4 rect=69300:140960:70140:141280
+}
+Obj net=vgnd gen=via3_320_320 x=122640 y=136920 {
+  Wire net=vgnd layer=via3 rect=122480:136760:122800:137080
+  Wire net=vgnd layer=metal3 rect=122480:136500:122800:137340
+  Wire net=vgnd layer=metal4 rect=122220:136760:123060:137080
+}
+Obj net=vgnd gen=via3_320_320 x=122640 y=140280 {
+  Wire net=vgnd layer=via3 rect=122480:140120:122800:140440
+  Wire net=vgnd layer=metal3 rect=122480:139860:122800:140700
+  Wire net=vgnd layer=metal4 rect=122220:140120:123060:140440
+}
+Obj net=vgnd gen=via3_320_320 x=122640 y=141120 {
+  Wire net=vgnd layer=via3 rect=122480:140960:122800:141280
+  Wire net=vgnd layer=metal3 rect=122480:140700:122800:141540
+  Wire net=vgnd layer=metal4 rect=122220:140960:123060:141280
+}
+Wire net=vin1 layer=metal2 rect=40760:105680:100680:106000 gid=143
+Wire net=vin1 layer=metal2 rect=40760:114080:100680:114400 gid=142
+Wire net=vin1 layer=metal2 rect=40760:89720:100680:90040 gid=141
+Wire net=vin1 layer=metal2 rect=40760:81320:100680:81640 gid=140
+Wire net=vin1 layer=metal2 rect=21560:35960:119880:36280 gid=139
+Wire net=vin1 layer=metal2 rect=21560:27560:119880:27880 gid=138
+Wire net=vin1 layer=metal2 rect=21560:19160:119880:19480 gid=137
+Wire net=vin1 layer=metal2 rect=21560:10760:119880:11080 gid=136
+Wire net=vin1 layer=metal2 rect=21560:2360:119880:2680 gid=135
+Wire net=vin1 layer=metal2 rect=40760:71240:100680:71560 gid=134
+Wire net=vin1 layer=metal2 rect=40760:62840:100680:63160 gid=133
+Wire net=vin1 layer=metal2 rect=40760:54440:100680:54760 gid=132
+Wire net=vin1 layer=metal2 rect=40760:46040:100680:46360 gid=131
+Wire net=vin1 layer=metal3 rect=51920:2100:52240:114660
+Wire net=vin1 layer=metal3 rect=88040:2100:88360:114660
+Wire net=vin1 layer=metal3 rect=56960:2100:57280:114660
+Wire net=vin1 layer=metal3 rect=53600:2100:53920:114660
+Wire net=vin1 layer=metal3 rect=91400:2100:91720:114660
+Wire net=vin1 layer=metal3 rect=84680:2100:85000:114660
+Obj net=vin1 gen=via2_320_320 x=52080 y=2520 {
+  Wire net=vin1 layer=via2 rect=51920:2360:52240:2680
+  Wire net=vin1 layer=metal2 rect=51660:2360:52500:2680
+  Wire net=vin1 layer=metal3 rect=51920:2100:52240:2940
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=10920 {
+  Wire net=vin1 layer=via2 rect=51920:10760:52240:11080
+  Wire net=vin1 layer=metal2 rect=51660:10760:52500:11080
+  Wire net=vin1 layer=metal3 rect=51920:10500:52240:11340
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=19320 {
+  Wire net=vin1 layer=via2 rect=51920:19160:52240:19480
+  Wire net=vin1 layer=metal2 rect=51660:19160:52500:19480
+  Wire net=vin1 layer=metal3 rect=51920:18900:52240:19740
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=27720 {
+  Wire net=vin1 layer=via2 rect=51920:27560:52240:27880
+  Wire net=vin1 layer=metal2 rect=51660:27560:52500:27880
+  Wire net=vin1 layer=metal3 rect=51920:27300:52240:28140
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=36120 {
+  Wire net=vin1 layer=via2 rect=51920:35960:52240:36280
+  Wire net=vin1 layer=metal2 rect=51660:35960:52500:36280
+  Wire net=vin1 layer=metal3 rect=51920:35700:52240:36540
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=46200 {
+  Wire net=vin1 layer=via2 rect=51920:46040:52240:46360
+  Wire net=vin1 layer=metal2 rect=51660:46040:52500:46360
+  Wire net=vin1 layer=metal3 rect=51920:45780:52240:46620
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=54600 {
+  Wire net=vin1 layer=via2 rect=51920:54440:52240:54760
+  Wire net=vin1 layer=metal2 rect=51660:54440:52500:54760
+  Wire net=vin1 layer=metal3 rect=51920:54180:52240:55020
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=63000 {
+  Wire net=vin1 layer=via2 rect=51920:62840:52240:63160
+  Wire net=vin1 layer=metal2 rect=51660:62840:52500:63160
+  Wire net=vin1 layer=metal3 rect=51920:62580:52240:63420
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=71400 {
+  Wire net=vin1 layer=via2 rect=51920:71240:52240:71560
+  Wire net=vin1 layer=metal2 rect=51660:71240:52500:71560
+  Wire net=vin1 layer=metal3 rect=51920:70980:52240:71820
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=81480 {
+  Wire net=vin1 layer=via2 rect=51920:81320:52240:81640
+  Wire net=vin1 layer=metal2 rect=51660:81320:52500:81640
+  Wire net=vin1 layer=metal3 rect=51920:81060:52240:81900
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=89880 {
+  Wire net=vin1 layer=via2 rect=51920:89720:52240:90040
+  Wire net=vin1 layer=metal2 rect=51660:89720:52500:90040
+  Wire net=vin1 layer=metal3 rect=51920:89460:52240:90300
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=105840 {
+  Wire net=vin1 layer=via2 rect=51920:105680:52240:106000
+  Wire net=vin1 layer=metal2 rect=51660:105680:52500:106000
+  Wire net=vin1 layer=metal3 rect=51920:105420:52240:106260
+}
+Obj net=vin1 gen=via2_320_320 x=52080 y=114240 {
+  Wire net=vin1 layer=via2 rect=51920:114080:52240:114400
+  Wire net=vin1 layer=metal2 rect=51660:114080:52500:114400
+  Wire net=vin1 layer=metal3 rect=51920:113820:52240:114660
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=2520 {
+  Wire net=vin1 layer=via2 rect=53600:2360:53920:2680
+  Wire net=vin1 layer=metal2 rect=53340:2360:54180:2680
+  Wire net=vin1 layer=metal3 rect=53600:2100:53920:2940
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=10920 {
+  Wire net=vin1 layer=via2 rect=53600:10760:53920:11080
+  Wire net=vin1 layer=metal2 rect=53340:10760:54180:11080
+  Wire net=vin1 layer=metal3 rect=53600:10500:53920:11340
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=19320 {
+  Wire net=vin1 layer=via2 rect=53600:19160:53920:19480
+  Wire net=vin1 layer=metal2 rect=53340:19160:54180:19480
+  Wire net=vin1 layer=metal3 rect=53600:18900:53920:19740
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=27720 {
+  Wire net=vin1 layer=via2 rect=53600:27560:53920:27880
+  Wire net=vin1 layer=metal2 rect=53340:27560:54180:27880
+  Wire net=vin1 layer=metal3 rect=53600:27300:53920:28140
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=36120 {
+  Wire net=vin1 layer=via2 rect=53600:35960:53920:36280
+  Wire net=vin1 layer=metal2 rect=53340:35960:54180:36280
+  Wire net=vin1 layer=metal3 rect=53600:35700:53920:36540
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=46200 {
+  Wire net=vin1 layer=via2 rect=53600:46040:53920:46360
+  Wire net=vin1 layer=metal2 rect=53340:46040:54180:46360
+  Wire net=vin1 layer=metal3 rect=53600:45780:53920:46620
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=54600 {
+  Wire net=vin1 layer=via2 rect=53600:54440:53920:54760
+  Wire net=vin1 layer=metal2 rect=53340:54440:54180:54760
+  Wire net=vin1 layer=metal3 rect=53600:54180:53920:55020
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=63000 {
+  Wire net=vin1 layer=via2 rect=53600:62840:53920:63160
+  Wire net=vin1 layer=metal2 rect=53340:62840:54180:63160
+  Wire net=vin1 layer=metal3 rect=53600:62580:53920:63420
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=71400 {
+  Wire net=vin1 layer=via2 rect=53600:71240:53920:71560
+  Wire net=vin1 layer=metal2 rect=53340:71240:54180:71560
+  Wire net=vin1 layer=metal3 rect=53600:70980:53920:71820
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=81480 {
+  Wire net=vin1 layer=via2 rect=53600:81320:53920:81640
+  Wire net=vin1 layer=metal2 rect=53340:81320:54180:81640
+  Wire net=vin1 layer=metal3 rect=53600:81060:53920:81900
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=89880 {
+  Wire net=vin1 layer=via2 rect=53600:89720:53920:90040
+  Wire net=vin1 layer=metal2 rect=53340:89720:54180:90040
+  Wire net=vin1 layer=metal3 rect=53600:89460:53920:90300
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=105840 {
+  Wire net=vin1 layer=via2 rect=53600:105680:53920:106000
+  Wire net=vin1 layer=metal2 rect=53340:105680:54180:106000
+  Wire net=vin1 layer=metal3 rect=53600:105420:53920:106260
+}
+Obj net=vin1 gen=via2_320_320 x=53760 y=114240 {
+  Wire net=vin1 layer=via2 rect=53600:114080:53920:114400
+  Wire net=vin1 layer=metal2 rect=53340:114080:54180:114400
+  Wire net=vin1 layer=metal3 rect=53600:113820:53920:114660
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=2520 {
+  Wire net=vin1 layer=via2 rect=56960:2360:57280:2680
+  Wire net=vin1 layer=metal2 rect=56700:2360:57540:2680
+  Wire net=vin1 layer=metal3 rect=56960:2100:57280:2940
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=10920 {
+  Wire net=vin1 layer=via2 rect=56960:10760:57280:11080
+  Wire net=vin1 layer=metal2 rect=56700:10760:57540:11080
+  Wire net=vin1 layer=metal3 rect=56960:10500:57280:11340
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=19320 {
+  Wire net=vin1 layer=via2 rect=56960:19160:57280:19480
+  Wire net=vin1 layer=metal2 rect=56700:19160:57540:19480
+  Wire net=vin1 layer=metal3 rect=56960:18900:57280:19740
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=27720 {
+  Wire net=vin1 layer=via2 rect=56960:27560:57280:27880
+  Wire net=vin1 layer=metal2 rect=56700:27560:57540:27880
+  Wire net=vin1 layer=metal3 rect=56960:27300:57280:28140
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=36120 {
+  Wire net=vin1 layer=via2 rect=56960:35960:57280:36280
+  Wire net=vin1 layer=metal2 rect=56700:35960:57540:36280
+  Wire net=vin1 layer=metal3 rect=56960:35700:57280:36540
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=46200 {
+  Wire net=vin1 layer=via2 rect=56960:46040:57280:46360
+  Wire net=vin1 layer=metal2 rect=56700:46040:57540:46360
+  Wire net=vin1 layer=metal3 rect=56960:45780:57280:46620
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=54600 {
+  Wire net=vin1 layer=via2 rect=56960:54440:57280:54760
+  Wire net=vin1 layer=metal2 rect=56700:54440:57540:54760
+  Wire net=vin1 layer=metal3 rect=56960:54180:57280:55020
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=63000 {
+  Wire net=vin1 layer=via2 rect=56960:62840:57280:63160
+  Wire net=vin1 layer=metal2 rect=56700:62840:57540:63160
+  Wire net=vin1 layer=metal3 rect=56960:62580:57280:63420
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=71400 {
+  Wire net=vin1 layer=via2 rect=56960:71240:57280:71560
+  Wire net=vin1 layer=metal2 rect=56700:71240:57540:71560
+  Wire net=vin1 layer=metal3 rect=56960:70980:57280:71820
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=81480 {
+  Wire net=vin1 layer=via2 rect=56960:81320:57280:81640
+  Wire net=vin1 layer=metal2 rect=56700:81320:57540:81640
+  Wire net=vin1 layer=metal3 rect=56960:81060:57280:81900
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=89880 {
+  Wire net=vin1 layer=via2 rect=56960:89720:57280:90040
+  Wire net=vin1 layer=metal2 rect=56700:89720:57540:90040
+  Wire net=vin1 layer=metal3 rect=56960:89460:57280:90300
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=105840 {
+  Wire net=vin1 layer=via2 rect=56960:105680:57280:106000
+  Wire net=vin1 layer=metal2 rect=56700:105680:57540:106000
+  Wire net=vin1 layer=metal3 rect=56960:105420:57280:106260
+}
+Obj net=vin1 gen=via2_320_320 x=57120 y=114240 {
+  Wire net=vin1 layer=via2 rect=56960:114080:57280:114400
+  Wire net=vin1 layer=metal2 rect=56700:114080:57540:114400
+  Wire net=vin1 layer=metal3 rect=56960:113820:57280:114660
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=2520 {
+  Wire net=vin1 layer=via2 rect=84680:2360:85000:2680
+  Wire net=vin1 layer=metal2 rect=84420:2360:85260:2680
+  Wire net=vin1 layer=metal3 rect=84680:2100:85000:2940
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=10920 {
+  Wire net=vin1 layer=via2 rect=84680:10760:85000:11080
+  Wire net=vin1 layer=metal2 rect=84420:10760:85260:11080
+  Wire net=vin1 layer=metal3 rect=84680:10500:85000:11340
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=19320 {
+  Wire net=vin1 layer=via2 rect=84680:19160:85000:19480
+  Wire net=vin1 layer=metal2 rect=84420:19160:85260:19480
+  Wire net=vin1 layer=metal3 rect=84680:18900:85000:19740
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=27720 {
+  Wire net=vin1 layer=via2 rect=84680:27560:85000:27880
+  Wire net=vin1 layer=metal2 rect=84420:27560:85260:27880
+  Wire net=vin1 layer=metal3 rect=84680:27300:85000:28140
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=36120 {
+  Wire net=vin1 layer=via2 rect=84680:35960:85000:36280
+  Wire net=vin1 layer=metal2 rect=84420:35960:85260:36280
+  Wire net=vin1 layer=metal3 rect=84680:35700:85000:36540
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=46200 {
+  Wire net=vin1 layer=via2 rect=84680:46040:85000:46360
+  Wire net=vin1 layer=metal2 rect=84420:46040:85260:46360
+  Wire net=vin1 layer=metal3 rect=84680:45780:85000:46620
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=54600 {
+  Wire net=vin1 layer=via2 rect=84680:54440:85000:54760
+  Wire net=vin1 layer=metal2 rect=84420:54440:85260:54760
+  Wire net=vin1 layer=metal3 rect=84680:54180:85000:55020
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=63000 {
+  Wire net=vin1 layer=via2 rect=84680:62840:85000:63160
+  Wire net=vin1 layer=metal2 rect=84420:62840:85260:63160
+  Wire net=vin1 layer=metal3 rect=84680:62580:85000:63420
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=71400 {
+  Wire net=vin1 layer=via2 rect=84680:71240:85000:71560
+  Wire net=vin1 layer=metal2 rect=84420:71240:85260:71560
+  Wire net=vin1 layer=metal3 rect=84680:70980:85000:71820
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=81480 {
+  Wire net=vin1 layer=via2 rect=84680:81320:85000:81640
+  Wire net=vin1 layer=metal2 rect=84420:81320:85260:81640
+  Wire net=vin1 layer=metal3 rect=84680:81060:85000:81900
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=89880 {
+  Wire net=vin1 layer=via2 rect=84680:89720:85000:90040
+  Wire net=vin1 layer=metal2 rect=84420:89720:85260:90040
+  Wire net=vin1 layer=metal3 rect=84680:89460:85000:90300
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=105840 {
+  Wire net=vin1 layer=via2 rect=84680:105680:85000:106000
+  Wire net=vin1 layer=metal2 rect=84420:105680:85260:106000
+  Wire net=vin1 layer=metal3 rect=84680:105420:85000:106260
+}
+Obj net=vin1 gen=via2_320_320 x=84840 y=114240 {
+  Wire net=vin1 layer=via2 rect=84680:114080:85000:114400
+  Wire net=vin1 layer=metal2 rect=84420:114080:85260:114400
+  Wire net=vin1 layer=metal3 rect=84680:113820:85000:114660
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=2520 {
+  Wire net=vin1 layer=via2 rect=88040:2360:88360:2680
+  Wire net=vin1 layer=metal2 rect=87780:2360:88620:2680
+  Wire net=vin1 layer=metal3 rect=88040:2100:88360:2940
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=10920 {
+  Wire net=vin1 layer=via2 rect=88040:10760:88360:11080
+  Wire net=vin1 layer=metal2 rect=87780:10760:88620:11080
+  Wire net=vin1 layer=metal3 rect=88040:10500:88360:11340
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=19320 {
+  Wire net=vin1 layer=via2 rect=88040:19160:88360:19480
+  Wire net=vin1 layer=metal2 rect=87780:19160:88620:19480
+  Wire net=vin1 layer=metal3 rect=88040:18900:88360:19740
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=27720 {
+  Wire net=vin1 layer=via2 rect=88040:27560:88360:27880
+  Wire net=vin1 layer=metal2 rect=87780:27560:88620:27880
+  Wire net=vin1 layer=metal3 rect=88040:27300:88360:28140
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=36120 {
+  Wire net=vin1 layer=via2 rect=88040:35960:88360:36280
+  Wire net=vin1 layer=metal2 rect=87780:35960:88620:36280
+  Wire net=vin1 layer=metal3 rect=88040:35700:88360:36540
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=46200 {
+  Wire net=vin1 layer=via2 rect=88040:46040:88360:46360
+  Wire net=vin1 layer=metal2 rect=87780:46040:88620:46360
+  Wire net=vin1 layer=metal3 rect=88040:45780:88360:46620
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=54600 {
+  Wire net=vin1 layer=via2 rect=88040:54440:88360:54760
+  Wire net=vin1 layer=metal2 rect=87780:54440:88620:54760
+  Wire net=vin1 layer=metal3 rect=88040:54180:88360:55020
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=63000 {
+  Wire net=vin1 layer=via2 rect=88040:62840:88360:63160
+  Wire net=vin1 layer=metal2 rect=87780:62840:88620:63160
+  Wire net=vin1 layer=metal3 rect=88040:62580:88360:63420
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=71400 {
+  Wire net=vin1 layer=via2 rect=88040:71240:88360:71560
+  Wire net=vin1 layer=metal2 rect=87780:71240:88620:71560
+  Wire net=vin1 layer=metal3 rect=88040:70980:88360:71820
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=81480 {
+  Wire net=vin1 layer=via2 rect=88040:81320:88360:81640
+  Wire net=vin1 layer=metal2 rect=87780:81320:88620:81640
+  Wire net=vin1 layer=metal3 rect=88040:81060:88360:81900
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=89880 {
+  Wire net=vin1 layer=via2 rect=88040:89720:88360:90040
+  Wire net=vin1 layer=metal2 rect=87780:89720:88620:90040
+  Wire net=vin1 layer=metal3 rect=88040:89460:88360:90300
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=105840 {
+  Wire net=vin1 layer=via2 rect=88040:105680:88360:106000
+  Wire net=vin1 layer=metal2 rect=87780:105680:88620:106000
+  Wire net=vin1 layer=metal3 rect=88040:105420:88360:106260
+}
+Obj net=vin1 gen=via2_320_320 x=88200 y=114240 {
+  Wire net=vin1 layer=via2 rect=88040:114080:88360:114400
+  Wire net=vin1 layer=metal2 rect=87780:114080:88620:114400
+  Wire net=vin1 layer=metal3 rect=88040:113820:88360:114660
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=2520 {
+  Wire net=vin1 layer=via2 rect=91400:2360:91720:2680
+  Wire net=vin1 layer=metal2 rect=91140:2360:91980:2680
+  Wire net=vin1 layer=metal3 rect=91400:2100:91720:2940
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=10920 {
+  Wire net=vin1 layer=via2 rect=91400:10760:91720:11080
+  Wire net=vin1 layer=metal2 rect=91140:10760:91980:11080
+  Wire net=vin1 layer=metal3 rect=91400:10500:91720:11340
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=19320 {
+  Wire net=vin1 layer=via2 rect=91400:19160:91720:19480
+  Wire net=vin1 layer=metal2 rect=91140:19160:91980:19480
+  Wire net=vin1 layer=metal3 rect=91400:18900:91720:19740
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=27720 {
+  Wire net=vin1 layer=via2 rect=91400:27560:91720:27880
+  Wire net=vin1 layer=metal2 rect=91140:27560:91980:27880
+  Wire net=vin1 layer=metal3 rect=91400:27300:91720:28140
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=36120 {
+  Wire net=vin1 layer=via2 rect=91400:35960:91720:36280
+  Wire net=vin1 layer=metal2 rect=91140:35960:91980:36280
+  Wire net=vin1 layer=metal3 rect=91400:35700:91720:36540
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=46200 {
+  Wire net=vin1 layer=via2 rect=91400:46040:91720:46360
+  Wire net=vin1 layer=metal2 rect=91140:46040:91980:46360
+  Wire net=vin1 layer=metal3 rect=91400:45780:91720:46620
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=54600 {
+  Wire net=vin1 layer=via2 rect=91400:54440:91720:54760
+  Wire net=vin1 layer=metal2 rect=91140:54440:91980:54760
+  Wire net=vin1 layer=metal3 rect=91400:54180:91720:55020
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=63000 {
+  Wire net=vin1 layer=via2 rect=91400:62840:91720:63160
+  Wire net=vin1 layer=metal2 rect=91140:62840:91980:63160
+  Wire net=vin1 layer=metal3 rect=91400:62580:91720:63420
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=71400 {
+  Wire net=vin1 layer=via2 rect=91400:71240:91720:71560
+  Wire net=vin1 layer=metal2 rect=91140:71240:91980:71560
+  Wire net=vin1 layer=metal3 rect=91400:70980:91720:71820
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=81480 {
+  Wire net=vin1 layer=via2 rect=91400:81320:91720:81640
+  Wire net=vin1 layer=metal2 rect=91140:81320:91980:81640
+  Wire net=vin1 layer=metal3 rect=91400:81060:91720:81900
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=89880 {
+  Wire net=vin1 layer=via2 rect=91400:89720:91720:90040
+  Wire net=vin1 layer=metal2 rect=91140:89720:91980:90040
+  Wire net=vin1 layer=metal3 rect=91400:89460:91720:90300
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=105840 {
+  Wire net=vin1 layer=via2 rect=91400:105680:91720:106000
+  Wire net=vin1 layer=metal2 rect=91140:105680:91980:106000
+  Wire net=vin1 layer=metal3 rect=91400:105420:91720:106260
+}
+Obj net=vin1 gen=via2_320_320 x=91560 y=114240 {
+  Wire net=vin1 layer=via2 rect=91400:114080:91720:114400
+  Wire net=vin1 layer=metal2 rect=91140:114080:91980:114400
+  Wire net=vin1 layer=metal3 rect=91400:113820:91720:114660
+}
+Wire net=vin2 layer=metal2 rect=40760:103160:100680:103480 gid=156
+Wire net=vin2 layer=metal2 rect=40760:111560:100680:111880 gid=155
+Wire net=vin2 layer=metal2 rect=40760:92240:100680:92560 gid=154
+Wire net=vin2 layer=metal2 rect=40760:83840:100680:84160 gid=153
+Wire net=vin2 layer=metal2 rect=21560:38480:119880:38800 gid=152
+Wire net=vin2 layer=metal2 rect=21560:30080:119880:30400 gid=151
+Wire net=vin2 layer=metal2 rect=21560:21680:119880:22000 gid=150
+Wire net=vin2 layer=metal2 rect=21560:13280:119880:13600 gid=149
+Wire net=vin2 layer=metal2 rect=21560:4880:119880:5200 gid=148
+Wire net=vin2 layer=metal2 rect=40760:73760:100680:74080 gid=147
+Wire net=vin2 layer=metal2 rect=40760:65360:100680:65680 gid=146
+Wire net=vin2 layer=metal2 rect=40760:56960:100680:57280 gid=145
+Wire net=vin2 layer=metal2 rect=40760:48560:100680:48880 gid=144
+Wire net=vin2 layer=metal3 rect=89720:4620:90040:112140
+Wire net=vin2 layer=metal3 rect=90560:4620:90880:112140
+Wire net=vin2 layer=metal3 rect=54440:4620:54760:112140
+Wire net=vin2 layer=metal3 rect=55280:4620:55600:112140
+Wire net=vin2 layer=metal3 rect=56120:4620:56440:112140
+Wire net=vin2 layer=metal3 rect=87200:4620:87520:112140
+Obj net=vin2 gen=via2_320_320 x=54600 y=5040 {
+  Wire net=vin2 layer=via2 rect=54440:4880:54760:5200
+  Wire net=vin2 layer=metal2 rect=54180:4880:55020:5200
+  Wire net=vin2 layer=metal3 rect=54440:4620:54760:5460
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=13440 {
+  Wire net=vin2 layer=via2 rect=54440:13280:54760:13600
+  Wire net=vin2 layer=metal2 rect=54180:13280:55020:13600
+  Wire net=vin2 layer=metal3 rect=54440:13020:54760:13860
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=21840 {
+  Wire net=vin2 layer=via2 rect=54440:21680:54760:22000
+  Wire net=vin2 layer=metal2 rect=54180:21680:55020:22000
+  Wire net=vin2 layer=metal3 rect=54440:21420:54760:22260
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=30240 {
+  Wire net=vin2 layer=via2 rect=54440:30080:54760:30400
+  Wire net=vin2 layer=metal2 rect=54180:30080:55020:30400
+  Wire net=vin2 layer=metal3 rect=54440:29820:54760:30660
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=38640 {
+  Wire net=vin2 layer=via2 rect=54440:38480:54760:38800
+  Wire net=vin2 layer=metal2 rect=54180:38480:55020:38800
+  Wire net=vin2 layer=metal3 rect=54440:38220:54760:39060
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=48720 {
+  Wire net=vin2 layer=via2 rect=54440:48560:54760:48880
+  Wire net=vin2 layer=metal2 rect=54180:48560:55020:48880
+  Wire net=vin2 layer=metal3 rect=54440:48300:54760:49140
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=57120 {
+  Wire net=vin2 layer=via2 rect=54440:56960:54760:57280
+  Wire net=vin2 layer=metal2 rect=54180:56960:55020:57280
+  Wire net=vin2 layer=metal3 rect=54440:56700:54760:57540
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=65520 {
+  Wire net=vin2 layer=via2 rect=54440:65360:54760:65680
+  Wire net=vin2 layer=metal2 rect=54180:65360:55020:65680
+  Wire net=vin2 layer=metal3 rect=54440:65100:54760:65940
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=73920 {
+  Wire net=vin2 layer=via2 rect=54440:73760:54760:74080
+  Wire net=vin2 layer=metal2 rect=54180:73760:55020:74080
+  Wire net=vin2 layer=metal3 rect=54440:73500:54760:74340
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=84000 {
+  Wire net=vin2 layer=via2 rect=54440:83840:54760:84160
+  Wire net=vin2 layer=metal2 rect=54180:83840:55020:84160
+  Wire net=vin2 layer=metal3 rect=54440:83580:54760:84420
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=92400 {
+  Wire net=vin2 layer=via2 rect=54440:92240:54760:92560
+  Wire net=vin2 layer=metal2 rect=54180:92240:55020:92560
+  Wire net=vin2 layer=metal3 rect=54440:91980:54760:92820
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=103320 {
+  Wire net=vin2 layer=via2 rect=54440:103160:54760:103480
+  Wire net=vin2 layer=metal2 rect=54180:103160:55020:103480
+  Wire net=vin2 layer=metal3 rect=54440:102900:54760:103740
+}
+Obj net=vin2 gen=via2_320_320 x=54600 y=111720 {
+  Wire net=vin2 layer=via2 rect=54440:111560:54760:111880
+  Wire net=vin2 layer=metal2 rect=54180:111560:55020:111880
+  Wire net=vin2 layer=metal3 rect=54440:111300:54760:112140
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=5040 {
+  Wire net=vin2 layer=via2 rect=55280:4880:55600:5200
+  Wire net=vin2 layer=metal2 rect=55020:4880:55860:5200
+  Wire net=vin2 layer=metal3 rect=55280:4620:55600:5460
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=13440 {
+  Wire net=vin2 layer=via2 rect=55280:13280:55600:13600
+  Wire net=vin2 layer=metal2 rect=55020:13280:55860:13600
+  Wire net=vin2 layer=metal3 rect=55280:13020:55600:13860
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=21840 {
+  Wire net=vin2 layer=via2 rect=55280:21680:55600:22000
+  Wire net=vin2 layer=metal2 rect=55020:21680:55860:22000
+  Wire net=vin2 layer=metal3 rect=55280:21420:55600:22260
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=30240 {
+  Wire net=vin2 layer=via2 rect=55280:30080:55600:30400
+  Wire net=vin2 layer=metal2 rect=55020:30080:55860:30400
+  Wire net=vin2 layer=metal3 rect=55280:29820:55600:30660
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=38640 {
+  Wire net=vin2 layer=via2 rect=55280:38480:55600:38800
+  Wire net=vin2 layer=metal2 rect=55020:38480:55860:38800
+  Wire net=vin2 layer=metal3 rect=55280:38220:55600:39060
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=48720 {
+  Wire net=vin2 layer=via2 rect=55280:48560:55600:48880
+  Wire net=vin2 layer=metal2 rect=55020:48560:55860:48880
+  Wire net=vin2 layer=metal3 rect=55280:48300:55600:49140
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=57120 {
+  Wire net=vin2 layer=via2 rect=55280:56960:55600:57280
+  Wire net=vin2 layer=metal2 rect=55020:56960:55860:57280
+  Wire net=vin2 layer=metal3 rect=55280:56700:55600:57540
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=65520 {
+  Wire net=vin2 layer=via2 rect=55280:65360:55600:65680
+  Wire net=vin2 layer=metal2 rect=55020:65360:55860:65680
+  Wire net=vin2 layer=metal3 rect=55280:65100:55600:65940
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=73920 {
+  Wire net=vin2 layer=via2 rect=55280:73760:55600:74080
+  Wire net=vin2 layer=metal2 rect=55020:73760:55860:74080
+  Wire net=vin2 layer=metal3 rect=55280:73500:55600:74340
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=84000 {
+  Wire net=vin2 layer=via2 rect=55280:83840:55600:84160
+  Wire net=vin2 layer=metal2 rect=55020:83840:55860:84160
+  Wire net=vin2 layer=metal3 rect=55280:83580:55600:84420
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=92400 {
+  Wire net=vin2 layer=via2 rect=55280:92240:55600:92560
+  Wire net=vin2 layer=metal2 rect=55020:92240:55860:92560
+  Wire net=vin2 layer=metal3 rect=55280:91980:55600:92820
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=103320 {
+  Wire net=vin2 layer=via2 rect=55280:103160:55600:103480
+  Wire net=vin2 layer=metal2 rect=55020:103160:55860:103480
+  Wire net=vin2 layer=metal3 rect=55280:102900:55600:103740
+}
+Obj net=vin2 gen=via2_320_320 x=55440 y=111720 {
+  Wire net=vin2 layer=via2 rect=55280:111560:55600:111880
+  Wire net=vin2 layer=metal2 rect=55020:111560:55860:111880
+  Wire net=vin2 layer=metal3 rect=55280:111300:55600:112140
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=5040 {
+  Wire net=vin2 layer=via2 rect=56120:4880:56440:5200
+  Wire net=vin2 layer=metal2 rect=55860:4880:56700:5200
+  Wire net=vin2 layer=metal3 rect=56120:4620:56440:5460
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=13440 {
+  Wire net=vin2 layer=via2 rect=56120:13280:56440:13600
+  Wire net=vin2 layer=metal2 rect=55860:13280:56700:13600
+  Wire net=vin2 layer=metal3 rect=56120:13020:56440:13860
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=21840 {
+  Wire net=vin2 layer=via2 rect=56120:21680:56440:22000
+  Wire net=vin2 layer=metal2 rect=55860:21680:56700:22000
+  Wire net=vin2 layer=metal3 rect=56120:21420:56440:22260
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=30240 {
+  Wire net=vin2 layer=via2 rect=56120:30080:56440:30400
+  Wire net=vin2 layer=metal2 rect=55860:30080:56700:30400
+  Wire net=vin2 layer=metal3 rect=56120:29820:56440:30660
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=38640 {
+  Wire net=vin2 layer=via2 rect=56120:38480:56440:38800
+  Wire net=vin2 layer=metal2 rect=55860:38480:56700:38800
+  Wire net=vin2 layer=metal3 rect=56120:38220:56440:39060
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=48720 {
+  Wire net=vin2 layer=via2 rect=56120:48560:56440:48880
+  Wire net=vin2 layer=metal2 rect=55860:48560:56700:48880
+  Wire net=vin2 layer=metal3 rect=56120:48300:56440:49140
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=57120 {
+  Wire net=vin2 layer=via2 rect=56120:56960:56440:57280
+  Wire net=vin2 layer=metal2 rect=55860:56960:56700:57280
+  Wire net=vin2 layer=metal3 rect=56120:56700:56440:57540
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=65520 {
+  Wire net=vin2 layer=via2 rect=56120:65360:56440:65680
+  Wire net=vin2 layer=metal2 rect=55860:65360:56700:65680
+  Wire net=vin2 layer=metal3 rect=56120:65100:56440:65940
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=73920 {
+  Wire net=vin2 layer=via2 rect=56120:73760:56440:74080
+  Wire net=vin2 layer=metal2 rect=55860:73760:56700:74080
+  Wire net=vin2 layer=metal3 rect=56120:73500:56440:74340
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=84000 {
+  Wire net=vin2 layer=via2 rect=56120:83840:56440:84160
+  Wire net=vin2 layer=metal2 rect=55860:83840:56700:84160
+  Wire net=vin2 layer=metal3 rect=56120:83580:56440:84420
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=92400 {
+  Wire net=vin2 layer=via2 rect=56120:92240:56440:92560
+  Wire net=vin2 layer=metal2 rect=55860:92240:56700:92560
+  Wire net=vin2 layer=metal3 rect=56120:91980:56440:92820
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=103320 {
+  Wire net=vin2 layer=via2 rect=56120:103160:56440:103480
+  Wire net=vin2 layer=metal2 rect=55860:103160:56700:103480
+  Wire net=vin2 layer=metal3 rect=56120:102900:56440:103740
+}
+Obj net=vin2 gen=via2_320_320 x=56280 y=111720 {
+  Wire net=vin2 layer=via2 rect=56120:111560:56440:111880
+  Wire net=vin2 layer=metal2 rect=55860:111560:56700:111880
+  Wire net=vin2 layer=metal3 rect=56120:111300:56440:112140
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=5040 {
+  Wire net=vin2 layer=via2 rect=87200:4880:87520:5200
+  Wire net=vin2 layer=metal2 rect=86940:4880:87780:5200
+  Wire net=vin2 layer=metal3 rect=87200:4620:87520:5460
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=13440 {
+  Wire net=vin2 layer=via2 rect=87200:13280:87520:13600
+  Wire net=vin2 layer=metal2 rect=86940:13280:87780:13600
+  Wire net=vin2 layer=metal3 rect=87200:13020:87520:13860
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=21840 {
+  Wire net=vin2 layer=via2 rect=87200:21680:87520:22000
+  Wire net=vin2 layer=metal2 rect=86940:21680:87780:22000
+  Wire net=vin2 layer=metal3 rect=87200:21420:87520:22260
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=30240 {
+  Wire net=vin2 layer=via2 rect=87200:30080:87520:30400
+  Wire net=vin2 layer=metal2 rect=86940:30080:87780:30400
+  Wire net=vin2 layer=metal3 rect=87200:29820:87520:30660
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=38640 {
+  Wire net=vin2 layer=via2 rect=87200:38480:87520:38800
+  Wire net=vin2 layer=metal2 rect=86940:38480:87780:38800
+  Wire net=vin2 layer=metal3 rect=87200:38220:87520:39060
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=48720 {
+  Wire net=vin2 layer=via2 rect=87200:48560:87520:48880
+  Wire net=vin2 layer=metal2 rect=86940:48560:87780:48880
+  Wire net=vin2 layer=metal3 rect=87200:48300:87520:49140
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=57120 {
+  Wire net=vin2 layer=via2 rect=87200:56960:87520:57280
+  Wire net=vin2 layer=metal2 rect=86940:56960:87780:57280
+  Wire net=vin2 layer=metal3 rect=87200:56700:87520:57540
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=65520 {
+  Wire net=vin2 layer=via2 rect=87200:65360:87520:65680
+  Wire net=vin2 layer=metal2 rect=86940:65360:87780:65680
+  Wire net=vin2 layer=metal3 rect=87200:65100:87520:65940
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=73920 {
+  Wire net=vin2 layer=via2 rect=87200:73760:87520:74080
+  Wire net=vin2 layer=metal2 rect=86940:73760:87780:74080
+  Wire net=vin2 layer=metal3 rect=87200:73500:87520:74340
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=84000 {
+  Wire net=vin2 layer=via2 rect=87200:83840:87520:84160
+  Wire net=vin2 layer=metal2 rect=86940:83840:87780:84160
+  Wire net=vin2 layer=metal3 rect=87200:83580:87520:84420
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=92400 {
+  Wire net=vin2 layer=via2 rect=87200:92240:87520:92560
+  Wire net=vin2 layer=metal2 rect=86940:92240:87780:92560
+  Wire net=vin2 layer=metal3 rect=87200:91980:87520:92820
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=103320 {
+  Wire net=vin2 layer=via2 rect=87200:103160:87520:103480
+  Wire net=vin2 layer=metal2 rect=86940:103160:87780:103480
+  Wire net=vin2 layer=metal3 rect=87200:102900:87520:103740
+}
+Obj net=vin2 gen=via2_320_320 x=87360 y=111720 {
+  Wire net=vin2 layer=via2 rect=87200:111560:87520:111880
+  Wire net=vin2 layer=metal2 rect=86940:111560:87780:111880
+  Wire net=vin2 layer=metal3 rect=87200:111300:87520:112140
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=5040 {
+  Wire net=vin2 layer=via2 rect=89720:4880:90040:5200
+  Wire net=vin2 layer=metal2 rect=89460:4880:90300:5200
+  Wire net=vin2 layer=metal3 rect=89720:4620:90040:5460
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=13440 {
+  Wire net=vin2 layer=via2 rect=89720:13280:90040:13600
+  Wire net=vin2 layer=metal2 rect=89460:13280:90300:13600
+  Wire net=vin2 layer=metal3 rect=89720:13020:90040:13860
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=21840 {
+  Wire net=vin2 layer=via2 rect=89720:21680:90040:22000
+  Wire net=vin2 layer=metal2 rect=89460:21680:90300:22000
+  Wire net=vin2 layer=metal3 rect=89720:21420:90040:22260
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=30240 {
+  Wire net=vin2 layer=via2 rect=89720:30080:90040:30400
+  Wire net=vin2 layer=metal2 rect=89460:30080:90300:30400
+  Wire net=vin2 layer=metal3 rect=89720:29820:90040:30660
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=38640 {
+  Wire net=vin2 layer=via2 rect=89720:38480:90040:38800
+  Wire net=vin2 layer=metal2 rect=89460:38480:90300:38800
+  Wire net=vin2 layer=metal3 rect=89720:38220:90040:39060
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=48720 {
+  Wire net=vin2 layer=via2 rect=89720:48560:90040:48880
+  Wire net=vin2 layer=metal2 rect=89460:48560:90300:48880
+  Wire net=vin2 layer=metal3 rect=89720:48300:90040:49140
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=57120 {
+  Wire net=vin2 layer=via2 rect=89720:56960:90040:57280
+  Wire net=vin2 layer=metal2 rect=89460:56960:90300:57280
+  Wire net=vin2 layer=metal3 rect=89720:56700:90040:57540
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=65520 {
+  Wire net=vin2 layer=via2 rect=89720:65360:90040:65680
+  Wire net=vin2 layer=metal2 rect=89460:65360:90300:65680
+  Wire net=vin2 layer=metal3 rect=89720:65100:90040:65940
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=73920 {
+  Wire net=vin2 layer=via2 rect=89720:73760:90040:74080
+  Wire net=vin2 layer=metal2 rect=89460:73760:90300:74080
+  Wire net=vin2 layer=metal3 rect=89720:73500:90040:74340
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=84000 {
+  Wire net=vin2 layer=via2 rect=89720:83840:90040:84160
+  Wire net=vin2 layer=metal2 rect=89460:83840:90300:84160
+  Wire net=vin2 layer=metal3 rect=89720:83580:90040:84420
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=92400 {
+  Wire net=vin2 layer=via2 rect=89720:92240:90040:92560
+  Wire net=vin2 layer=metal2 rect=89460:92240:90300:92560
+  Wire net=vin2 layer=metal3 rect=89720:91980:90040:92820
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=103320 {
+  Wire net=vin2 layer=via2 rect=89720:103160:90040:103480
+  Wire net=vin2 layer=metal2 rect=89460:103160:90300:103480
+  Wire net=vin2 layer=metal3 rect=89720:102900:90040:103740
+}
+Obj net=vin2 gen=via2_320_320 x=89880 y=111720 {
+  Wire net=vin2 layer=via2 rect=89720:111560:90040:111880
+  Wire net=vin2 layer=metal2 rect=89460:111560:90300:111880
+  Wire net=vin2 layer=metal3 rect=89720:111300:90040:112140
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=5040 {
+  Wire net=vin2 layer=via2 rect=90560:4880:90880:5200
+  Wire net=vin2 layer=metal2 rect=90300:4880:91140:5200
+  Wire net=vin2 layer=metal3 rect=90560:4620:90880:5460
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=13440 {
+  Wire net=vin2 layer=via2 rect=90560:13280:90880:13600
+  Wire net=vin2 layer=metal2 rect=90300:13280:91140:13600
+  Wire net=vin2 layer=metal3 rect=90560:13020:90880:13860
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=21840 {
+  Wire net=vin2 layer=via2 rect=90560:21680:90880:22000
+  Wire net=vin2 layer=metal2 rect=90300:21680:91140:22000
+  Wire net=vin2 layer=metal3 rect=90560:21420:90880:22260
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=30240 {
+  Wire net=vin2 layer=via2 rect=90560:30080:90880:30400
+  Wire net=vin2 layer=metal2 rect=90300:30080:91140:30400
+  Wire net=vin2 layer=metal3 rect=90560:29820:90880:30660
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=38640 {
+  Wire net=vin2 layer=via2 rect=90560:38480:90880:38800
+  Wire net=vin2 layer=metal2 rect=90300:38480:91140:38800
+  Wire net=vin2 layer=metal3 rect=90560:38220:90880:39060
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=48720 {
+  Wire net=vin2 layer=via2 rect=90560:48560:90880:48880
+  Wire net=vin2 layer=metal2 rect=90300:48560:91140:48880
+  Wire net=vin2 layer=metal3 rect=90560:48300:90880:49140
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=57120 {
+  Wire net=vin2 layer=via2 rect=90560:56960:90880:57280
+  Wire net=vin2 layer=metal2 rect=90300:56960:91140:57280
+  Wire net=vin2 layer=metal3 rect=90560:56700:90880:57540
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=65520 {
+  Wire net=vin2 layer=via2 rect=90560:65360:90880:65680
+  Wire net=vin2 layer=metal2 rect=90300:65360:91140:65680
+  Wire net=vin2 layer=metal3 rect=90560:65100:90880:65940
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=73920 {
+  Wire net=vin2 layer=via2 rect=90560:73760:90880:74080
+  Wire net=vin2 layer=metal2 rect=90300:73760:91140:74080
+  Wire net=vin2 layer=metal3 rect=90560:73500:90880:74340
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=84000 {
+  Wire net=vin2 layer=via2 rect=90560:83840:90880:84160
+  Wire net=vin2 layer=metal2 rect=90300:83840:91140:84160
+  Wire net=vin2 layer=metal3 rect=90560:83580:90880:84420
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=92400 {
+  Wire net=vin2 layer=via2 rect=90560:92240:90880:92560
+  Wire net=vin2 layer=metal2 rect=90300:92240:91140:92560
+  Wire net=vin2 layer=metal3 rect=90560:91980:90880:92820
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=103320 {
+  Wire net=vin2 layer=via2 rect=90560:103160:90880:103480
+  Wire net=vin2 layer=metal2 rect=90300:103160:91140:103480
+  Wire net=vin2 layer=metal3 rect=90560:102900:90880:103740
+}
+Obj net=vin2 gen=via2_320_320 x=90720 y=111720 {
+  Wire net=vin2 layer=via2 rect=90560:111560:90880:111880
+  Wire net=vin2 layer=metal2 rect=90300:111560:91140:111880
+  Wire net=vin2 layer=metal3 rect=90560:111300:90880:112140
+}
+Wire net=vmirror layer=metal2 rect=40760:122480:100680:122800 gid=120
+Wire net=vmirror layer=metal2 rect=40760:130880:100680:131200 gid=119
+Wire net=vmirror layer=metal2 rect=40760:139280:100680:139600 gid=118
+Wire net=vmirror layer=metal2 rect=40760:147680:100680:148000 gid=117
+Wire net=vmirror layer=metal2 rect=40760:156080:100680:156400 gid=116
+Wire net=vmirror layer=metal2 rect=40760:164480:100680:164800 gid=115
+Wire net=vmirror layer=metal2 rect=40760:172880:100680:173200 gid=114
+Wire net=vmirror layer=metal2 rect=40760:181280:100680:181600 gid=113
+Wire net=vmirror layer=metal3 rect=75440:122220:75760:181860
+Obj net=vmirror gen=via2_320_320 x=75600 y=122640 {
+  Wire net=vmirror layer=via2 rect=75440:122480:75760:122800
+  Wire net=vmirror layer=metal2 rect=75180:122480:76020:122800
+  Wire net=vmirror layer=metal3 rect=75440:122220:75760:123060
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=131040 {
+  Wire net=vmirror layer=via2 rect=75440:130880:75760:131200
+  Wire net=vmirror layer=metal2 rect=75180:130880:76020:131200
+  Wire net=vmirror layer=metal3 rect=75440:130620:75760:131460
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=139440 {
+  Wire net=vmirror layer=via2 rect=75440:139280:75760:139600
+  Wire net=vmirror layer=metal2 rect=75180:139280:76020:139600
+  Wire net=vmirror layer=metal3 rect=75440:139020:75760:139860
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=147840 {
+  Wire net=vmirror layer=via2 rect=75440:147680:75760:148000
+  Wire net=vmirror layer=metal2 rect=75180:147680:76020:148000
+  Wire net=vmirror layer=metal3 rect=75440:147420:75760:148260
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=156240 {
+  Wire net=vmirror layer=via2 rect=75440:156080:75760:156400
+  Wire net=vmirror layer=metal2 rect=75180:156080:76020:156400
+  Wire net=vmirror layer=metal3 rect=75440:155820:75760:156660
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=164640 {
+  Wire net=vmirror layer=via2 rect=75440:164480:75760:164800
+  Wire net=vmirror layer=metal2 rect=75180:164480:76020:164800
+  Wire net=vmirror layer=metal3 rect=75440:164220:75760:165060
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=173040 {
+  Wire net=vmirror layer=via2 rect=75440:172880:75760:173200
+  Wire net=vmirror layer=metal2 rect=75180:172880:76020:173200
+  Wire net=vmirror layer=metal3 rect=75440:172620:75760:173460
+}
+Obj net=vmirror gen=via2_320_320 x=75600 y=181440 {
+  Wire net=vmirror layer=via2 rect=75440:181280:75760:181600
+  Wire net=vmirror layer=metal2 rect=75180:181280:76020:181600
+  Wire net=vmirror layer=metal3 rect=75440:181020:75760:181860
+}
+Wire net=vps layer=metal2 rect=134820:107360:137340:107680 gid=111
+Wire net=vps layer=metal2 rect=2940:107360:5460:107680 gid=112
+Wire net=vps layer=metal3 rect=4040:100380:4360:107940
+Wire net=vps layer=metal3 rect=135920:100380:136240:107940
+Wire net=vps layer=metal4 rect=3780:100640:136500:100960
+Wire net=vps layer=metal4 rect=3780:102320:136500:102640
+Wire net=vps layer=metal4 rect=3780:101480:136500:101800
+Obj net=vps gen=via2_320_320 x=4200 y=107520 {
+  Wire net=vps layer=via2 rect=4040:107360:4360:107680
+  Wire net=vps layer=metal2 rect=3780:107360:4620:107680
+  Wire net=vps layer=metal3 rect=4040:107100:4360:107940
+}
+Obj net=vps gen=via2_320_320 x=136080 y=107520 {
+  Wire net=vps layer=via2 rect=135920:107360:136240:107680
+  Wire net=vps layer=metal2 rect=135660:107360:136500:107680
+  Wire net=vps layer=metal3 rect=135920:107100:136240:107940
+}
+Obj net=vps gen=via3_320_320 x=4200 y=100800 {
+  Wire net=vps layer=via3 rect=4040:100640:4360:100960
+  Wire net=vps layer=metal3 rect=4040:100380:4360:101220
+  Wire net=vps layer=metal4 rect=3780:100640:4620:100960
+}
+Obj net=vps gen=via3_320_320 x=4200 y=101640 {
+  Wire net=vps layer=via3 rect=4040:101480:4360:101800
+  Wire net=vps layer=metal3 rect=4040:101220:4360:102060
+  Wire net=vps layer=metal4 rect=3780:101480:4620:101800
+}
+Obj net=vps gen=via3_320_320 x=4200 y=102480 {
+  Wire net=vps layer=via3 rect=4040:102320:4360:102640
+  Wire net=vps layer=metal3 rect=4040:102060:4360:102900
+  Wire net=vps layer=metal4 rect=3780:102320:4620:102640
+}
+Obj net=vps gen=via3_320_320 x=136080 y=100800 {
+  Wire net=vps layer=via3 rect=135920:100640:136240:100960
+  Wire net=vps layer=metal3 rect=135920:100380:136240:101220
+  Wire net=vps layer=metal4 rect=135660:100640:136500:100960
+}
+Obj net=vps gen=via3_320_320 x=136080 y=101640 {
+  Wire net=vps layer=via3 rect=135920:101480:136240:101800
+  Wire net=vps layer=metal3 rect=135920:101220:136240:102060
+  Wire net=vps layer=metal4 rect=135660:101480:136500:101800
+}
+Obj net=vps gen=via3_320_320 x=136080 y=102480 {
+  Wire net=vps layer=via3 rect=135920:102320:136240:102640
+  Wire net=vps layer=metal3 rect=135920:102060:136240:102900
+  Wire net=vps layer=metal4 rect=135660:102320:136500:102640
+}
+Wire net=z layer=nwell rect=0:0:8400:8400
+Wire net=z layer=nwell rect=0:8400:8400:16800
+Wire net=z layer=nwell rect=0:16800:8400:25200
+Wire net=z layer=nwell rect=0:25200:8400:33600
+Wire net=z layer=nwell rect=0:33600:8400:42000
+Wire net=z layer=nwell rect=0:42000:8400:50400
+Wire net=z layer=nwell rect=0:50400:8400:58800
+Wire net=z layer=nwell rect=0:58800:8400:67200
+Wire net=z layer=nwell rect=0:67200:8400:75600
+Wire net=z layer=nwell rect=0:75600:8400:84000
+Wire net=z layer=nwell rect=0:84000:8400:92400
+Wire net=z layer=nwell rect=0:92400:8400:100800
+Wire net=z layer=nwell rect=0:100800:8400:109200
+Wire net=z layer=nwell rect=0:109200:8400:117600
+Wire net=z layer=nwell rect=0:117600:8400:126000
+Wire net=z layer=nwell rect=0:126000:8400:134400
+Wire net=z layer=nwell rect=0:134400:8400:142800
+Wire net=z layer=nwell rect=0:142800:8400:151200
+Wire net=z layer=nwell rect=0:151200:8400:159600
+Wire net=z layer=nwell rect=0:159600:8400:168000
+Wire net=z layer=nwell rect=0:168000:8400:176400
+Wire net=z layer=nwell rect=0:176400:8400:184800
+Wire net=z layer=nwell rect=8400:0:16800:8400
+Wire net=z layer=nwell rect=8400:8400:16800:16800
+Wire net=z layer=nwell rect=8400:16800:16800:25200
+Wire net=z layer=nwell rect=8400:25200:16800:33600
+Wire net=z layer=nwell rect=8400:33600:16800:42000
+Wire net=z layer=nwell rect=8400:42000:16800:50400
+Wire net=z layer=nwell rect=8400:50400:16800:58800
+Wire net=z layer=nwell rect=8400:58800:16800:67200
+Wire net=z layer=nwell rect=8400:67200:16800:75600
+Wire net=z layer=nwell rect=8400:75600:16800:84000
+Wire net=z layer=nwell rect=8400:84000:16800:92400
+Wire net=z layer=nwell rect=8400:92400:16800:100800
+Wire net=z layer=nwell rect=8400:100800:16800:109200
+Wire net=z layer=nwell rect=8400:109200:16800:117600
+Wire net=z layer=nwell rect=8400:117600:16800:126000
+Wire net=z layer=nwell rect=8400:126000:16800:134400
+Wire net=z layer=nwell rect=8400:134400:16800:142800
+Wire net=z layer=nwell rect=8400:142800:16800:151200
+Wire net=z layer=nwell rect=8400:151200:16800:159600
+Wire net=z layer=nwell rect=8400:159600:16800:168000
+Wire net=z layer=nwell rect=8400:168000:16800:176400
+Wire net=z layer=nwell rect=8400:176400:16800:184800
+Wire net=z layer=nwell rect=16800:0:25200:8400
+Wire net=z layer=nwell rect=16800:8400:25200:16800
+Wire net=z layer=nwell rect=16800:16800:25200:25200
+Wire net=z layer=nwell rect=16800:25200:25200:33600
+Wire net=z layer=nwell rect=16800:33600:25200:42000
+Wire net=z layer=nwell rect=16800:42000:25200:50400
+Wire net=z layer=nwell rect=16800:50400:25200:58800
+Wire net=z layer=nwell rect=16800:58800:25200:67200
+Wire net=z layer=nwell rect=16800:67200:25200:75600
+Wire net=z layer=nwell rect=16800:75600:25200:84000
+Wire net=z layer=nwell rect=16800:84000:25200:92400
+Wire net=z layer=nwell rect=16800:92400:25200:100800
+Wire net=z layer=nwell rect=16800:100800:25200:109200
+Wire net=z layer=nwell rect=16800:109200:25200:117600
+Wire net=z layer=nwell rect=16800:117600:25200:126000
+Wire net=z layer=nwell rect=16800:126000:25200:134400
+Wire net=z layer=nwell rect=16800:134400:25200:142800
+Wire net=z layer=nwell rect=16800:142800:25200:151200
+Wire net=z layer=nwell rect=16800:151200:25200:159600
+Wire net=z layer=nwell rect=16800:159600:25200:168000
+Wire net=z layer=nwell rect=16800:168000:25200:176400
+Wire net=z layer=nwell rect=16800:176400:25200:184800
+Wire net=z layer=nwell rect=25200:0:33600:8400
+Wire net=z layer=nwell rect=25200:8400:33600:16800
+Wire net=z layer=nwell rect=25200:16800:33600:25200
+Wire net=z layer=nwell rect=25200:25200:33600:33600
+Wire net=z layer=nwell rect=25200:33600:33600:42000
+Wire net=z layer=nwell rect=25200:42000:33600:50400
+Wire net=z layer=nwell rect=25200:50400:33600:58800
+Wire net=z layer=nwell rect=25200:58800:33600:67200
+Wire net=z layer=nwell rect=25200:67200:33600:75600
+Wire net=z layer=nwell rect=25200:75600:33600:84000
+Wire net=z layer=nwell rect=25200:84000:33600:92400
+Wire net=z layer=nwell rect=25200:92400:33600:100800
+Wire net=z layer=nwell rect=25200:100800:33600:109200
+Wire net=z layer=nwell rect=25200:109200:33600:117600
+Wire net=z layer=nwell rect=25200:117600:33600:126000
+Wire net=z layer=nwell rect=25200:126000:33600:134400
+Wire net=z layer=nwell rect=25200:134400:33600:142800
+Wire net=z layer=nwell rect=25200:142800:33600:151200
+Wire net=z layer=nwell rect=25200:151200:33600:159600
+Wire net=z layer=nwell rect=25200:159600:33600:168000
+Wire net=z layer=nwell rect=25200:168000:33600:176400
+Wire net=z layer=nwell rect=25200:176400:33600:184800
+Wire net=z layer=nwell rect=33600:0:42000:8400
+Wire net=z layer=nwell rect=33600:8400:42000:16800
+Wire net=z layer=nwell rect=33600:16800:42000:25200
+Wire net=z layer=nwell rect=33600:25200:42000:33600
+Wire net=z layer=nwell rect=33600:33600:42000:42000
+Wire net=z layer=nwell rect=33600:42000:42000:50400
+Wire net=z layer=nwell rect=33600:50400:42000:58800
+Wire net=z layer=nwell rect=33600:58800:42000:67200
+Wire net=z layer=nwell rect=33600:67200:42000:75600
+Wire net=z layer=nwell rect=33600:75600:42000:84000
+Wire net=z layer=nwell rect=33600:84000:42000:92400
+Wire net=z layer=nwell rect=33600:92400:42000:100800
+Wire net=z layer=nwell rect=33600:100800:42000:109200
+Wire net=z layer=nwell rect=33600:109200:42000:117600
+Wire net=z layer=nwell rect=33600:117600:42000:126000
+Wire net=z layer=nwell rect=33600:126000:42000:134400
+Wire net=z layer=nwell rect=33600:134400:42000:142800
+Wire net=z layer=nwell rect=33600:142800:42000:151200
+Wire net=z layer=nwell rect=33600:151200:42000:159600
+Wire net=z layer=nwell rect=33600:159600:42000:168000
+Wire net=z layer=nwell rect=33600:168000:42000:176400
+Wire net=z layer=nwell rect=33600:176400:42000:184800
+Wire net=z layer=nwell rect=42000:0:50400:8400
+Wire net=z layer=nwell rect=42000:8400:50400:16800
+Wire net=z layer=nwell rect=42000:16800:50400:25200
+Wire net=z layer=nwell rect=42000:25200:50400:33600
+Wire net=z layer=nwell rect=42000:33600:50400:42000
+Wire net=z layer=nwell rect=42000:42000:50400:50400
+Wire net=z layer=nwell rect=42000:50400:50400:58800
+Wire net=z layer=nwell rect=42000:58800:50400:67200
+Wire net=z layer=nwell rect=42000:67200:50400:75600
+Wire net=z layer=nwell rect=42000:75600:50400:84000
+Wire net=z layer=nwell rect=42000:84000:50400:92400
+Wire net=z layer=nwell rect=42000:92400:50400:100800
+Wire net=z layer=nwell rect=42000:100800:50400:109200
+Wire net=z layer=nwell rect=42000:109200:50400:117600
+Wire net=z layer=nwell rect=42000:117600:50400:126000
+Wire net=z layer=nwell rect=42000:126000:50400:134400
+Wire net=z layer=nwell rect=42000:134400:50400:142800
+Wire net=z layer=nwell rect=42000:142800:50400:151200
+Wire net=z layer=nwell rect=42000:151200:50400:159600
+Wire net=z layer=nwell rect=42000:159600:50400:168000
+Wire net=z layer=nwell rect=42000:168000:50400:176400
+Wire net=z layer=nwell rect=42000:176400:50400:184800
+Wire net=z layer=nwell rect=50400:0:58800:8400
+Wire net=z layer=nwell rect=50400:8400:58800:16800
+Wire net=z layer=nwell rect=50400:16800:58800:25200
+Wire net=z layer=nwell rect=50400:25200:58800:33600
+Wire net=z layer=nwell rect=50400:33600:58800:42000
+Wire net=z layer=nwell rect=50400:42000:58800:50400
+Wire net=z layer=nwell rect=50400:50400:58800:58800
+Wire net=z layer=nwell rect=50400:58800:58800:67200
+Wire net=z layer=nwell rect=50400:67200:58800:75600
+Wire net=z layer=nwell rect=50400:75600:58800:84000
+Wire net=z layer=nwell rect=50400:84000:58800:92400
+Wire net=z layer=nwell rect=50400:92400:58800:100800
+Wire net=z layer=nwell rect=50400:100800:58800:109200
+Wire net=z layer=nwell rect=50400:109200:58800:117600
+Wire net=z layer=nwell rect=50400:117600:58800:126000
+Wire net=z layer=nwell rect=50400:126000:58800:134400
+Wire net=z layer=nwell rect=50400:134400:58800:142800
+Wire net=z layer=nwell rect=50400:142800:58800:151200
+Wire net=z layer=nwell rect=50400:151200:58800:159600
+Wire net=z layer=nwell rect=50400:159600:58800:168000
+Wire net=z layer=nwell rect=50400:168000:58800:176400
+Wire net=z layer=nwell rect=50400:176400:58800:184800
+Wire net=z layer=nwell rect=58800:0:67200:8400
+Wire net=z layer=nwell rect=58800:8400:67200:16800
+Wire net=z layer=nwell rect=58800:16800:67200:25200
+Wire net=z layer=nwell rect=58800:25200:67200:33600
+Wire net=z layer=nwell rect=58800:33600:67200:42000
+Wire net=z layer=nwell rect=58800:42000:67200:50400
+Wire net=z layer=nwell rect=58800:50400:67200:58800
+Wire net=z layer=nwell rect=58800:58800:67200:67200
+Wire net=z layer=nwell rect=58800:67200:67200:75600
+Wire net=z layer=nwell rect=58800:75600:67200:84000
+Wire net=z layer=nwell rect=58800:84000:67200:92400
+Wire net=z layer=nwell rect=58800:92400:67200:100800
+Wire net=z layer=nwell rect=58800:100800:67200:109200
+Wire net=z layer=nwell rect=58800:109200:67200:117600
+Wire net=z layer=nwell rect=58800:117600:67200:126000
+Wire net=z layer=nwell rect=58800:126000:67200:134400
+Wire net=z layer=nwell rect=58800:134400:67200:142800
+Wire net=z layer=nwell rect=58800:142800:67200:151200
+Wire net=z layer=nwell rect=58800:151200:67200:159600
+Wire net=z layer=nwell rect=58800:159600:67200:168000
+Wire net=z layer=nwell rect=58800:168000:67200:176400
+Wire net=z layer=nwell rect=58800:176400:67200:184800
+Wire net=z layer=nwell rect=67200:0:75600:8400
+Wire net=z layer=nwell rect=67200:8400:75600:16800
+Wire net=z layer=nwell rect=67200:16800:75600:25200
+Wire net=z layer=nwell rect=67200:25200:75600:33600
+Wire net=z layer=nwell rect=67200:33600:75600:42000
+Wire net=z layer=nwell rect=67200:42000:75600:50400
+Wire net=z layer=nwell rect=67200:50400:75600:58800
+Wire net=z layer=nwell rect=67200:58800:75600:67200
+Wire net=z layer=nwell rect=67200:67200:75600:75600
+Wire net=z layer=nwell rect=67200:75600:75600:84000
+Wire net=z layer=nwell rect=67200:84000:75600:92400
+Wire net=z layer=nwell rect=67200:92400:75600:100800
+Wire net=z layer=nwell rect=67200:100800:75600:109200
+Wire net=z layer=nwell rect=67200:109200:75600:117600
+Wire net=z layer=nwell rect=67200:117600:75600:126000
+Wire net=z layer=nwell rect=67200:126000:75600:134400
+Wire net=z layer=nwell rect=67200:134400:75600:142800
+Wire net=z layer=nwell rect=67200:142800:75600:151200
+Wire net=z layer=nwell rect=67200:151200:75600:159600
+Wire net=z layer=nwell rect=67200:159600:75600:168000
+Wire net=z layer=nwell rect=67200:168000:75600:176400
+Wire net=z layer=nwell rect=67200:176400:75600:184800
+Wire net=z layer=nwell rect=75600:0:84000:8400
+Wire net=z layer=nwell rect=75600:8400:84000:16800
+Wire net=z layer=nwell rect=75600:16800:84000:25200
+Wire net=z layer=nwell rect=75600:25200:84000:33600
+Wire net=z layer=nwell rect=75600:33600:84000:42000
+Wire net=z layer=nwell rect=75600:42000:84000:50400
+Wire net=z layer=nwell rect=75600:50400:84000:58800
+Wire net=z layer=nwell rect=75600:58800:84000:67200
+Wire net=z layer=nwell rect=75600:67200:84000:75600
+Wire net=z layer=nwell rect=75600:75600:84000:84000
+Wire net=z layer=nwell rect=75600:84000:84000:92400
+Wire net=z layer=nwell rect=75600:92400:84000:100800
+Wire net=z layer=nwell rect=75600:100800:84000:109200
+Wire net=z layer=nwell rect=75600:109200:84000:117600
+Wire net=z layer=nwell rect=75600:117600:84000:126000
+Wire net=z layer=nwell rect=75600:126000:84000:134400
+Wire net=z layer=nwell rect=75600:134400:84000:142800
+Wire net=z layer=nwell rect=75600:142800:84000:151200
+Wire net=z layer=nwell rect=75600:151200:84000:159600
+Wire net=z layer=nwell rect=75600:159600:84000:168000
+Wire net=z layer=nwell rect=75600:168000:84000:176400
+Wire net=z layer=nwell rect=75600:176400:84000:184800
+Wire net=z layer=nwell rect=84000:0:92400:8400
+Wire net=z layer=nwell rect=84000:8400:92400:16800
+Wire net=z layer=nwell rect=84000:16800:92400:25200
+Wire net=z layer=nwell rect=84000:25200:92400:33600
+Wire net=z layer=nwell rect=84000:33600:92400:42000
+Wire net=z layer=nwell rect=84000:42000:92400:50400
+Wire net=z layer=nwell rect=84000:50400:92400:58800
+Wire net=z layer=nwell rect=84000:58800:92400:67200
+Wire net=z layer=nwell rect=84000:67200:92400:75600
+Wire net=z layer=nwell rect=84000:75600:92400:84000
+Wire net=z layer=nwell rect=84000:84000:92400:92400
+Wire net=z layer=nwell rect=84000:92400:92400:100800
+Wire net=z layer=nwell rect=84000:100800:92400:109200
+Wire net=z layer=nwell rect=84000:109200:92400:117600
+Wire net=z layer=nwell rect=84000:117600:92400:126000
+Wire net=z layer=nwell rect=84000:126000:92400:134400
+Wire net=z layer=nwell rect=84000:134400:92400:142800
+Wire net=z layer=nwell rect=84000:142800:92400:151200
+Wire net=z layer=nwell rect=84000:151200:92400:159600
+Wire net=z layer=nwell rect=84000:159600:92400:168000
+Wire net=z layer=nwell rect=84000:168000:92400:176400
+Wire net=z layer=nwell rect=84000:176400:92400:184800
+Wire net=z layer=nwell rect=92400:0:100800:8400
+Wire net=z layer=nwell rect=92400:8400:100800:16800
+Wire net=z layer=nwell rect=92400:16800:100800:25200
+Wire net=z layer=nwell rect=92400:25200:100800:33600
+Wire net=z layer=nwell rect=92400:33600:100800:42000
+Wire net=z layer=nwell rect=92400:42000:100800:50400
+Wire net=z layer=nwell rect=92400:50400:100800:58800
+Wire net=z layer=nwell rect=92400:58800:100800:67200
+Wire net=z layer=nwell rect=92400:67200:100800:75600
+Wire net=z layer=nwell rect=92400:75600:100800:84000
+Wire net=z layer=nwell rect=92400:84000:100800:92400
+Wire net=z layer=nwell rect=92400:92400:100800:100800
+Wire net=z layer=nwell rect=92400:100800:100800:109200
+Wire net=z layer=nwell rect=92400:109200:100800:117600
+Wire net=z layer=nwell rect=92400:117600:100800:126000
+Wire net=z layer=nwell rect=92400:126000:100800:134400
+Wire net=z layer=nwell rect=92400:134400:100800:142800
+Wire net=z layer=nwell rect=92400:142800:100800:151200
+Wire net=z layer=nwell rect=92400:151200:100800:159600
+Wire net=z layer=nwell rect=92400:159600:100800:168000
+Wire net=z layer=nwell rect=92400:168000:100800:176400
+Wire net=z layer=nwell rect=92400:176400:100800:184800
+Wire net=z layer=nwell rect=100800:0:109200:8400
+Wire net=z layer=nwell rect=100800:8400:109200:16800
+Wire net=z layer=nwell rect=100800:16800:109200:25200
+Wire net=z layer=nwell rect=100800:25200:109200:33600
+Wire net=z layer=nwell rect=100800:33600:109200:42000
+Wire net=z layer=nwell rect=100800:42000:109200:50400
+Wire net=z layer=nwell rect=100800:50400:109200:58800
+Wire net=z layer=nwell rect=100800:58800:109200:67200
+Wire net=z layer=nwell rect=100800:67200:109200:75600
+Wire net=z layer=nwell rect=100800:75600:109200:84000
+Wire net=z layer=nwell rect=100800:84000:109200:92400
+Wire net=z layer=nwell rect=100800:92400:109200:100800
+Wire net=z layer=nwell rect=100800:100800:109200:109200
+Wire net=z layer=nwell rect=100800:109200:109200:117600
+Wire net=z layer=nwell rect=100800:117600:109200:126000
+Wire net=z layer=nwell rect=100800:126000:109200:134400
+Wire net=z layer=nwell rect=100800:134400:109200:142800
+Wire net=z layer=nwell rect=100800:142800:109200:151200
+Wire net=z layer=nwell rect=100800:151200:109200:159600
+Wire net=z layer=nwell rect=100800:159600:109200:168000
+Wire net=z layer=nwell rect=100800:168000:109200:176400
+Wire net=z layer=nwell rect=100800:176400:109200:184800
+Wire net=z layer=nwell rect=109200:0:117600:8400
+Wire net=z layer=nwell rect=109200:8400:117600:16800
+Wire net=z layer=nwell rect=109200:16800:117600:25200
+Wire net=z layer=nwell rect=109200:25200:117600:33600
+Wire net=z layer=nwell rect=109200:33600:117600:42000
+Wire net=z layer=nwell rect=109200:42000:117600:50400
+Wire net=z layer=nwell rect=109200:50400:117600:58800
+Wire net=z layer=nwell rect=109200:58800:117600:67200
+Wire net=z layer=nwell rect=109200:67200:117600:75600
+Wire net=z layer=nwell rect=109200:75600:117600:84000
+Wire net=z layer=nwell rect=109200:84000:117600:92400
+Wire net=z layer=nwell rect=109200:92400:117600:100800
+Wire net=z layer=nwell rect=109200:100800:117600:109200
+Wire net=z layer=nwell rect=109200:109200:117600:117600
+Wire net=z layer=nwell rect=109200:117600:117600:126000
+Wire net=z layer=nwell rect=109200:126000:117600:134400
+Wire net=z layer=nwell rect=109200:134400:117600:142800
+Wire net=z layer=nwell rect=109200:142800:117600:151200
+Wire net=z layer=nwell rect=109200:151200:117600:159600
+Wire net=z layer=nwell rect=109200:159600:117600:168000
+Wire net=z layer=nwell rect=109200:168000:117600:176400
+Wire net=z layer=nwell rect=109200:176400:117600:184800
+Wire net=z layer=nwell rect=117600:0:126000:8400
+Wire net=z layer=nwell rect=117600:8400:126000:16800
+Wire net=z layer=nwell rect=117600:16800:126000:25200
+Wire net=z layer=nwell rect=117600:25200:126000:33600
+Wire net=z layer=nwell rect=117600:33600:126000:42000
+Wire net=z layer=nwell rect=117600:42000:126000:50400
+Wire net=z layer=nwell rect=117600:50400:126000:58800
+Wire net=z layer=nwell rect=117600:58800:126000:67200
+Wire net=z layer=nwell rect=117600:67200:126000:75600
+Wire net=z layer=nwell rect=117600:75600:126000:84000
+Wire net=z layer=nwell rect=117600:84000:126000:92400
+Wire net=z layer=nwell rect=117600:92400:126000:100800
+Wire net=z layer=nwell rect=117600:100800:126000:109200
+Wire net=z layer=nwell rect=117600:109200:126000:117600
+Wire net=z layer=nwell rect=117600:117600:126000:126000
+Wire net=z layer=nwell rect=117600:126000:126000:134400
+Wire net=z layer=nwell rect=117600:134400:126000:142800
+Wire net=z layer=nwell rect=117600:142800:126000:151200
+Wire net=z layer=nwell rect=117600:151200:126000:159600
+Wire net=z layer=nwell rect=117600:159600:126000:168000
+Wire net=z layer=nwell rect=117600:168000:126000:176400
+Wire net=z layer=nwell rect=117600:176400:126000:184800
+Wire net=z layer=nwell rect=126000:0:134400:8400
+Wire net=z layer=nwell rect=126000:8400:134400:16800
+Wire net=z layer=nwell rect=126000:16800:134400:25200
+Wire net=z layer=nwell rect=126000:25200:134400:33600
+Wire net=z layer=nwell rect=126000:33600:134400:42000
+Wire net=z layer=nwell rect=126000:42000:134400:50400
+Wire net=z layer=nwell rect=126000:50400:134400:58800
+Wire net=z layer=nwell rect=126000:58800:134400:67200
+Wire net=z layer=nwell rect=126000:67200:134400:75600
+Wire net=z layer=nwell rect=126000:75600:134400:84000
+Wire net=z layer=nwell rect=126000:84000:134400:92400
+Wire net=z layer=nwell rect=126000:92400:134400:100800
+Wire net=z layer=nwell rect=126000:100800:134400:109200
+Wire net=z layer=nwell rect=126000:109200:134400:117600
+Wire net=z layer=nwell rect=126000:117600:134400:126000
+Wire net=z layer=nwell rect=126000:126000:134400:134400
+Wire net=z layer=nwell rect=126000:134400:134400:142800
+Wire net=z layer=nwell rect=126000:142800:134400:151200
+Wire net=z layer=nwell rect=126000:151200:134400:159600
+Wire net=z layer=nwell rect=126000:159600:134400:168000
+Wire net=z layer=nwell rect=126000:168000:134400:176400
+Wire net=z layer=nwell rect=126000:176400:134400:184800
+Wire net=z layer=nwell rect=134400:0:142800:8400
+Wire net=z layer=nwell rect=134400:8400:142800:16800
+Wire net=z layer=nwell rect=134400:16800:142800:25200
+Wire net=z layer=nwell rect=134400:25200:142800:33600
+Wire net=z layer=nwell rect=134400:33600:142800:42000
+Wire net=z layer=nwell rect=134400:42000:142800:50400
+Wire net=z layer=nwell rect=134400:50400:142800:58800
+Wire net=z layer=nwell rect=134400:58800:142800:67200
+Wire net=z layer=nwell rect=134400:67200:142800:75600
+Wire net=z layer=nwell rect=134400:75600:142800:84000
+Wire net=z layer=nwell rect=134400:84000:142800:92400
+Wire net=z layer=nwell rect=134400:92400:142800:100800
+Wire net=z layer=nwell rect=134400:100800:142800:109200
+Wire net=z layer=nwell rect=134400:109200:142800:117600
+Wire net=z layer=nwell rect=134400:117600:142800:126000
+Wire net=z layer=nwell rect=134400:126000:142800:134400
+Wire net=z layer=nwell rect=134400:134400:142800:142800
+Wire net=z layer=nwell rect=134400:142800:142800:151200
+Wire net=z layer=nwell rect=134400:151200:142800:159600
+Wire net=z layer=nwell rect=134400:159600:142800:168000
+Wire net=z layer=nwell rect=134400:168000:142800:176400
+Wire net=z layer=nwell rect=134400:176400:142800:184800
+Wire net=z layer=nwell rect=142800:0:151200:8400
+Wire net=z layer=nwell rect=142800:8400:151200:16800
+Wire net=z layer=nwell rect=142800:16800:151200:25200
+Wire net=z layer=nwell rect=142800:25200:151200:33600
+Wire net=z layer=nwell rect=142800:33600:151200:42000
+Wire net=z layer=nwell rect=142800:42000:151200:50400
+Wire net=z layer=nwell rect=142800:50400:151200:58800
+Wire net=z layer=nwell rect=142800:58800:151200:67200
+Wire net=z layer=nwell rect=142800:67200:151200:75600
+Wire net=z layer=nwell rect=142800:75600:151200:84000
+Wire net=z layer=nwell rect=142800:84000:151200:92400
+Wire net=z layer=nwell rect=142800:92400:151200:100800
+Wire net=z layer=nwell rect=142800:100800:151200:109200
+Wire net=z layer=nwell rect=142800:109200:151200:117600
+Wire net=z layer=nwell rect=142800:117600:151200:126000
+Wire net=z layer=nwell rect=142800:126000:151200:134400
+Wire net=z layer=nwell rect=142800:134400:151200:142800
+Wire net=z layer=nwell rect=142800:142800:151200:151200
+Wire net=z layer=nwell rect=142800:151200:151200:159600
+Wire net=z layer=nwell rect=142800:159600:151200:168000
+Wire net=z layer=nwell rect=142800:168000:151200:176400
+Wire net=z layer=nwell rect=142800:176400:151200:184800

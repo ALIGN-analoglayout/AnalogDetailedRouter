@@ -2,3 +2,4 @@
 *~
 bin/
 obj_optdev/
+tests/__pycache__/

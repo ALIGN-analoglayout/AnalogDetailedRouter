@@ -62,4 +62,4 @@ workflows:
             - start 
       - finish:
           requires:
-            - build
+            - build-tests

@@ -3,6 +3,13 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a134e059825f4e61875d9d105d3f2325)](https://www.codacy.com/app/ALIGN-analoglayout/AnalogDetailedRouter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ALIGN-analoglayout/AnalogDetailedRouter&amp;utm_campaign=Badge_Grade)
 
 This repository contains the Intel's Analog Detailed Router.
+This tools takes as input:
+* Abstract grid definition
+* Terminals (Connected Entities)
+* Existing wires (Pre-routes)
+* Global Routes
+and produces detailed routes like this:
+![routed result](doc/images/new_vga_adr.png)
 
 ### To build and test locally:
 ```bash

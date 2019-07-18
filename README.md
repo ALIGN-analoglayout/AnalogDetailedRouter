@@ -8,6 +8,7 @@ This tools takes as input:
 * Terminals (Connected Entities)
 * Existing wires (Pre-routes)
 * Global Routes
+
 and produces detailed routes like this:
 
 ![routed result](doc/images/new_vga_adr.png)
